@@ -1,0 +1,525 @@
+[
+  {
+    "id": 1,
+    "title": "Gartic Phone",
+    "description": "O telefone sem fio dos desenhos. Um escreve, outro desenha, e o resultado é sempre caótico e hilário. Ideal para grupos em call.",
+    "minPlayers": 4,
+    "maxPlayers": 50,
+    "url": "https://garticphone.com/",
+    "category": "drawing",
+    "pricing": "Free",
+    "safetyNote": "UGC (desenhos/texto). Prefira sala privada."
+  },
+  {
+    "id": 2,
+    "title": "Gartic.io",
+    "description": "O clássico Imagem e Ação no navegador. Salas públicas ou privadas para desenhar e adivinhar.",
+    "minPlayers": 2,
+    "maxPlayers": 10,
+    "url": "https://gartic.io/",
+    "category": "drawing",
+    "pricing": "Free",
+    "safetyNote": "UGC (desenhos). Prefira sala privada."
+  },
+  {
+    "id": 3,
+    "title": "StopotS",
+    "description": "O famoso Adedonha/Stop online. Categorias personalizáveis e muita discussão sobre respostas.",
+    "minPlayers": 2,
+    "maxPlayers": 50,
+    "url": "https://stopots.com/",
+    "category": "word",
+    "pricing": "Free"
+  },
+  {
+    "id": 4,
+    "title": "Skribbl.io",
+    "description": "Desenhe e adivinhe em tempo real. Ganha quem acumular mais pontos acertando rapidamente.",
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "url": "https://skribbl.io/",
+    "category": "drawing",
+    "pricing": "Free",
+    "safetyNote": "UGC (desenhos). Prefira sala privada."
+  },
+  {
+    "id": 5,
+    "title": "Codenames Online",
+    "description": "Versão oficial no navegador. Duas equipes, spymasters e grid de palavras. Suporta salas grandes.",
+    "minPlayers": 4,
+    "maxPlayers": 64,
+    "url": "https://codenames.game/",
+    "category": "word",
+    "pricing": "Free"
+  },
+  {
+    "id": 6,
+    "title": "GeoGuessr",
+    "description": "Geografia via Street View. Dá para competir com amigos, mas o modelo atual é majoritariamente pago/limitado.",
+    "minPlayers": 2,
+    "maxPlayers": 100,
+    "url": "https://www.geoguessr.com/",
+    "category": "quiz",
+    "pricing": "Paid"
+  },
+  {
+    "id": 51,
+    "title": "Board Game Arena",
+    "description": "Plataforma de jogos de tabuleiro online direto no navegador. Alguns jogos ou mesas dependem de conta Premium.",
+    "minPlayers": 2,
+    "maxPlayers": "Unlimited",
+    "url": "https://boardgamearena.com/",
+    "category": "strategy",
+    "pricing": "Freemium"
+  },
+  {
+    "id": 7,
+    "title": "JigsawPuzzles.io",
+    "description": "Quebra-cabeças multiplayer no navegador. Cooperativo, simples e relaxante.",
+    "minPlayers": 2,
+    "maxPlayers": "Unlimited",
+    "url": "https://jigsawpuzzles.io/",
+    "category": "strategy",
+    "pricing": "Free"
+  },
+  {
+    "id": 8,
+    "title": "Make it Meme",
+    "description": "Crie legendas, vote nos melhores e veja o caos no ranking. Tem plano pago para extras.",
+    "minPlayers": 3,
+    "maxPlayers": 30,
+    "url": "https://makeitmeme.com/pt/",
+    "category": "party",
+    "pricing": "Freemium",
+    "safetyNote": "Conteúdo gerado por usuários (memes). Prefira sala privada."
+  },
+  {
+    "id": 9,
+    "title": "CrowdParty",
+    "description": "Coleção de mini-jogos para call. Grátis em grupos menores, com passe para salas maiores.",
+    "minPlayers": 2,
+    "maxPlayers": 10,
+    "url": "https://crowdparty.app/",
+    "category": "party",
+    "pricing": "Freemium"
+  },
+  {
+    "id": 10,
+    "title": "Rocketcrab",
+    "description": "Hub de jogos de festa para navegador, com opções rápidas para chamadas e salas privadas.",
+    "minPlayers": 2,
+    "maxPlayers": 20,
+    "url": "https://rocketcrab.com/",
+    "category": "party",
+    "pricing": "Free"
+  },
+  {
+    "id": 11,
+    "title": "AirConsole",
+    "description": "Celular como controle e jogos de festa no navegador/TV. Tem plano gratuito limitado e assinatura.",
+    "minPlayers": 2,
+    "maxPlayers": 16,
+    "url": "https://www.airconsole.com/",
+    "category": "party",
+    "pricing": "Freemium"
+  },
+  {
+    "id": 12,
+    "title": "Houseparty-style Charades",
+    "description": "Use salas online de charadas para mímica, adivinhação e brincadeiras em chamada.",
+    "minPlayers": 2,
+    "maxPlayers": 20,
+    "url": "https://www.charades.app/",
+    "category": "party",
+    "pricing": "Free"
+  },
+  {
+    "id": 13,
+    "title": "Kahoot!",
+    "description": "Quiz ao vivo com PIN para entrar. Ótimo para aulas, lives e grupos grandes; recursos avançados são pagos.",
+    "minPlayers": 2,
+    "maxPlayers": "Unlimited",
+    "url": "https://kahoot.it/",
+    "category": "quiz",
+    "pricing": "Freemium"
+  },
+  {
+    "id": 14,
+    "title": "Blooket",
+    "description": "Quiz com modos de jogo competitivos. Essencial gratuito, com Plus para extras e grupos maiores.",
+    "minPlayers": 2,
+    "maxPlayers": 60,
+    "url": "https://www.blooket.com/",
+    "category": "quiz",
+    "pricing": "Freemium"
+  },
+  {
+    "id": 15,
+    "title": "Wayground / Quizizz",
+    "description": "Plataforma de quiz multiplayer para aulas, reuniões e desafios rápidos.",
+    "minPlayers": 2,
+    "maxPlayers": "Unlimited",
+    "url": "https://wayground.com/",
+    "category": "quiz",
+    "pricing": "Freemium"
+  },
+  {
+    "id": 16,
+    "title": "Baamboozle",
+    "description": "Quiz em equipes com perguntas, pontuação e modo de sala. Muito usado em aulas.",
+    "minPlayers": 2,
+    "maxPlayers": 40,
+    "url": "https://www.baamboozle.com/",
+    "category": "quiz",
+    "pricing": "Freemium"
+  },
+  {
+    "id": 17,
+    "title": "Sporcle Party",
+    "description": "Trivia em grupo com temas prontos e salas para amigos.",
+    "minPlayers": 2,
+    "maxPlayers": 100,
+    "url": "https://www.sporcle.com/party/",
+    "category": "quiz",
+    "pricing": "Freemium"
+  },
+  {
+    "id": 18,
+    "title": "Mentimeter Quiz",
+    "description": "Quiz interativo com PIN para apresentações e grupos. Gratuito com limites.",
+    "minPlayers": 2,
+    "maxPlayers": "Unlimited",
+    "url": "https://www.mentimeter.com/features/quiz-presentations",
+    "category": "quiz",
+    "pricing": "Freemium"
+  },
+  {
+    "id": 19,
+    "title": "City Guesser",
+    "description": "Desafio de geografia por vídeo/localização, bom para competir por pontuação em grupo.",
+    "minPlayers": 2,
+    "maxPlayers": "Unlimited",
+    "url": "https://virtualvacation.us/guess",
+    "category": "quiz",
+    "pricing": "Free"
+  },
+  {
+    "id": 20,
+    "title": "JKLM BombParty",
+    "description": "Jogo explosivo de palavras: escreva uma palavra com a sílaba pedida antes da bomba estourar.",
+    "minPlayers": 2,
+    "maxPlayers": 16,
+    "url": "https://jklm.fun/",
+    "category": "word",
+    "pricing": "Free"
+  },
+  {
+    "id": 21,
+    "title": "TETR.IO",
+    "description": "Tetris competitivo no navegador. Grátis para jogar, com apoiador opcional.",
+    "minPlayers": 2,
+    "maxPlayers": "Unlimited",
+    "url": "https://tetr.io/",
+    "category": "strategy",
+    "pricing": "Freemium"
+  },
+  {
+    "id": 22,
+    "title": "Lichess",
+    "description": "Xadrez online focado no jogo: grátis, sem anúncios e sem necessidade de registro.",
+    "minPlayers": 2,
+    "maxPlayers": "Unlimited",
+    "url": "https://lichess.org/",
+    "category": "strategy",
+    "pricing": "Free"
+  },
+  {
+    "id": 23,
+    "title": "Chess.com",
+    "description": "Xadrez online com partidas entre amigos, puzzles e torneios. Gratuito com assinatura para extras.",
+    "minPlayers": 2,
+    "maxPlayers": "Unlimited",
+    "url": "https://www.chess.com/play/online",
+    "category": "strategy",
+    "pricing": "Freemium"
+  },
+  {
+    "id": 24,
+    "title": "Pokémon Showdown",
+    "description": "Batalhas Pokémon competitivas diretamente no navegador.",
+    "minPlayers": 2,
+    "maxPlayers": "Unlimited",
+    "url": "https://pokemonshowdown.com/",
+    "category": "strategy",
+    "pricing": "Free",
+    "safetyNote": "Chat e salas públicas podem ter conteúdo imprevisível."
+  },
+  {
+    "id": 25,
+    "title": "Colonist.io",
+    "description": "Catan no navegador. Modos principais são grátis, mas expansões/mapas/extras ficam em tiers pagos.",
+    "minPlayers": 3,
+    "maxPlayers": 4,
+    "url": "https://colonist.io/",
+    "category": "strategy",
+    "pricing": "Freemium"
+  },
+  {
+    "id": 26,
+    "title": "Treason Coup",
+    "description": "Bluff curto e cruel: blefe seus papéis, roube moedas e dê o coup na hora certa.",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "url": "https://coup.thebrown.net/",
+    "category": "social_deduction",
+    "pricing": "Free"
+  },
+  {
+    "id": 27,
+    "title": "Avalon (netgames.io)",
+    "description": "A Resistência: Avalon no navegador — missões, traições e acusações. Descubra quem está sabotando.",
+    "minPlayers": 5,
+    "maxPlayers": 10,
+    "url": "https://netgames.io/games/avalon/",
+    "category": "social_deduction",
+    "pricing": "Free"
+  },
+  {
+    "id": 28,
+    "title": "One Night Ultimate Werewolf (netgames.io)",
+    "description": "Todos recebem papéis secretos e têm uma única noite para descobrir os lobisomens.",
+    "minPlayers": 3,
+    "maxPlayers": 29,
+    "url": "https://netgames.io/games/onu-werewolf/",
+    "category": "social_deduction",
+    "pricing": "Free"
+  },
+  {
+    "id": 29,
+    "title": "Spyfall.app",
+    "description": "Outra versão de Spyfall para criar sala rápida e descobrir o espião do grupo.",
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "url": "https://spyfall.app/",
+    "category": "social_deduction",
+    "pricing": "Free"
+  },
+  {
+    "id": 30,
+    "title": "Mafia.gg",
+    "description": "Mafia/Werewolf online com papéis, chat e salas para grupos.",
+    "minPlayers": 5,
+    "maxPlayers": 20,
+    "url": "https://mafia.gg/",
+    "category": "social_deduction",
+    "pricing": "Freemium"
+  },
+  {
+    "id": 31,
+    "title": "Town of Salem",
+    "description": "Dedução social no navegador com muitos papéis e partidas públicas. O acesso pode exigir compra/conta.",
+    "minPlayers": 7,
+    "maxPlayers": 15,
+    "url": "https://www.blankmediagames.com/TownOfSalem/",
+    "category": "social_deduction",
+    "pricing": "Paid"
+  },
+  {
+    "id": 32,
+    "title": "Secret Hitler.io",
+    "description": "Versão web não oficial do jogo de blefe e dedução em grupo.",
+    "minPlayers": 5,
+    "maxPlayers": 10,
+    "url": "https://secrethitler.io/",
+    "category": "social_deduction",
+    "pricing": "Free",
+    "safetyNote": "Tema político fictício; use com grupos apropriados."
+  },
+  {
+    "id": 33,
+    "title": "The Chameleon Online",
+    "description": "Um jogador não sabe a palavra secreta e precisa se misturar pelas dicas dos outros.",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "url": "https://thechameleon.app/",
+    "category": "social_deduction",
+    "pricing": "Free"
+  },
+  {
+    "id": 34,
+    "title": "Impostor Online",
+    "description": "Jogo social simples de intruso no navegador para grupos em chamada.",
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "url": "https://impostor.io/",
+    "category": "social_deduction",
+    "pricing": "Free"
+  },
+  {
+    "id": 35,
+    "title": "Bonk.io",
+    "description": "Arena multiplayer de física no navegador, com partidas rápidas e caóticas.",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "url": "https://bonk.io/",
+    "category": "party",
+    "pricing": "Free",
+    "safetyNote": "Salas públicas e chat podem ter conteúdo imprevisível."
+  },
+  {
+    "id": 36,
+    "title": "Shell Shockers",
+    "description": "FPS de navegador com ovos armados. Partidas públicas ou privadas.",
+    "minPlayers": 2,
+    "maxPlayers": "Unlimited",
+    "url": "https://shellshock.io/",
+    "category": "party",
+    "pricing": "Free",
+    "safetyNote": "Violência cartunesca; salas públicas têm chat/jogadores aleatórios."
+  },
+  {
+    "id": 37,
+    "title": "Krunker",
+    "description": "FPS rápido no navegador com salas customizadas e modos competitivos.",
+    "minPlayers": 2,
+    "maxPlayers": "Unlimited",
+    "url": "https://krunker.io/",
+    "category": "party",
+    "pricing": "Free",
+    "safetyNote": "Violência cartunesca e comunidade pública."
+  },
+  {
+    "id": 38,
+    "title": "1v1.LOL",
+    "description": "Construção e duelo estilo arena direto no navegador.",
+    "minPlayers": 2,
+    "maxPlayers": 16,
+    "url": "https://1v1.lol/",
+    "category": "strategy",
+    "pricing": "Free",
+    "safetyNote": "Chat/salas públicas podem variar."
+  },
+  {
+    "id": 39,
+    "title": "Curve Fever Pro",
+    "description": "Arena de curvas/tron no navegador, competitivo e rápido.",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "url": "https://curvefever.pro/",
+    "category": "party",
+    "pricing": "Freemium"
+  },
+  {
+    "id": 40,
+    "title": "Agar.io",
+    "description": "Controle uma célula e compita contra outros jogadores em arenas online.",
+    "minPlayers": 2,
+    "maxPlayers": "Unlimited",
+    "url": "https://agar.io/",
+    "category": "party",
+    "pricing": "Freemium",
+    "safetyNote": "Salas públicas com nomes de usuários imprevisíveis."
+  },
+  {
+    "id": 41,
+    "title": "Slither.io",
+    "description": "Cobrinha multiplayer em arena online. Simples, caótico e competitivo.",
+    "minPlayers": 2,
+    "maxPlayers": "Unlimited",
+    "url": "https://slither.io/",
+    "category": "party",
+    "pricing": "Free",
+    "safetyNote": "Salas públicas com nomes de usuários imprevisíveis."
+  },
+  {
+    "id": 42,
+    "title": "Diep.io",
+    "description": "Arena de tanques no navegador com progressão e partidas públicas.",
+    "minPlayers": 2,
+    "maxPlayers": "Unlimited",
+    "url": "https://diep.io/",
+    "category": "strategy",
+    "pricing": "Free",
+    "safetyNote": "Salas públicas com nomes de usuários imprevisíveis."
+  },
+  {
+    "id": 43,
+    "title": "Little Big Snake",
+    "description": "Arena de cobra multiplayer com progressão e partidas online.",
+    "minPlayers": 2,
+    "maxPlayers": "Unlimited",
+    "url": "https://littlebigsnake.com/",
+    "category": "party",
+    "pricing": "Freemium"
+  },
+  {
+    "id": 44,
+    "title": "PlayingCards.io Custom Room",
+    "description": "Mesa virtual customizável para criar jogos caseiros, cartas, dados e tabuleiro próprio.",
+    "minPlayers": 2,
+    "maxPlayers": 20,
+    "url": "https://playingcards.io/game/standard-deck",
+    "category": "party",
+    "pricing": "Free"
+  },
+  {
+    "id": 45,
+    "title": "Buraco (PlayingCards.io)",
+    "description": "Buraco online usando a mesa virtual do PlayingCards.io.",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "url": "https://playingcards.io/games",
+    "category": "strategy",
+    "pricing": "Free"
+  },
+  {
+    "id": 46,
+    "title": "Dominoes (PlayingCards.io)",
+    "description": "Dominó em mesa virtual para jogar com amigos.",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "url": "https://playingcards.io/games",
+    "category": "strategy",
+    "pricing": "Free"
+  },
+  {
+    "id": 47,
+    "title": "CardGames.io: Checkers",
+    "description": "Damas online simples, com opção de jogar contra amigo.",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "url": "https://cardgames.io/checkers/",
+    "category": "strategy",
+    "pricing": "Free"
+  },
+  {
+    "id": 48,
+    "title": "CardGames.io: Backgammon",
+    "description": "Backgammon online simples para dois jogadores.",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "url": "https://cardgames.io/backgammon/",
+    "category": "strategy",
+    "pricing": "Free"
+  },
+  {
+    "id": 49,
+    "title": "CardGames.io: Four in a Row",
+    "description": "Conecte 4 online para dois jogadores.",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "url": "https://cardgames.io/fourinarow/",
+    "category": "strategy",
+    "pricing": "Free"
+  },
+  {
+    "id": 50,
+    "title": "CardGames.io: Battleship",
+    "description": "Batalha naval online para dois jogadores.",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "url": "https://cardgames.io/battleship/",
+    "category": "strategy",
+    "pricing": "Free"
+  }
+]

@@ -1,0 +1,1460 @@
+{
+  "1": {
+    "title": "It Takes Two",
+    "desc": "Jogue como Cody e May, um casal transformado em bonecos que precisa trabalhar junto. Cada nível traz mecânicas novas que só funcionam com cooperação.",
+    "mechanic": "Habilidades assimétricas constantes (ex: um tem martelo, outro pregos).",
+    "verdict": "Escolha excelente. Ótima narrativa co-op."
+  },
+  "2": {
+    "title": "A Way Out",
+    "desc": "Fuga cinematográfica de uma prisão. A tela dividida cria momentos de tensão únicos onde um jogador distrai enquanto o outro age.",
+    "mechanic": "Tela dividida constante. Um joga enquanto o outro observa/ajuda.",
+    "verdict": "Curto e certeiro. Ótimo para uma tarde."
+  },
+  "3": {
+    "title": "Portal 2 Co-op",
+    "desc": "Portal puzzles que precisam de timing e comunicação. Cada jogador controla dois portais - coordenação é essencial.",
+    "mechanic": "4 portais no total. Puzzles exigem timing e posicionamento preciso.",
+    "verdict": "Obra-prima. Excelente teste de comunicação e raciocínio espacial."
+  },
+  "4": {
+    "title": "Divinity: Original Sin 2",
+    "desc": "Tactical RPG com muita liberdade. Jogadores podem ter objetivos diferentes ou trabalhar juntos completamente.",
+    "mechanic": "Combate por turnos com sistema elemental. Cada um controla seu personagem.",
+    "verdict": "RPG co-op de primeira linha. Exige bastante tempo."
+  },
+  "5": {
+    "title": "Baldur's Gate 3",
+    "desc": "RPG moderno onde escolhas importam. Jogadores podem seguir caminhos diferentes dentro da mesma história.",
+    "mechanic": "D&D 5e. Rolagens de dados determinam sucesso. Exploração livre.",
+    "verdict": "Muito recomendado. Uma das melhores experiências co-op de RPG."
+  },
+  "6": {
+    "title": "Lethal Company",
+    "desc": "Horror co-op onde vocês são funcionários coletando sucata em luas abandonadas. O rádio é sua única conexão quando as coisas dão errado.",
+    "mechanic": "Um fica no navio monitorando. Outros exploram no escuro.",
+    "verdict": "Melhor horror co-op da vez. Pânico e risada na mesma sessão."
+  },
+  "7": {
+    "title": "Phasmophobia",
+    "desc": "Investigação paranormal com equipamentos reais. O fantasma pode ouvir vocês pelo microfone. Silêncio pode salvar vidas.",
+    "mechanic": "Evidências específicas identificam o tipo de fantasma. VR opcional.",
+    "verdict": "Conceito único. Funciona melhor com grupo experiente."
+  },
+  "8": {
+    "title": "The Forest",
+    "desc": "Sobrevivência em ilha com canibais. Construam bases, explorem cavernas, descubram o mistério por trás do acidente.",
+    "mechanic": "Crafting, construção, combate. Ciclo dia/noite afeta comportamento inimigo.",
+    "verdict": "Clássico do gênero. A sequência (Sons of the Forest) é ainda melhor."
+  },
+  "9": {
+    "title": "Sons of the Forest",
+    "desc": "Sequência aprimorada com IA mais intensa e Kelvin, o NPC que segue comandos. A exploração é mais vertical e perigosa.",
+    "mechanic": "Kelvin ajuda com tarefas. Impressora 3D para itens. Estações afetam gameplay.",
+    "verdict": "Evolução clara. Vale jogar depois de The Forest."
+  },
+  "10": {
+    "title": "Raft",
+    "desc": "Sobrevivam em uma jangada no oceano infinito. Coletem detritos, expandam sua jangada, explorem ilhas.",
+    "mechanic": "Gancho para pegar recursos. Tubarão constante. História linear com ilhas.",
+    "verdict": "Relaxante e envolvente. Ótimo para sessões longas."
+  },
+  "11": {
+    "title": "Don't Starve Together",
+    "desc": "Sobrevivência desafiadora com estética Tim Burton. A fome, sanidade e escuridão são suas maiores inimigas.",
+    "mechanic": "Personagens com habilidades únicas. Estações mudam estratégias.",
+    "verdict": "Difícil mas recompensador. Curva de aprendizado íngreme."
+  },
+  "12": {
+    "title": "Risk of Rain 2",
+    "desc": "Runs frenéticos onde o tempo é inimigo. Quanto mais demoram, mais forte o jogo fica. Builds sinérgicas são a chave.",
+    "mechanic": "Dificuldade escala com tempo. Itens empilham exponencialmente.",
+    "verdict": "Um dos melhores roguelikes. Replay quase infinito."
+  },
+  "13": {
+    "title": "Gunfire Reborn",
+    "desc": "FPS roguelike com personagens animais. Armas modificáveis e habilidades elementais criam builds únicos.",
+    "mechanic": "Ascensões aumentam dificuldade e recompensas. Builds elementais se combinam.",
+    "verdict": "Divertido e acessível. Ótimo para grupos casuais."
+  },
+  "14": {
+    "title": "Deep Rock Galactic",
+    "desc": "Anões espaciais mineram e enfrentam aliens. Classes complementares e terreno destrutível criam caos tático.",
+    "mechanic": "4 classes distintas. Caves procedurais. ROCK AND STONE!",
+    "verdict": "Comunidade excelente. Uma das melhores experiências co-op."
+  },
+  "16": {
+    "title": "We Were Here Series",
+    "desc": "Escape room assimétrica. Um vê o puzzle, outro tem as soluções. Comunicação é literalmente o jogo.",
+    "mechanic": "Apenas walkie-talkie. Informações divididas entre jogadores.",
+    "verdict": "Teste real de comunicação. Frustrante e satisfatório."
+  },
+  "17": {
+    "title": "Keep Talking and Nobody Explodes",
+    "desc": "Um vê a bomba, outros têm o manual. Desarmem módulos sob pressão de tempo. VR intensifica.",
+    "mechanic": "Módulos procedurais. Manual físico ou PDF. VR opcional.",
+    "verdict": "Perfeito para grupos. Estresse produtivo."
+  },
+  "18": {
+    "title": "Escape Simulator",
+    "desc": "Escape rooms virtuais com física realista. Workshop com milhares de salas da comunidade.",
+    "mechanic": "Física interativa. Objetos podem ser combinados livremente.",
+    "verdict": "Melhor simulador de escape room. Conteúdo não acaba."
+  },
+  "19": {
+    "title": "GTFO",
+    "desc": "Horror tático sem perdão. Stealth, coordenação e recursos limitados. Um erro mata todos.",
+    "mechanic": "Munição escassa. Inimigos dormentes. Terminal de comando.",
+    "verdict": "Para grupos coordenados apenas. Intensidade máxima."
+  },
+  "20": {
+    "title": "Helldivers 2",
+    "desc": "Shooter tático com fogo amigo. Suprimentos orbitais exigem coordenação constante.",
+    "mechanic": "Fogo amigo sempre ativo. Chamadas de suporte. Objetivos variados.",
+    "verdict": "Caos organizado. Um dos melhores shooters co-op atuais."
+  },
+  "21": {
+    "title": "Payday 2",
+    "desc": "Assaltos cooperativos onde stealth ou caos são opções. Centenas de heists e customização profunda.",
+    "mechanic": "Stealth tem fases. Alarme muda para wave defense. Builds especializadas.",
+    "verdict": "Clássico atemporal. Toneladas de conteúdo."
+  },
+  "22": {
+    "title": "Overcooked! 2",
+    "desc": "Cozinha caótica onde comunicação previne desastres. Mapas dinâmicos adicionam obstáculos absurdos.",
+    "mechanic": "Tarefas divididas: cortar, cozinhar, servir, lavar. Tempo limitado.",
+    "verdict": "Teste de relacionamento. Diversão garantida."
+  },
+  "23": {
+    "title": "Plate Up!",
+    "desc": "Roguelike de restaurante. Cada dia adiciona complexidade. Automatizem processos ou afundem no caos.",
+    "mechanic": "Layout permanente entre dias. Upgrades estratégicos. Clientes exigentes.",
+    "verdict": "Overcooked com profundidade. Viciante."
+  },
+  "24": {
+    "title": "Stardew Valley",
+    "desc": "Fazenda cooperativa com ritmo relaxante. Dividam tarefas, desenvolvam a comunidade, explorem cavernas.",
+    "mechanic": "Estações determinam plantações. Cavernas têm combate leve. Romance com NPCs.",
+    "verdict": "Conforto digital. Centenas de horas de conteúdo."
+  },
+  "25": {
+    "title": "Jackbox Party Packs",
+    "desc": "Coleção de jogos party usando celular como controle. Humor, criatividade e constrangimento social.",
+    "mechanic": "Celular como controle via navegador. Jogos variados por pack.",
+    "verdict": "Essencial de party no PC. Packs 3, 7 e 8 são os melhores."
+  },
+  "26": {
+    "title": "Among Us",
+    "desc": "Dedução social espacial. Impostores sabotam e eliminam. Crew faz tarefas e vota. Discussões acaloradas.",
+    "mechanic": "Tarefas visuais provam inocência. Sabotagens forçam reações. Voting elimina.",
+    "verdict": "Fenômeno cultural. Melhor com amigos que você conhece."
+  },
+  "27": {
+    "title": "Gang Beasts",
+    "desc": "Bonecos gelatinosos lutam em arenas perigosas. Física absurda cria momentos hilários.",
+    "mechanic": "Agarrar, socar, headbutt. Ambientes interativos eliminam jogadores.",
+    "verdict": "Caos divertido em estado puro. Ótimo para grupos mistos."
+  },
+  "28": {
+    "title": "Human Fall Flat",
+    "desc": "Puzzles de física com controle intencionalmente desajeitado. Workshop adiciona mapas infinitos.",
+    "mechanic": "Braços controlados individualmente. Física realista cria soluções criativas.",
+    "verdict": "Relaxante e engraçado. Ótimo para crianças também."
+  },
+  "29": {
+    "title": "Palworld",
+    "desc": "Sobrevivência em mundo aberto com criaturas colecionáveis ('Pals'). Construa, cultive e explore, usando seus Pals para tudo.",
+    "mechanic": "Captura de monstros, automação de base, exploração.",
+    "verdict": "Viciante. Pokémon com armas e sobrevivência funciona surpreendentemente bem."
+  },
+  "30": {
+    "title": "Terraria",
+    "desc": "Sandbox 2D infinito. Cave, lute, explore, construa. Boss progression com muitos itens.",
+    "mechanic": "Crafting profundo, combate com bosses, eventos de mundo.",
+    "verdict": "Obra-prima. Conteúdo quase infinito por um preço baixo."
+  },
+  "31": {
+    "title": "Left 4 Dead 2",
+    "desc": "Zombie apocalypse survival. Work together to get through infected hordes and reach safety.",
+    "mechanic": "Diretor de IA ajusta dificuldade dinamicamente. Fogo amigo ativo.",
+    "verdict": "Clássico atemporal. Ainda o melhor zombie shooter."
+  },
+  "32": {
+    "title": "Borderlands 2",
+    "desc": "Shooter with tons of loot and unique style. Different classes create good team synergy.",
+    "mechanic": "Árvores de habilidades profundas. Loot compartilhado (drama garantido).",
+    "verdict": "Diversão explosiva. Vilã excelente."
+  },
+  "33": {
+    "title": "Cuphead",
+    "desc": "1930s-style run and gun game. Tough boss fights and challenging difficulty.",
+    "mechanic": "Parry e dash são essenciais. Reviver parceiro exige agilidade.",
+    "verdict": "Lindo e difícil. Testa amizade e reflexos."
+  },
+  "34": {
+    "title": "The Past Within",
+    "desc": "Aventura point-and-click assimétrica. Um no passado, outro no futuro. Resolvam o mistério de Rusty Lake.",
+    "mechanic": "Cross-platform. Sem conexão direta necessária, apenas voz.",
+    "verdict": "Atmosféra única e inquietante. Puzzles inteligentes."
+  },
+  "35": {
+    "title": "Unravel Two",
+    "desc": "Plataforma puzzle onde dois Yarnys estão conectados por um fio. Física e balanço são fundamentais.",
+    "mechanic": "Jogadores fisicamente ligados. Devem ajudar um ao outro a escalar.",
+    "verdict": "Belo e emocionante. Ótimo para casais."
+  },
+  "36": {
+    "title": "Operation: Tango",
+    "desc": "Espionagem assimétrica. Agente e Hacker trabalham juntos para salvar o mundo.",
+    "mechanic": "Voice chat required.",
+    "verdict": "Parece filme de espião. Estiloso e divertido."
+  },
+  "37": {
+    "title": "Pico Park",
+    "desc": "Puzzle co-op simples de olhar, difícil de executar. Todos devem ter a chave para passar.",
+    "mechanic": "Movimento sincronizado. Empilhar jogadores. A corda é o inimigo.",
+    "verdict": "Destruidor de amizades minimalista."
+  },
+  "38": {
+    "title": "Pummel Party",
+    "desc": "Mario Party com sangue. Minigames violentos e tabuleiro para destruir seus amigos.",
+    "mechanic": "Tabuleiro + Minigames. Itens ofensivos (armas, bombas).",
+    "verdict": "Melhor alternativa de Mario Party no PC."
+  },
+  "39": {
+    "title": "Magicka 2",
+    "desc": "Magos desastrados tentam salvar o mundo. Combine elementos para criar feitiços (e matar seus amigos sem querer).",
+    "mechanic": "Combinação livre de 8 elementos. Fogo amigo brutal.",
+    "verdict": "Caos mágico hilário. Mais divertido quando tudo dá errado."
+  },
+  "40": {
+    "title": "Castle Crashers",
+    "desc": "Beat 'em up clássico com humor nonsense. Resgate princesas e derrote inimigos bizarros.",
+    "mechanic": "Combos simples e magia. Pets ajudam em combate.",
+    "verdict": "Diversão descompromissada. Um clássico das lan houses."
+  },
+  "41": {
+    "title": "BattleBlock Theater",
+    "desc": "Plataforma cômico em um teatro de gatos sádicos. Cooperação e traição andam lado a lado.",
+    "mechanic": "Arremessar o amigo é essencial. Morte é apenas um inconveniente.",
+    "verdict": "Muitas risadas, muitas mortes. Narrador excelente."
+  },
+  "42": {
+    "title": "Trine 4: The Nightmare Prince",
+    "desc": "Retorno à forma 2.5D. Combine habilidades do Mago, Ladrão e Cavaleiro para resolver puzzles físicos.",
+    "mechanic": "Troca de personagens ou coop simultâneo. Puzzles mudam com nº de jogadores.",
+    "verdict": "Conto de fadas bonito. Puzzles de física satisfatórios."
+  },
+  "43": {
+    "title": "Monaco: What's Yours Is Mine",
+    "desc": "Heist game top-down caótico. Cada classe tem uma habilidade única para roubar e escapar.",
+    "mechanic": "Visão limitada ao campo de visão. Ritmo frenético.",
+    "verdict": "Ocean's Eleven em 8-bits e com mais pânico."
+  },
+  "44": {
+    "title": "Broforce",
+    "desc": "Ação patriótica exagerada com paródias de heróis dos anos 80. Tudo explode. Absolutamente tudo.",
+    "mechanic": "Cenário totalmente destrutível. Personagens aleatórios a cada vida.",
+    "verdict": "Explosões e testosterona pixelada. Divertido demais."
+  },
+  "45": {
+    "title": "Lovers in a Dangerous Spacetime",
+    "desc": "Pilotem uma nave neon juntos. Corram entre estações de armas, escudo e motor para sobreviver.",
+    "mechanic": "Nave tem mais funções que jogadores. Coordenação frenética.",
+    "verdict": "Tenso e bonito. Teste máximo de coordenação."
+  },
+  "46": {
+    "title": "Moving Out 2",
+    "desc": "Mudanças com física desastrosa. Quebre janelas, arremesse sofás e tente colocar tudo no caminhão.",
+    "mechanic": "Física exagerada. Itens pesados exigem dois jogadores.",
+    "verdict": "Caos divertido para todas as idades."
+  },
+  "47": {
+    "title": "Minecraft Dungeons",
+    "desc": "Dungeon crawler no universo Minecraft. Acessível mas com profundidade para quem busca.",
+    "mechanic": "Combate simples, loot constante. Encantamentos definem builds.",
+    "verdict": "Diablo para a família toda. Viciante."
+  },
+  "48": {
+    "title": "Bread & Fred",
+    "desc": "Dois pinguins escalando uma montanha, ligados por uma corda. Cair é parte do processo (muitas vezes).",
+    "mechanic": "Física de pêndulo e timing. Botão de 'ancorar' é vital.",
+    "verdict": "Frustrante como Getting Over It, mas em dupla. Risadas nervosas."
+  },
+  "49": {
+    "title": "Halo: The Master Chief Collection",
+    "desc": "Halo: The Master Chief Collection entra no catálogo como campanha cooperativa, com foco em ação, sci-fi, campanha. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 9.3/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "50": {
+    "title": "Halo Infinite",
+    "desc": "Halo Infinite entra no catálogo como campanha cooperativa, com foco em shooter, sci-fi, campanha. Ideal para grupos de 2-3 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 8.8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "51": {
+    "title": "Gears 5",
+    "desc": "Gears 5 entra no catálogo como campanha cooperativa, com foco em shooter, ação, campanha. Ideal para grupos de 2-3 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 8.7/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "52": {
+    "title": "Borderlands 3",
+    "desc": "Borderlands 3 entra no catálogo como campanha cooperativa, com foco em fps, loot, humor. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 9/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "53": {
+    "title": "Tiny Tina's Wonderlands",
+    "desc": "Tiny Tina's Wonderlands entra no catálogo como campanha cooperativa, com foco em fps, loot, fantasia. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 8.6/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "54": {
+    "title": "Borderlands: The Pre-Sequel",
+    "desc": "Borderlands: The Pre-Sequel entra no catálogo como campanha cooperativa, com foco em fps, loot, sci-fi. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 8.8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "55": {
+    "title": "Borderlands GOTY Enhanced",
+    "desc": "Borderlands GOTY Enhanced entra no catálogo como campanha cooperativa, com foco em fps, loot, ação. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 9/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "56": {
+    "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+    "desc": "Teenage Mutant Ninja Turtles: Shredder's Revenge entra no catálogo como campanha cooperativa, com foco em beat em up, tartarugas, retrô. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade fácil e nota 8.7/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "57": {
+    "title": "Streets of Rage 4",
+    "desc": "Streets of Rage 4 entra no catálogo como campanha cooperativa, com foco em beat em up, ação, retrô. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.9/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "58": {
+    "title": "Guacamelee! 2",
+    "desc": "Guacamelee! 2 entra no catálogo como campanha cooperativa, com foco em metroidvania, luta, co-op. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.6/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "59": {
+    "title": "Spelunky 2",
+    "desc": "Spelunky 2 entra no catálogo como campanha cooperativa, com foco em plataforma, roguelike, difícil. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 20-40min. Dificuldade difícil e nota 8.9/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "60": {
+    "title": "Spelunky",
+    "desc": "Spelunky entra no catálogo como campanha cooperativa, com foco em plataforma, roguelike, local co-op. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 20-40min. Dificuldade difícil e nota 8.5/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "61": {
+    "title": "Rayman Legends",
+    "desc": "Rayman Legends entra no catálogo como campanha cooperativa, com foco em plataforma, colorido, co-op. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 45-60min. Dificuldade fácil e nota 8.8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "62": {
+    "title": "PHOGS!",
+    "desc": "PHOGS! entra no catálogo como campanha cooperativa, com foco em puzzle, física, fofo. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade fácil e nota 8.2/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "63": {
+    "title": "Biped",
+    "desc": "Biped entra no catálogo como campanha cooperativa, com foco em puzzle, robôs, plataforma. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.4/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "64": {
+    "title": "Death Squared",
+    "desc": "Death Squared entra no catálogo como campanha cooperativa, com foco em puzzle, co-op, minimalista. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade fácil e nota 8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "65": {
+    "title": "Shift Happens",
+    "desc": "Shift Happens entra no catálogo como campanha cooperativa, com foco em plataforma, puzzle, física. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.1/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "66": {
+    "title": "Lara Croft and the Guardian of Light",
+    "desc": "Lara Croft and the Guardian of Light entra no catálogo como campanha cooperativa, com foco em aventura, puzzle, ação. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.7/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "67": {
+    "title": "Lara Croft and the Temple of Osiris",
+    "desc": "Lara Croft and the Temple of Osiris entra no catálogo como campanha cooperativa, com foco em aventura, puzzle, ação. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.3/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "68": {
+    "title": "ibb & obb",
+    "desc": "ibb & obb entra no catálogo como campanha cooperativa, com foco em puzzle, plataforma, co-op. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade difícil e nota 8.6/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "69": {
+    "title": "Degrees of Separation",
+    "desc": "Degrees of Separation entra no catálogo como campanha cooperativa, com foco em puzzle, plataforma, romance. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade fácil e nota 7.9/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "70": {
+    "title": "KeyWe",
+    "desc": "KeyWe entra no catálogo como campanha cooperativa, com foco em co-op, correio, fofo. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 30-45min. Dificuldade fácil e nota 8.2/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "71": {
+    "title": "Heavenly Bodies",
+    "desc": "Heavenly Bodies entra no catálogo como campanha cooperativa, com foco em física, espaço, co-op. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.5/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "72": {
+    "title": "Blanc",
+    "desc": "Blanc entra no catálogo como campanha cooperativa, com foco em aventura, puzzle, minimalista. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade fácil e nota 8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "73": {
+    "title": "Pode",
+    "desc": "Pode entra no catálogo como campanha cooperativa, com foco em puzzle, exploração, fofo. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade fácil e nota 7.8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "74": {
+    "title": "Untitled Goose Game",
+    "desc": "Untitled Goose Game entra no catálogo como campanha cooperativa, com foco em comédia, stealth, local co-op. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 20-40min. Dificuldade fácil e nota 8.7/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "75": {
+    "title": "LEGO Star Wars: The Skywalker Saga",
+    "desc": "LEGO Star Wars: The Skywalker Saga entra no catálogo como campanha cooperativa, com foco em aventura, lego, star wars. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade fácil e nota 8.6/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "76": {
+    "title": "LEGO Marvel Super Heroes",
+    "desc": "LEGO Marvel Super Heroes entra no catálogo como campanha cooperativa, com foco em lego, super-herói, ação. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade fácil e nota 8.5/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "77": {
+    "title": "LEGO DC Super-Villains",
+    "desc": "LEGO DC Super-Villains entra no catálogo como campanha cooperativa, com foco em lego, vilões, ação. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade fácil e nota 8.2/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "78": {
+    "title": "LEGO Harry Potter: Years 1-4",
+    "desc": "LEGO Harry Potter: Years 1-4 entra no catálogo como campanha cooperativa, com foco em lego, harry potter, aventura. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade fácil e nota 8.1/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "79": {
+    "title": "LEGO Harry Potter: Years 5-7",
+    "desc": "LEGO Harry Potter: Years 5-7 entra no catálogo como campanha cooperativa, com foco em lego, harry potter, aventura. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade fácil e nota 8.1/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "80": {
+    "title": "Sackboy: A Big Adventure",
+    "desc": "Sackboy: A Big Adventure entra no catálogo como campanha cooperativa, com foco em plataforma, aventura, fofo. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade fácil e nota 8.4/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "81": {
+    "title": "Ship of Fools",
+    "desc": "Ship of Fools entra no catálogo como campanha cooperativa, com foco em ação, naval, roguelite. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.6/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "82": {
+    "title": "Nobody Saves the World",
+    "desc": "Nobody Saves the World entra no catálogo como campanha cooperativa, com foco em rpg, ação, transformação. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade fácil e nota 8.7/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "83": {
+    "title": "Haven",
+    "desc": "Haven entra no catálogo como campanha cooperativa, com foco em rpg, romance, narrativo. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 1h. Dificuldade fácil e nota 8.1/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "84": {
+    "title": "Warhammer: Chaosbane",
+    "desc": "Warhammer: Chaosbane entra no catálogo como campanha cooperativa, com foco em rpg, hack and slash, fantasia. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 7.9/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "85": {
+    "title": "Darksiders Genesis",
+    "desc": "Darksiders Genesis entra no catálogo como campanha cooperativa, com foco em ação, hack and slash, história. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.3/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "86": {
+    "title": "Valheim",
+    "desc": "Valheim entra no catálogo como sobrevivência, com foco em sobrevivência, vikings, construção. Ideal para grupos de 2-10 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 9.6/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "87": {
+    "title": "V Rising",
+    "desc": "V Rising entra no catálogo como sobrevivência, com foco em vampiro, survival, crafting. Ideal para grupos de 2-60 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 9/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "88": {
+    "title": "Grounded",
+    "desc": "Grounded entra no catálogo como sobrevivência, com foco em sobrevivência, insetos, construção. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 9.2/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "89": {
+    "title": "Core Keeper",
+    "desc": "Core Keeper entra no catálogo como sobrevivência, com foco em sandbox, mineração, base. Ideal para grupos de 2-8 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 9.3/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "90": {
+    "title": "Project Zomboid",
+    "desc": "Project Zomboid entra no catálogo como sobrevivência, com foco em zumbi, sandbox, realista. Ideal para grupos de 2-32 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade brutal e nota 9.1/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "91": {
+    "title": "7 Days to Die",
+    "desc": "7 Days to Die entra no catálogo como sobrevivência, com foco em zumbi, construção, open world. Ideal para grupos de 2-8 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade difícil e nota 8.9/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "92": {
+    "title": "ASTRONEER",
+    "desc": "ASTRONEER entra no catálogo como sobrevivência, com foco em exploração, espaço, crafting. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade fácil e nota 9/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "93": {
+    "title": "No Man's Sky",
+    "desc": "No Man's Sky entra no catálogo como sobrevivência, com foco em exploração, espaço, open world. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 9/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "94": {
+    "title": "Starbound",
+    "desc": "Starbound entra no catálogo como sobrevivência, com foco em sandbox, 2d, espaço. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 8.8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "95": {
+    "title": "Rust",
+    "desc": "Rust entra no catálogo como sobrevivência, com foco em survival, pvp, base. Ideal para grupos de 2-100 jogadores.",
+    "mechanic": "Sessões típicas de 1-3h. Dificuldade brutal e nota 8.8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "96": {
+    "title": "ARK: Survival Evolved",
+    "desc": "ARK: Survival Evolved entra no catálogo como sobrevivência, com foco em dinossauros, survival, open world. Ideal para grupos de 2-70 jogadores.",
+    "mechanic": "Sessões típicas de 1-3h. Dificuldade difícil e nota 8.6/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "97": {
+    "title": "Conan Exiles",
+    "desc": "Conan Exiles entra no catálogo como sobrevivência, com foco em survival, fantasia, construção. Ideal para grupos de 2-40 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade difícil e nota 8.2/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "98": {
+    "title": "Enshrouded",
+    "desc": "Enshrouded entra no catálogo como sobrevivência, com foco em survival, rpg, construção. Ideal para grupos de 2-16 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 8.9/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "99": {
+    "title": "Nightingale",
+    "desc": "Nightingale entra no catálogo como sobrevivência, com foco em survival, fantasia, crafting. Ideal para grupos de 2-6 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 7.8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "100": {
+    "title": "Abiotic Factor",
+    "desc": "Abiotic Factor entra no catálogo como sobrevivência, com foco em survival, sci-fi, comédia. Ideal para grupos de 2-6 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 9.1/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "101": {
+    "title": "Smalland: Survive the Wilds",
+    "desc": "Smalland: Survive the Wilds entra no catálogo como sobrevivência, com foco em sobrevivência, insetos, open world. Ideal para grupos de 2-10 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 8.2/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "102": {
+    "title": "Green Hell",
+    "desc": "Green Hell entra no catálogo como sobrevivência, com foco em selva, sobrevivência, realista. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade difícil e nota 8.4/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "103": {
+    "title": "ICARUS",
+    "desc": "ICARUS entra no catálogo como sobrevivência, com foco em survival, missões, sci-fi. Ideal para grupos de 2-8 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade difícil e nota 8.3/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "104": {
+    "title": "Voidtrain",
+    "desc": "Voidtrain entra no catálogo como sobrevivência, com foco em trem, survival, exploração. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 7.9/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "105": {
+    "title": "Volcanoids",
+    "desc": "Volcanoids entra no catálogo como sobrevivência, com foco em construção, vulcão, base. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "106": {
+    "title": "Eco",
+    "desc": "Eco entra no catálogo como sobrevivência, com foco em simulação, ecologia, sociedade. Ideal para grupos de 2-100 jogadores.",
+    "mechanic": "Sessões típicas de 1-3h. Dificuldade moderada e nota 8.1/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "107": {
+    "title": "Unturned",
+    "desc": "Unturned entra no catálogo como sobrevivência, com foco em zumbi, grátis, sobrevivência. Ideal para grupos de 2-24 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade fácil e nota 8.5/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "108": {
+    "title": "Muck",
+    "desc": "Muck entra no catálogo como sobrevivência, com foco em sobrevivência, caótico, grátis. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade fácil e nota 8.1/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "109": {
+    "title": "The Planet Crafter",
+    "desc": "The Planet Crafter entra no catálogo como sobrevivência, com foco em terraformação, crafting, sci-fi. Ideal para grupos de 2-10 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 8.9/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "110": {
+    "title": "Dinkum",
+    "desc": "Dinkum entra no catálogo como sobrevivência, com foco em fazenda, crafting, ilha. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 8.7/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "111": {
+    "title": "Risk of Rain Returns",
+    "desc": "Risk of Rain Returns entra no catálogo como roguelike, com foco em roguelike, ação, retrô. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade difícil e nota 9.2/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "112": {
+    "title": "Enter the Gungeon",
+    "desc": "Enter the Gungeon entra no catálogo como roguelike, com foco em roguelike, shooter, dungeon. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade difícil e nota 9.4/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "113": {
+    "title": "Wizard of Legend",
+    "desc": "Wizard of Legend entra no catálogo como roguelike, com foco em roguelike, magia, pixel art. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 20-40min. Dificuldade difícil e nota 8.8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "114": {
+    "title": "Streets of Rogue",
+    "desc": "Streets of Rogue entra no catálogo como roguelike, com foco em roguelite, sandbox, caos. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 9/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "115": {
+    "title": "Ember Knights",
+    "desc": "Ember Knights entra no catálogo como roguelike, com foco em roguelite, ação, pixel art. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 20-40min. Dificuldade moderada e nota 8.9/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "116": {
+    "title": "Roboquest",
+    "desc": "Roboquest entra no catálogo como roguelike, com foco em fps, roguelite, robôs. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.9/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "117": {
+    "title": "Barony",
+    "desc": "Barony entra no catálogo como roguelike, com foco em roguelike, rpg, dungeon. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade difícil e nota 8.5/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "118": {
+    "title": "Heroes of Hammerwatch",
+    "desc": "Heroes of Hammerwatch entra no catálogo como roguelike, com foco em roguelite, rpg, pixel art. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.7/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "119": {
+    "title": "Vagante",
+    "desc": "Vagante entra no catálogo como roguelike, com foco em roguelike, plataforma, difícil. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade brutal e nota 8.6/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "120": {
+    "title": "Children of Morta",
+    "desc": "Children of Morta entra no catálogo como roguelike, com foco em roguelite, família, história. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.9/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "121": {
+    "title": "Ravenswatch",
+    "desc": "Ravenswatch entra no catálogo como roguelike, com foco em roguelike, fantasia, co-op. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.7/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "122": {
+    "title": "Inkbound",
+    "desc": "Inkbound entra no catálogo como roguelike, com foco em roguelike, tático, turnos. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.4/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "123": {
+    "title": "For The King",
+    "desc": "For The King entra no catálogo como roguelike, com foco em roguelite, rpg, tabuleiro. Ideal para grupos de 2-3 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 8.5/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "124": {
+    "title": "For The King II",
+    "desc": "For The King II entra no catálogo como roguelike, com foco em roguelite, rpg, turnos. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 8.2/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "125": {
+    "title": "Crab Champions",
+    "desc": "Crab Champions entra no catálogo como roguelike, com foco em shooter, roguelike, caranguejo. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 20-40min. Dificuldade moderada e nota 8.7/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "126": {
+    "title": "Blazing Beaks",
+    "desc": "Blazing Beaks entra no catálogo como roguelike, com foco em roguelite, shooter, aves. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 20-40min. Dificuldade moderada e nota 8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "127": {
+    "title": "Nuclear Throne",
+    "desc": "Nuclear Throne entra no catálogo como roguelike, com foco em roguelike, shooter, difícil. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 20-40min. Dificuldade brutal e nota 8.8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "128": {
+    "title": "20XX",
+    "desc": "20XX entra no catálogo como roguelike, com foco em roguelite, plataforma, mega man. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade difícil e nota 8.6/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "129": {
+    "title": "30XX",
+    "desc": "30XX entra no catálogo como roguelike, com foco em roguelite, plataforma, ação. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade difícil e nota 8.8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "130": {
+    "title": "SYNTHETIK: Legion Rising",
+    "desc": "SYNTHETIK: Legion Rising entra no catálogo como roguelike, com foco em roguelite, tático, shooter. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade difícil e nota 8.4/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "131": {
+    "title": "Rampage Knights",
+    "desc": "Rampage Knights entra no catálogo como roguelike, com foco em roguelite, castelo, ação. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.4/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "132": {
+    "title": "Caveblazers",
+    "desc": "Caveblazers entra no catálogo como roguelike, com foco em roguelike, plataforma, caverna. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.2/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "133": {
+    "title": "Hammerwatch",
+    "desc": "Hammerwatch entra no catálogo como roguelike, com foco em dungeon, ação, pixel art. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.5/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "134": {
+    "title": "Bravery and Greed",
+    "desc": "Bravery and Greed entra no catálogo como roguelike, com foco em roguelite, ação, fantasia. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.1/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "135": {
+    "title": "Rogue Heroes: Ruins of Tasos",
+    "desc": "Rogue Heroes: Ruins of Tasos entra no catálogo como roguelike, com foco em roguelite, rpg, aventura. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.2/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "136": {
+    "title": "Rotwood",
+    "desc": "Rotwood entra no catálogo como roguelike, com foco em roguelite, ação, criaturas. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.6/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "137": {
+    "title": "We Were Here Together",
+    "desc": "We Were Here Together entra no catálogo como puzzle cooperativo, com foco em puzzle, assimétrico, co-op. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade difícil e nota 8.8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "138": {
+    "title": "We Were Here Forever",
+    "desc": "We Were Here Forever entra no catálogo como puzzle cooperativo, com foco em puzzle, escape room, co-op. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade difícil e nota 9/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "139": {
+    "title": "We Were Here Expeditions: The FriendShip",
+    "desc": "We Were Here Expeditions: The FriendShip entra no catálogo como puzzle cooperativo, com foco em puzzle, co-op, curto. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 45-60min. Dificuldade moderada e nota 8.4/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "140": {
+    "title": "Tick Tock: A Tale for Two",
+    "desc": "Tick Tock: A Tale for Two entra no catálogo como puzzle cooperativo, com foco em puzzle, comunicação, mistério. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.5/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "141": {
+    "title": "BOKURA",
+    "desc": "BOKURA entra no catálogo como puzzle cooperativo, com foco em puzzle, narrativo, co-op. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 8.7/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "142": {
+    "title": "Escape Academy",
+    "desc": "Escape Academy entra no catálogo como puzzle cooperativo, com foco em escape room, puzzle, co-op. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.3/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "143": {
+    "title": "Pikuniku",
+    "desc": "Pikuniku entra no catálogo como puzzle cooperativo, com foco em puzzle, aventura, comédia. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 20-40min. Dificuldade fácil e nota 8.1/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "144": {
+    "title": "Toodee and Topdee",
+    "desc": "Toodee and Topdee entra no catálogo como puzzle cooperativo, com foco em puzzle, plataforma, dimensões. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.3/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "145": {
+    "title": "Super Bunny Man",
+    "desc": "Super Bunny Man entra no catálogo como puzzle cooperativo, com foco em plataforma, física, caótico. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 15-30min. Dificuldade difícil e nota 8.4/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "146": {
+    "title": "Chained Together",
+    "desc": "Chained Together entra no catálogo como puzzle cooperativo, com foco em escalada, co-op, física. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 15-30min. Dificuldade moderada e nota 8.7/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "147": {
+    "title": "Trine 2: Complete Story",
+    "desc": "Trine 2: Complete Story entra no catálogo como puzzle cooperativo, com foco em puzzle, plataforma, fantasia. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 1h. Dificuldade moderada e nota 8.5/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "148": {
+    "title": "Trine 5: A Clockwork Conspiracy",
+    "desc": "Trine 5: A Clockwork Conspiracy entra no catálogo como puzzle cooperativo, com foco em puzzle, plataforma, fantasia. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 1h. Dificuldade moderada e nota 8.6/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "149": {
+    "title": "Heave Ho",
+    "desc": "Heave Ho entra no catálogo como puzzle cooperativo, com foco em co-op, física, engraçado. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 20-40min. Dificuldade fácil e nota 8.4/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "150": {
+    "title": "Unrailed!",
+    "desc": "Unrailed! entra no catálogo como puzzle cooperativo, com foco em trem, co-op, caótico. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 15-30min. Dificuldade fácil e nota 8.6/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "151": {
+    "title": "Ready or Not",
+    "desc": "Ready or Not entra no catálogo como ação tática, com foco em tático, fps, realista. Ideal para grupos de 2-5 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade difícil e nota 8.9/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "152": {
+    "title": "Insurgency: Sandstorm",
+    "desc": "Insurgency: Sandstorm entra no catálogo como ação tática, com foco em fps, tático, realista. Ideal para grupos de 2-8 jogadores.",
+    "mechanic": "Sessões típicas de 20-40min. Dificuldade difícil e nota 8.7/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "153": {
+    "title": "Squad",
+    "desc": "Squad entra no catálogo como ação tática, com foco em militar, tático, squad. Ideal para grupos de 2-100 jogadores.",
+    "mechanic": "Sessões típicas de 40-90min. Dificuldade difícil e nota 8.6/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "154": {
+    "title": "Hell Let Loose",
+    "desc": "Hell Let Loose entra no catálogo como ação tática, com foco em guerra, tático, ww2. Ideal para grupos de 2-100 jogadores.",
+    "mechanic": "Sessões típicas de 40-90min. Dificuldade difícil e nota 8.5/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "155": {
+    "title": "Arma 3",
+    "desc": "Arma 3 entra no catálogo como ação tática, com foco em militar, sandbox, tático. Ideal para grupos de 2-64 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade difícil e nota 8.7/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "156": {
+    "title": "Zero Hour",
+    "desc": "Zero Hour entra no catálogo como ação tática, com foco em tático, fps, co-op. Ideal para grupos de 2-10 jogadores.",
+    "mechanic": "Sessões típicas de 20-40min. Dificuldade difícil e nota 8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "157": {
+    "title": "Six Days in Fallujah",
+    "desc": "Six Days in Fallujah entra no catálogo como ação tática, com foco em tático, fps, militar. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade difícil e nota 8.2/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "158": {
+    "title": "Foxhole",
+    "desc": "Foxhole entra no catálogo como ação tática, com foco em guerra, sandbox, estratégia. Ideal para grupos de 2-120 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 8.6/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "159": {
+    "title": "Dying Light",
+    "desc": "Dying Light entra no catálogo como ação tática, com foco em fps, zumbi, parkour. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 8.8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "160": {
+    "title": "Dying Light 2 Stay Human",
+    "desc": "Dying Light 2 Stay Human entra no catálogo como ação tática, com foco em fps, zumbi, parkour. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 8.4/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "161": {
+    "title": "Dead Island 2",
+    "desc": "Dead Island 2 entra no catálogo como ação tática, com foco em zumbi, ação, loot. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 8.1/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "162": {
+    "title": "Killing Floor 2",
+    "desc": "Killing Floor 2 entra no catálogo como ação tática, com foco em fps, zumbi, horda. Ideal para grupos de 2-6 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade difícil e nota 8.8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "163": {
+    "title": "Back 4 Blood",
+    "desc": "Back 4 Blood entra no catálogo como ação tática, com foco em fps, zumbi, co-op. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.1/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "164": {
+    "title": "World War Z: Aftermath",
+    "desc": "World War Z: Aftermath entra no catálogo como ação tática, com foco em zumbi, shooter, horda. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.4/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "165": {
+    "title": "Warhammer: Vermintide 2",
+    "desc": "Warhammer: Vermintide 2 entra no catálogo como ação tática, com foco em warhammer, melee, horda. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade difícil e nota 9.1/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "166": {
+    "title": "Warhammer 40,000: Darktide",
+    "desc": "Warhammer 40,000: Darktide entra no catálogo como ação tática, com foco em warhammer 40k, fps, horda. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade difícil e nota 8.4/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "167": {
+    "title": "Aliens: Fireteam Elite",
+    "desc": "Aliens: Fireteam Elite entra no catálogo como ação tática, com foco em aliens, shooter, sci-fi. Ideal para grupos de 2-3 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.3/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "168": {
+    "title": "Zombie Army 4: Dead War",
+    "desc": "Zombie Army 4: Dead War entra no catálogo como ação tática, com foco em zumbi, shooter, ww2. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.4/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "169": {
+    "title": "Strange Brigade",
+    "desc": "Strange Brigade entra no catálogo como ação tática, com foco em aventura, shooter, pulp. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.2/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "170": {
+    "title": "Sniper Elite 5",
+    "desc": "Sniper Elite 5 entra no catálogo como ação tática, com foco em sniper, stealth, co-op. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.7/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "171": {
+    "title": "EARTH DEFENSE FORCE 5",
+    "desc": "EARTH DEFENSE FORCE 5 entra no catálogo como ação tática, com foco em ação, robôs, caos. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.7/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "172": {
+    "title": "EARTH DEFENSE FORCE 6",
+    "desc": "EARTH DEFENSE FORCE 6 entra no catálogo como ação tática, com foco em ação, robôs, caos. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.6/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "173": {
+    "title": "Remnant: From the Ashes",
+    "desc": "Remnant: From the Ashes entra no catálogo como ação tática, com foco em soulslike, shooter, co-op. Ideal para grupos de 2-3 jogadores.",
+    "mechanic": "Sessões típicas de 1h. Dificuldade difícil e nota 8.9/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "174": {
+    "title": "Remnant II",
+    "desc": "Remnant II entra no catálogo como ação tática, com foco em soulslike, shooter, co-op. Ideal para grupos de 2-3 jogadores.",
+    "mechanic": "Sessões típicas de 1h. Dificuldade difícil e nota 9/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "175": {
+    "title": "Monster Hunter: World",
+    "desc": "Monster Hunter: World entra no catálogo como ação tática, com foco em caça, rpg, monstros. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade difícil e nota 9.3/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "176": {
+    "title": "Monster Hunter Rise",
+    "desc": "Monster Hunter Rise entra no catálogo como ação tática, com foco em caça, rpg, monstros. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 9/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "177": {
+    "title": "Warframe",
+    "desc": "Warframe entra no catálogo como ação tática, com foco em looter shooter, sci-fi, grátis. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 9/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "178": {
+    "title": "Destiny 2",
+    "desc": "Destiny 2 entra no catálogo como ação tática, com foco em looter shooter, sci-fi, grátis. Ideal para grupos de 2-6 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.5/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "179": {
+    "title": "The First Descendant",
+    "desc": "The First Descendant entra no catálogo como ação tática, com foco em looter shooter, sci-fi, grátis. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.1/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "180": {
+    "title": "HELLDIVERS Dive Harder Edition",
+    "desc": "HELLDIVERS Dive Harder Edition entra no catálogo como ação tática, com foco em top-down, sci-fi, co-op. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.7/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "181": {
+    "title": "PAYDAY 3",
+    "desc": "PAYDAY 3 entra no catálogo como ação tática, com foco em heist, fps, co-op. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 7.8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "182": {
+    "title": "Serious Sam 4",
+    "desc": "Serious Sam 4 entra no catálogo como ação tática, com foco em fps, caos, co-op. Ideal para grupos de 2-16 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.5/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "183": {
+    "title": "Satisfactory",
+    "desc": "Satisfactory entra no catálogo como simulação, com foco em fábrica, construção, automação. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 9.3/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "184": {
+    "title": "Factorio",
+    "desc": "Factorio entra no catálogo como simulação, com foco em automação, fábrica, estratégia. Ideal para grupos de 2-100 jogadores.",
+    "mechanic": "Sessões típicas de 1-3h. Dificuldade difícil e nota 9.6/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "185": {
+    "title": "Mindustry",
+    "desc": "Mindustry entra no catálogo como simulação, com foco em automação, tower defense, sandbox. Ideal para grupos de 2-16 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 9/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "186": {
+    "title": "Trailmakers",
+    "desc": "Trailmakers entra no catálogo como simulação, com foco em construção, veículos, sandbox. Ideal para grupos de 2-8 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade fácil e nota 8.4/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "187": {
+    "title": "Scrap Mechanic",
+    "desc": "Scrap Mechanic entra no catálogo como simulação, com foco em construção, física, sandbox. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 8.7/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "188": {
+    "title": "Space Engineers",
+    "desc": "Space Engineers entra no catálogo como simulação, com foco em espaço, engenharia, sandbox. Ideal para grupos de 2-16 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 8.5/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "189": {
+    "title": "Stormworks: Build and Rescue",
+    "desc": "Stormworks: Build and Rescue entra no catálogo como simulação, com foco em resgate, veículos, simulação. Ideal para grupos de 2-8 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade difícil e nota 8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "190": {
+    "title": "Barotrauma",
+    "desc": "Barotrauma entra no catálogo como simulação, com foco em submarino, terror, tripulação. Ideal para grupos de 2-8 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade difícil e nota 8.9/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "191": {
+    "title": "PULSAR: Lost Colony",
+    "desc": "PULSAR: Lost Colony entra no catálogo como simulação, com foco em espaço, tripulação, exploração. Ideal para grupos de 2-5 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 8.5/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "192": {
+    "title": "Sea of Thieves",
+    "desc": "Sea of Thieves entra no catálogo como simulação, com foco em pirata, aventura, mundo aberto. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade moderada e nota 8.8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "193": {
+    "title": "PowerWash Simulator",
+    "desc": "PowerWash Simulator entra no catálogo como simulação, com foco em limpeza, relaxante, co-op. Ideal para grupos de 2-6 jogadores.",
+    "mechanic": "Sessões típicas de 20-40min. Dificuldade fácil e nota 8.7/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "194": {
+    "title": "Farm Together",
+    "desc": "Farm Together entra no catálogo como simulação, com foco em fazenda, relaxante, co-op. Ideal para grupos de 2-16 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade fácil e nota 8.8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "195": {
+    "title": "Farming Simulator 22",
+    "desc": "Farming Simulator 22 entra no catálogo como simulação, com foco em fazenda, simulação, veículos. Ideal para grupos de 2-16 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade fácil e nota 8.3/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "196": {
+    "title": "American Truck Simulator",
+    "desc": "American Truck Simulator entra no catálogo como simulação, com foco em caminhão, simulação, comboio. Ideal para grupos de 2-8 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade fácil e nota 8.5/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "197": {
+    "title": "Euro Truck Simulator 2",
+    "desc": "Euro Truck Simulator 2 entra no catálogo como simulação, com foco em caminhão, simulação, comboio. Ideal para grupos de 2-8 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade fácil e nota 8.8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "198": {
+    "title": "Ranch Simulator",
+    "desc": "Ranch Simulator entra no catálogo como simulação, com foco em fazenda, construção, animais. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 1-2h. Dificuldade fácil e nota 8.1/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "199": {
+    "title": "Diner Bros",
+    "desc": "Diner Bros entra no catálogo como simulação, com foco em restaurante, co-op, caótico. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.4/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "200": {
+    "title": "Cook, Serve, Delicious! 3?!",
+    "desc": "Cook, Serve, Delicious! 3?! entra no catálogo como simulação, com foco em cozinha, gestão, caótico. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 20-40min. Dificuldade moderada e nota 8.2/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "201": {
+    "title": "Ultimate Chicken Horse",
+    "desc": "Ultimate Chicken Horse entra no catálogo como party game, com foco em party, plataforma, caos. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 10-20min. Dificuldade fácil e nota 9.1/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "202": {
+    "title": "Boomerang Fu",
+    "desc": "Boomerang Fu entra no catálogo como party game, com foco em party, arena, comida. Ideal para grupos de 2-6 jogadores.",
+    "mechanic": "Sessões típicas de 5-15min. Dificuldade fácil e nota 8.7/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "203": {
+    "title": "Stick Fight: The Game",
+    "desc": "Stick Fight: The Game entra no catálogo como party game, com foco em luta, física, caótico. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 5-15min. Dificuldade fácil e nota 8.5/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "204": {
+    "title": "Rubber Bandits",
+    "desc": "Rubber Bandits entra no catálogo como party game, com foco em luta, crime, física. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 10-20min. Dificuldade fácil e nota 8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "205": {
+    "title": "Party Animals",
+    "desc": "Party Animals entra no catálogo como party game, com foco em party, animais, física. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 10-20min. Dificuldade fácil e nota 8.4/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "206": {
+    "title": "SpeedRunners",
+    "desc": "SpeedRunners entra no catálogo como party game, com foco em corrida, plataforma, competitivo. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 5-15min. Dificuldade moderada e nota 8.4/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "207": {
+    "title": "Crawl",
+    "desc": "Crawl entra no catálogo como party game, com foco em dungeon, pvp, local. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 20-40min. Dificuldade moderada e nota 8.5/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "208": {
+    "title": "Duck Game",
+    "desc": "Duck Game entra no catálogo como party game, com foco em party, tiros, patos. Ideal para grupos de 2-8 jogadores.",
+    "mechanic": "Sessões típicas de 5-15min. Dificuldade fácil e nota 8.7/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "209": {
+    "title": "TowerFall Ascension",
+    "desc": "TowerFall Ascension entra no catálogo como party game, com foco em arqueiros, arena, local. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 5-15min. Dificuldade moderada e nota 8.6/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "210": {
+    "title": "Samurai Gunn 2",
+    "desc": "Samurai Gunn 2 entra no catálogo como party game, com foco em arena, samurai, local. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 5-15min. Dificuldade moderada e nota 8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "211": {
+    "title": "Retimed",
+    "desc": "Retimed entra no catálogo como party game, com foco em arena, slow motion, local. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 5-15min. Dificuldade fácil e nota 7.9/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "212": {
+    "title": "Nidhogg 2",
+    "desc": "Nidhogg 2 entra no catálogo como party game, com foco em duelo, ação, estranho. Ideal para grupos de 2 jogadores.",
+    "mechanic": "Sessões típicas de 5-15min. Dificuldade moderada e nota 8.1/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "213": {
+    "title": "Knight Squad",
+    "desc": "Knight Squad entra no catálogo como party game, com foco em arena, cavaleiros, local. Ideal para grupos de 2-8 jogadores.",
+    "mechanic": "Sessões típicas de 5-15min. Dificuldade fácil e nota 8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "214": {
+    "title": "Knight Squad 2",
+    "desc": "Knight Squad 2 entra no catálogo como party game, com foco em arena, cavaleiros, local. Ideal para grupos de 2-8 jogadores.",
+    "mechanic": "Sessões típicas de 5-15min. Dificuldade fácil e nota 8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "215": {
+    "title": "Brawlhalla",
+    "desc": "Brawlhalla entra no catálogo como party game, com foco em luta, grátis, plataforma. Ideal para grupos de 2-8 jogadores.",
+    "mechanic": "Sessões típicas de 5-15min. Dificuldade fácil e nota 8.1/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "216": {
+    "title": "Rivals of Aether",
+    "desc": "Rivals of Aether entra no catálogo como party game, com foco em luta, plataforma, competitivo. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 5-15min. Dificuldade moderada e nota 8.7/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "217": {
+    "title": "Lethal League Blaze",
+    "desc": "Lethal League Blaze entra no catálogo como party game, com foco em esporte, luta, arcade. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 5-15min. Dificuldade moderada e nota 8.6/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "218": {
+    "title": "Tricky Towers",
+    "desc": "Tricky Towers entra no catálogo como party game, com foco em puzzle, tetris, competitivo. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 10-20min. Dificuldade fácil e nota 8.3/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "219": {
+    "title": "Worms W.M.D",
+    "desc": "Worms W.M.D entra no catálogo como party game, com foco em estratégia, vermes, turnos. Ideal para grupos de 2-6 jogadores.",
+    "mechanic": "Sessões típicas de 10-20min. Dificuldade fácil e nota 8.2/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "220": {
+    "title": "Worms Armageddon",
+    "desc": "Worms Armageddon entra no catálogo como party game, com foco em estratégia, vermes, clássico. Ideal para grupos de 2-6 jogadores.",
+    "mechanic": "Sessões típicas de 10-20min. Dificuldade fácil e nota 8.5/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "221": {
+    "title": "Screencheat",
+    "desc": "Screencheat entra no catálogo como party game, com foco em fps, tela dividida, comédia. Ideal para grupos de 2-8 jogadores.",
+    "mechanic": "Sessões típicas de 10-20min. Dificuldade moderada e nota 8.1/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "222": {
+    "title": "Golf With Your Friends",
+    "desc": "Golf With Your Friends entra no catálogo como party game, com foco em golf, party, casual. Ideal para grupos de 2-12 jogadores.",
+    "mechanic": "Sessões típicas de 10-20min. Dificuldade fácil e nota 8.6/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "223": {
+    "title": "Golf It!",
+    "desc": "Golf It! entra no catálogo como party game, com foco em golf, workshop, casual. Ideal para grupos de 2-8 jogadores.",
+    "mechanic": "Sessões típicas de 10-20min. Dificuldade fácil e nota 8.3/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "224": {
+    "title": "Move or Die",
+    "desc": "Move or Die entra no catálogo como party game, com foco em party, morrer, caótico. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 5-15min. Dificuldade fácil e nota 8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "225": {
+    "title": "Tabletop Simulator",
+    "desc": "Tabletop Simulator entra no catálogo como party game, com foco em board game, sandbox, workshop. Ideal para grupos de 2-10 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade fácil e nota 9/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "226": {
+    "title": "Goose Goose Duck",
+    "desc": "Goose Goose Duck entra no catálogo como party game, com foco em social, dedução, gansos. Ideal para grupos de 2-16 jogadores.",
+    "mechanic": "Sessões típicas de 10-20min. Dificuldade fácil e nota 8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "227": {
+    "title": "Project Winter",
+    "desc": "Project Winter entra no catálogo como party game, com foco em social, sobrevivência, traição. Ideal para grupos de 2-8 jogadores.",
+    "mechanic": "Sessões típicas de 20-40min. Dificuldade moderada e nota 8.3/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "228": {
+    "title": "First Class Trouble",
+    "desc": "First Class Trouble entra no catálogo como party game, com foco em social, dedução, comédia. Ideal para grupos de 2-6 jogadores.",
+    "mechanic": "Sessões típicas de 10-20min. Dificuldade fácil e nota 7.9/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "229": {
+    "title": "Deceit",
+    "desc": "Deceit entra no catálogo como party game, com foco em social, dedução, terror. Ideal para grupos de 2-9 jogadores.",
+    "mechanic": "Sessões típicas de 10-20min. Dificuldade moderada e nota 7.8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "230": {
+    "title": "Unfortunate Spacemen",
+    "desc": "Unfortunate Spacemen entra no catálogo como party game, com foco em social, dedução, grátis. Ideal para grupos de 2-16 jogadores.",
+    "mechanic": "Sessões típicas de 10-20min. Dificuldade fácil e nota 8.4/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "231": {
+    "title": "West Hunt",
+    "desc": "West Hunt entra no catálogo como party game, com foco em social, dedução, velho oeste. Ideal para grupos de 2-6 jogadores.",
+    "mechanic": "Sessões típicas de 10-20min. Dificuldade fácil e nota 7.8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "232": {
+    "title": "Content Warning",
+    "desc": "Content Warning entra no catálogo como party game, com foco em horror, co-op, filmagem. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 15-30min. Dificuldade fácil e nota 8.8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "233": {
+    "title": "Escape the Backrooms",
+    "desc": "Escape the Backrooms entra no catálogo como party game, com foco em backrooms, horror, co-op. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 20-40min. Dificuldade moderada e nota 8.3/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "234": {
+    "title": "DEVOUR",
+    "desc": "DEVOUR entra no catálogo como party game, com foco em horror, ritual, co-op. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 20-40min. Dificuldade moderada e nota 8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "235": {
+    "title": "Pacify",
+    "desc": "Pacify entra no catálogo como party game, com foco em horror, co-op, caça. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 20-40min. Dificuldade moderada e nota 7.8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "236": {
+    "title": "Labyrinthine",
+    "desc": "Labyrinthine entra no catálogo como party game, com foco em horror, labirinto, co-op. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 8.4/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "237": {
+    "title": "FOREWARNED",
+    "desc": "FOREWARNED entra no catálogo como party game, com foco em horror, egito, co-op. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 20-40min. Dificuldade moderada e nota 8.1/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "238": {
+    "title": "Demonologist",
+    "desc": "Demonologist entra no catálogo como party game, com foco em horror, investigação, co-op. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 20-40min. Dificuldade moderada e nota 8.1/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "239": {
+    "title": "The Outlast Trials",
+    "desc": "The Outlast Trials entra no catálogo como party game, com foco em horror, co-op, missões. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade difícil e nota 8.5/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "240": {
+    "title": "BIGFOOT",
+    "desc": "BIGFOOT entra no catálogo como party game, com foco em horror, criptídeo, co-op. Ideal para grupos de 2-4 jogadores.",
+    "mechanic": "Sessões típicas de 30-60min. Dificuldade moderada e nota 7.8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "241": {
+    "title": "Forza Horizon 5",
+    "desc": "Forza Horizon 5 entra no catálogo como party game, com foco em corrida, open world, carros. Ideal para grupos de 2-72 jogadores.",
+    "mechanic": "Sessões típicas de 20-40min. Dificuldade fácil e nota 8.8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "242": {
+    "title": "Wreckfest",
+    "desc": "Wreckfest entra no catálogo como party game, com foco em corrida, destruição, carros. Ideal para grupos de 2-24 jogadores.",
+    "mechanic": "Sessões típicas de 10-20min. Dificuldade fácil e nota 8.4/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "243": {
+    "title": "HOT WHEELS UNLEASHED 2 - Turbocharged",
+    "desc": "HOT WHEELS UNLEASHED 2 - Turbocharged entra no catálogo como party game, com foco em corrida, arcade, hot wheels. Ideal para grupos de 2-12 jogadores.",
+    "mechanic": "Sessões típicas de 10-20min. Dificuldade fácil e nota 8/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  },
+  "244": {
+    "title": "Descenders",
+    "desc": "Descenders entra no catálogo como party game, com foco em bicicleta, esporte, manobras. Ideal para grupos de 2-8 jogadores.",
+    "mechanic": "Sessões típicas de 15-30min. Dificuldade fácil e nota 8.2/10.",
+    "verdict": "Veja tags, nota e gameplay antes de fechar com o grupo."
+  }
+}

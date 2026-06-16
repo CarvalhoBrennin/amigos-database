@@ -1,0 +1,7052 @@
+[
+  {
+    "id": 1,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Moderada",
+    "rating": 9.9,
+    "year": 2021,
+    "catalogPrice": "R$ 199",
+    "session": "1h",
+    "tags": [
+      "Puzzle",
+      "Plataforma",
+      "História",
+      "Split-Screen"
+    ],
+    "stats": [
+      9,
+      7,
+      5,
+      4,
+      10
+    ],
+    "imgQ": "It Takes Two gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 2,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Fácil",
+    "rating": 8.5,
+    "year": 2018,
+    "catalogPrice": "R$ 99",
+    "session": "45min",
+    "tags": [
+      "Ação",
+      "Drama",
+      "Split-Screen"
+    ],
+    "stats": [
+      8,
+      5,
+      4,
+      6,
+      9
+    ],
+    "imgQ": "A Way Out prison escape gameplay",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 3,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Difícil",
+    "rating": 9.7,
+    "year": 2011,
+    "catalogPrice": "R$ 37",
+    "session": "1h",
+    "tags": [
+      "Puzzle",
+      "Sci-Fi",
+      "Humor"
+    ],
+    "stats": [
+      10,
+      6,
+      3,
+      9,
+      7
+    ],
+    "imgQ": "Portal 2 coop puzzle gameplay",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 4,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Difícil",
+    "rating": 9.6,
+    "year": 2017,
+    "catalogPrice": "R$ 140",
+    "session": "2-3h",
+    "tags": [
+      "RPG",
+      "Tático",
+      "Fantasia",
+      "História"
+    ],
+    "stats": [
+      7,
+      8,
+      4,
+      10,
+      10
+    ],
+    "imgQ": "Divinity Original Sin 2 tactical combat",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 5,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 9.8,
+    "year": 2023,
+    "catalogPrice": "R$ 300",
+    "session": "2-4h",
+    "tags": [
+      "RPG",
+      "D&D",
+      "Fantasia",
+      "História"
+    ],
+    "stats": [
+      8,
+      6,
+      5,
+      9,
+      10
+    ],
+    "imgQ": "Baldurs Gate 3 party combat",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 31,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 9.7,
+    "year": 2009,
+    "catalogPrice": "R$ 32",
+    "session": "30-60min",
+    "tags": [
+      "FPS",
+      "Zumbi",
+      "Ação"
+    ],
+    "stats": [
+      8,
+      7,
+      9,
+      6,
+      5
+    ],
+    "imgQ": "Left 4 Dead 2 gameplay",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 32,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 9.6,
+    "year": 2012,
+    "catalogPrice": "R$ 45",
+    "session": "1-2h",
+    "tags": [
+      "FPS",
+      "RPG",
+      "Loot"
+    ],
+    "stats": [
+      6,
+      7,
+      9,
+      7,
+      9
+    ],
+    "imgQ": "Borderlands 2 gameplay",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 33,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Brutal",
+    "rating": 9.6,
+    "year": 2017,
+    "catalogPrice": "R$ 36",
+    "session": "15-30min",
+    "tags": [
+      "Plataforma",
+      "Difícil",
+      "2D"
+    ],
+    "stats": [
+      7,
+      10,
+      8,
+      5,
+      6
+    ],
+    "imgQ": "Cuphead co-op boss fight",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268910/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 35,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Moderada",
+    "rating": 9,
+    "year": 2018,
+    "catalogPrice": "R$ 59",
+    "session": "30-45min",
+    "tags": [
+      "Plataforma",
+      "Puzzle",
+      "Física"
+    ],
+    "stats": [
+      9,
+      6,
+      2,
+      7,
+      8
+    ],
+    "imgQ": "Unravel Two gameplay",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225570/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 39,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Difícil",
+    "rating": 8.3,
+    "year": 2015,
+    "catalogPrice": "R$ 27",
+    "session": "30-45min",
+    "tags": [
+      "Ação",
+      "Comédia",
+      "Magia"
+    ],
+    "stats": [
+      8,
+      8,
+      10,
+      6,
+      4
+    ],
+    "imgQ": "Magicka 2 spell casting",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252680/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 40,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Fácil",
+    "rating": 9.6,
+    "year": 2012,
+    "catalogPrice": "R$ 24",
+    "session": "30min",
+    "tags": [
+      "Ação",
+      "2D",
+      "Indie"
+    ],
+    "stats": [
+      4,
+      5,
+      8,
+      3,
+      5
+    ],
+    "imgQ": "Castle Crashers gameplay",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204360/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 41,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Moderada",
+    "rating": 9.7,
+    "year": 2014,
+    "catalogPrice": "R$ 24",
+    "session": "20-40min",
+    "tags": [
+      "Plataforma",
+      "Comédia",
+      "2D"
+    ],
+    "stats": [
+      7,
+      6,
+      8,
+      5,
+      9
+    ],
+    "imgQ": "BattleBlock Theater gameplay",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238460/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 42,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 9,
+    "year": 2019,
+    "catalogPrice": "R$ 57",
+    "session": "40-60min",
+    "tags": [
+      "Puzzle",
+      "Plataforma",
+      "Fantasia"
+    ],
+    "stats": [
+      8,
+      5,
+      3,
+      8,
+      7
+    ],
+    "imgQ": "Trine 4 gameplay",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690640/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 44,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Difícil",
+    "rating": 9.5,
+    "year": 2015,
+    "catalogPrice": "R$ 46",
+    "session": "15-20min",
+    "tags": [
+      "Ação",
+      "Plataforma",
+      "Retrô"
+    ],
+    "stats": [
+      5,
+      7,
+      10,
+      4,
+      3
+    ],
+    "imgQ": "Broforce gameplay",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274190/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 45,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Difícil",
+    "rating": 9.2,
+    "year": 2015,
+    "catalogPrice": "R$ 27",
+    "session": "20-30min",
+    "tags": [
+      "Ação",
+      "Espaço",
+      "Colorido"
+    ],
+    "stats": [
+      10,
+      6,
+      8,
+      8,
+      4
+    ],
+    "imgQ": "Lovers in a Dangerous Spacetime gameplay",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252110/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 47,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Fácil",
+    "rating": 8.9,
+    "year": 2020,
+    "catalogPrice": "R$ 74",
+    "session": "20-40min",
+    "tags": [
+      "RPG",
+      "Ação",
+      "Minecraft"
+    ],
+    "stats": [
+      5,
+      4,
+      6,
+      5,
+      4
+    ],
+    "imgQ": "Minecraft Dungeons gameplay",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672970/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 48,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Brutal",
+    "rating": 8.4,
+    "year": 2023,
+    "catalogPrice": "R$ 46",
+    "session": "30min",
+    "tags": [
+      "Plataforma",
+      "Difícil",
+      "Fofo"
+    ],
+    "stats": [
+      9,
+      8,
+      7,
+      6,
+      3
+    ],
+    "imgQ": "Bread and Fred gameplay",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1607680/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 6,
+    "type": "survival",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Difícil",
+    "rating": 9.2,
+    "year": 2023,
+    "catalogPrice": "R$ 40",
+    "session": "30-45min",
+    "tags": [
+      "Horror",
+      "Exploração",
+      "Comédia"
+    ],
+    "stats": [
+      10,
+      6,
+      9,
+      5,
+      3
+    ],
+    "imgQ": "Lethal Company monster encounter",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 7,
+    "type": "survival",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.8,
+    "year": 2020,
+    "catalogPrice": "R$ 47",
+    "session": "20-30min",
+    "tags": [
+      "Horror",
+      "Investigação",
+      "VR"
+    ],
+    "stats": [
+      9,
+      5,
+      7,
+      8,
+      2
+    ],
+    "imgQ": "Phasmophobia ghost hunting equipment",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 8,
+    "type": "survival",
+    "players": [
+      2,
+      8
+    ],
+    "diff": "Moderada",
+    "rating": 8.4,
+    "year": 2018,
+    "catalogPrice": "R$ 37",
+    "session": "1-2h",
+    "tags": [
+      "Sobrevivência",
+      "Horror",
+      "Construção"
+    ],
+    "stats": [
+      7,
+      6,
+      7,
+      6,
+      7
+    ],
+    "imgQ": "The Forest base building survival",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 9,
+    "type": "survival",
+    "players": [
+      2,
+      8
+    ],
+    "diff": "Difícil",
+    "rating": 8.7,
+    "year": 2023,
+    "catalogPrice": "R$ 100",
+    "session": "1-2h",
+    "tags": [
+      "Sobrevivência",
+      "Horror",
+      "Open World"
+    ],
+    "stats": [
+      7,
+      7,
+      8,
+      6,
+      6
+    ],
+    "imgQ": "Sons of the Forest kelvin companion",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/940020/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 10,
+    "type": "survival",
+    "players": [
+      2,
+      8
+    ],
+    "diff": "Fácil",
+    "rating": 8.2,
+    "year": 2022,
+    "catalogPrice": "R$ 75",
+    "session": "1-2h",
+    "tags": [
+      "Sobrevivência",
+      "Construção",
+      "Oceano"
+    ],
+    "stats": [
+      6,
+      4,
+      4,
+      5,
+      6
+    ],
+    "imgQ": "Raft ocean survival building",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 11,
+    "type": "survival",
+    "players": [
+      2,
+      6
+    ],
+    "diff": "Brutal",
+    "rating": 8.9,
+    "year": 2016,
+    "catalogPrice": "R$ 28",
+    "session": "1-2h",
+    "tags": [
+      "Sobrevivência",
+      "Roguelike",
+      "Gótico"
+    ],
+    "stats": [
+      7,
+      8,
+      7,
+      9,
+      4
+    ],
+    "imgQ": "Dont Starve Together winter survival",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 29,
+    "type": "survival",
+    "players": [
+      2,
+      32
+    ],
+    "diff": "Moderada",
+    "rating": 9,
+    "year": 2024,
+    "catalogPrice": "R$ 89",
+    "session": "1-2h",
+    "tags": [
+      "Survival",
+      "Creature Collector",
+      "Open World"
+    ],
+    "stats": [
+      6,
+      5,
+      7,
+      7,
+      4
+    ],
+    "imgQ": "Palworld gameplay",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 30,
+    "type": "survival",
+    "players": [
+      2,
+      8
+    ],
+    "diff": "Moderada",
+    "rating": 9.8,
+    "year": 2011,
+    "catalogPrice": "R$ 20",
+    "session": "1-2h",
+    "tags": [
+      "Sandbox",
+      "2D",
+      "Crafting"
+    ],
+    "stats": [
+      5,
+      6,
+      7,
+      8,
+      3
+    ],
+    "imgQ": "Terraria gameplay",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 12,
+    "type": "roguelike",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Difícil",
+    "rating": 9.1,
+    "year": 2020,
+    "catalogPrice": "R$ 50",
+    "session": "30-60min",
+    "tags": [
+      "Roguelike",
+      "Shooter",
+      "Sci-Fi"
+    ],
+    "stats": [
+      5,
+      9,
+      8,
+      7,
+      2
+    ],
+    "imgQ": "Risk of Rain 2 multiplayer action",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 13,
+    "type": "roguelike",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.7,
+    "year": 2021,
+    "catalogPrice": "R$ 40",
+    "session": "40-60min",
+    "tags": [
+      "Roguelike",
+      "FPS",
+      "Fantasia"
+    ],
+    "stats": [
+      5,
+      8,
+      7,
+      6,
+      3
+    ],
+    "imgQ": "Gunfire Reborn character abilities",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1217060/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 14,
+    "type": "roguelike",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 9.4,
+    "year": 2020,
+    "catalogPrice": "R$ 55",
+    "session": "20-40min",
+    "tags": [
+      "FPS",
+      "Mineração",
+      "Classes"
+    ],
+    "stats": [
+      8,
+      7,
+      8,
+      6,
+      3
+    ],
+    "imgQ": "Deep Rock Galactic mining dwarves",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 16,
+    "type": "puzzle",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Difícil",
+    "rating": 8.6,
+    "year": 2023,
+    "catalogPrice": "R$ 50",
+    "session": "2-3h",
+    "tags": [
+      "Puzzle",
+      "Assimétrico",
+      "Escape Room"
+    ],
+    "stats": [
+      10,
+      5,
+      3,
+      8,
+      6
+    ],
+    "imgQ": "We Were Here puzzle solving",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582500/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 17,
+    "type": "puzzle",
+    "players": [
+      2,
+      6
+    ],
+    "diff": "Moderada",
+    "rating": 8.8,
+    "year": 2015,
+    "catalogPrice": "R$ 28",
+    "session": "5-10min",
+    "tags": [
+      "Puzzle",
+      "Party",
+      "VR"
+    ],
+    "stats": [
+      10,
+      6,
+      7,
+      7,
+      1
+    ],
+    "imgQ": "Keep Talking bomb defusal",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/341800/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 18,
+    "type": "puzzle",
+    "players": [
+      2,
+      8
+    ],
+    "diff": "Moderada",
+    "rating": 8.4,
+    "year": 2021,
+    "catalogPrice": "R$ 37",
+    "session": "30-60min",
+    "tags": [
+      "Puzzle",
+      "Escape Room",
+      "Workshop"
+    ],
+    "stats": [
+      7,
+      4,
+      3,
+      8,
+      4
+    ],
+    "imgQ": "Escape Simulator room puzzle",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1435790/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 34,
+    "type": "puzzle",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Moderada",
+    "rating": 9.3,
+    "year": 2022,
+    "catalogPrice": "R$ 20",
+    "session": "1-2h",
+    "tags": [
+      "Puzzle",
+      "Mistério",
+      "Assimétrico"
+    ],
+    "stats": [
+      9,
+      3,
+      2,
+      6,
+      9
+    ],
+    "imgQ": "The Past Within gameplay",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 36,
+    "type": "puzzle",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Moderada",
+    "rating": 8.9,
+    "year": 2021,
+    "catalogPrice": "R$ 40",
+    "session": "2-3h",
+    "tags": [
+      "Espionagem",
+      "Puzzle",
+      "Co-op"
+    ],
+    "stats": [
+      10,
+      4,
+      3,
+      7,
+      6
+    ],
+    "imgQ": "Operation Tango gameplay",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1335790/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 19,
+    "type": "tactical_action",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Brutal",
+    "rating": 8.5,
+    "year": 2021,
+    "catalogPrice": "R$ 75",
+    "session": "1-2h",
+    "tags": [
+      "Horror",
+      "Tático",
+      "Stealth"
+    ],
+    "stats": [
+      10,
+      9,
+      5,
+      9,
+      4
+    ],
+    "imgQ": "GTFO tactical horror gameplay",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/493520/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 20,
+    "type": "tactical_action",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Difícil",
+    "rating": 9,
+    "year": 2024,
+    "catalogPrice": "R$ 200",
+    "session": "20-40min",
+    "tags": [
+      "Shooter",
+      "Tático",
+      "Sci-Fi"
+    ],
+    "stats": [
+      9,
+      8,
+      10,
+      7,
+      3
+    ],
+    "imgQ": "Helldivers 2 orbital strike",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 21,
+    "type": "tactical_action",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.3,
+    "year": 2013,
+    "catalogPrice": "R$ 37",
+    "session": "15-30min",
+    "tags": [
+      "FPS",
+      "Stealth",
+      "Crime"
+    ],
+    "stats": [
+      8,
+      7,
+      8,
+      7,
+      4
+    ],
+    "imgQ": "Payday 2 heist gameplay",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 43,
+    "type": "tactical_action",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 9.2,
+    "year": 2013,
+    "catalogPrice": "R$ 27",
+    "session": "10-20min",
+    "tags": [
+      "Stealth",
+      "Indie",
+      "Crime"
+    ],
+    "stats": [
+      8,
+      6,
+      8,
+      7,
+      5
+    ],
+    "imgQ": "Monaco gameplay",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/113000/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 22,
+    "type": "simulation",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.9,
+    "year": 2018,
+    "catalogPrice": "R$ 46",
+    "session": "5-10min",
+    "tags": [
+      "Party",
+      "Comédia",
+      "Local Co-op"
+    ],
+    "stats": [
+      10,
+      6,
+      10,
+      5,
+      1
+    ],
+    "imgQ": "Overcooked 2 kitchen chaos",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 23,
+    "type": "simulation",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Difícil",
+    "rating": 8.6,
+    "year": 2022,
+    "catalogPrice": "R$ 37",
+    "session": "30-60min",
+    "tags": [
+      "Roguelike",
+      "Restaurante",
+      "Automação"
+    ],
+    "stats": [
+      9,
+      7,
+      8,
+      8,
+      2
+    ],
+    "imgQ": "Plate Up restaurant automation",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 24,
+    "type": "simulation",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Fácil",
+    "rating": 9.3,
+    "year": 2016,
+    "catalogPrice": "R$ 25",
+    "session": "1-2h",
+    "tags": [
+      "Fazenda",
+      "RPG",
+      "Relaxante"
+    ],
+    "stats": [
+      5,
+      4,
+      2,
+      6,
+      7
+    ],
+    "imgQ": "Stardew Valley farm co-op",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 46,
+    "type": "simulation",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Fácil",
+    "rating": 8.5,
+    "year": 2023,
+    "catalogPrice": "R$ 100",
+    "session": "10-20min",
+    "tags": [
+      "Party",
+      "Física",
+      "Local Co-op"
+    ],
+    "stats": [
+      8,
+      4,
+      9,
+      5,
+      2
+    ],
+    "imgQ": "Moving Out 2 gameplay",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1640030/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 25,
+    "type": "party",
+    "players": [
+      3,
+      8
+    ],
+    "diff": "Fácil",
+    "rating": 8.7,
+    "year": 2023,
+    "catalogPrice": "R$ 100",
+    "session": "5-15min",
+    "tags": [
+      "Party",
+      "Quiz",
+      "Criatividade"
+    ],
+    "stats": [
+      8,
+      3,
+      7,
+      3,
+      2
+    ],
+    "imgQ": "Jackbox party game quiplash",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/434170/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 26,
+    "type": "party",
+    "players": [
+      4,
+      15
+    ],
+    "diff": "Fácil",
+    "rating": 8,
+    "year": 2020,
+    "catalogPrice": "Grátis",
+    "session": "10-15min",
+    "tags": [
+      "Social",
+      "Dedução",
+      "Traição"
+    ],
+    "stats": [
+      10,
+      3,
+      8,
+      5,
+      2
+    ],
+    "imgQ": "Among Us emergency meeting",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 27,
+    "type": "party",
+    "players": [
+      2,
+      8
+    ],
+    "diff": "Fácil",
+    "rating": 7.8,
+    "year": 2017,
+    "catalogPrice": "R$ 37",
+    "session": "5-10min",
+    "tags": [
+      "Party",
+      "Luta",
+      "Física"
+    ],
+    "stats": [
+      6,
+      4,
+      10,
+      2,
+      1
+    ],
+    "imgQ": "Gang Beasts wrestling chaos",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/285900/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 28,
+    "type": "party",
+    "players": [
+      2,
+      8
+    ],
+    "diff": "Fácil",
+    "rating": 8.1,
+    "year": 2016,
+    "catalogPrice": "R$ 37",
+    "session": "30-60min",
+    "tags": [
+      "Puzzle",
+      "Física",
+      "Workshop"
+    ],
+    "stats": [
+      6,
+      4,
+      7,
+      4,
+      2
+    ],
+    "imgQ": "Human Fall Flat puzzle climbing",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/477160/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 37,
+    "type": "party",
+    "players": [
+      2,
+      8
+    ],
+    "diff": "Difícil",
+    "rating": 8.5,
+    "year": 2021,
+    "catalogPrice": "R$ 16",
+    "session": "15-30min",
+    "tags": [
+      "Puzzle",
+      "Local Co-op",
+      "2D"
+    ],
+    "stats": [
+      10,
+      5,
+      8,
+      4,
+      1
+    ],
+    "imgQ": "Pico Park gameplay",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509960/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 38,
+    "type": "party",
+    "players": [
+      4,
+      8
+    ],
+    "diff": "Fácil",
+    "rating": 8.8,
+    "year": 2018,
+    "catalogPrice": "R$ 30",
+    "session": "40-60min",
+    "tags": [
+      "Board Game",
+      "Minigames",
+      "Violento"
+    ],
+    "stats": [
+      4,
+      7,
+      10,
+      5,
+      2
+    ],
+    "imgQ": "Pummel Party minigames",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/880940/header.jpg",
+    "storeUrl": null,
+    "youtubeUrl": null
+  },
+  {
+    "id": 49,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Moderada",
+    "rating": 9.3,
+    "year": 2021,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Ação",
+      "Sci-Fi",
+      "Campanha"
+    ],
+    "stats": [
+      8,
+      6,
+      8,
+      6,
+      8
+    ],
+    "imgQ": "Halo: The Master Chief Collection gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/976730/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 50,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      3
+    ],
+    "diff": "Moderada",
+    "rating": 8.8,
+    "year": 2021,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Shooter",
+      "Sci-Fi",
+      "Campanha"
+    ],
+    "stats": [
+      8,
+      6,
+      9,
+      6,
+      7
+    ],
+    "imgQ": "Halo Infinite gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240440/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1240440/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 51,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      3
+    ],
+    "diff": "Moderada",
+    "rating": 8.7,
+    "year": 2019,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Shooter",
+      "Ação",
+      "Campanha"
+    ],
+    "stats": [
+      8,
+      6,
+      9,
+      6,
+      7
+    ],
+    "imgQ": "Gears 5 gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097840/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1097840/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 52,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 9,
+    "year": 2019,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "FPS",
+      "Loot",
+      "Humor"
+    ],
+    "stats": [
+      7,
+      6,
+      9,
+      6,
+      8
+    ],
+    "imgQ": "Borderlands 3 gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397540/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/397540/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 53,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.6,
+    "year": 2022,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "FPS",
+      "Loot",
+      "Fantasia"
+    ],
+    "stats": [
+      7,
+      6,
+      9,
+      6,
+      8
+    ],
+    "imgQ": "Tiny Tina's Wonderlands gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1286680/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 54,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.8,
+    "year": 2014,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "FPS",
+      "Loot",
+      "Sci-Fi"
+    ],
+    "stats": [
+      6,
+      6,
+      9,
+      6,
+      8
+    ],
+    "imgQ": "Borderlands: The Pre-Sequel gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261640/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/261640/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 55,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 9,
+    "year": 2019,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "FPS",
+      "Loot",
+      "Ação"
+    ],
+    "stats": [
+      6,
+      6,
+      9,
+      6,
+      8
+    ],
+    "imgQ": "Borderlands GOTY Enhanced gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/729040/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/729040/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 56,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Fácil",
+    "rating": 8.7,
+    "year": 2022,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Beat em up",
+      "Tartarugas",
+      "Retrô"
+    ],
+    "stats": [
+      7,
+      5,
+      9,
+      4,
+      5
+    ],
+    "imgQ": "Teenage Mutant Ninja Turtles: Shredder's Revenge gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361510/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1361510/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 57,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.9,
+    "year": 2020,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Beat em up",
+      "Ação",
+      "Retrô"
+    ],
+    "stats": [
+      7,
+      6,
+      9,
+      4,
+      5
+    ],
+    "imgQ": "Streets of Rage 4 gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985890/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/985890/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 58,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Moderada",
+    "rating": 8.6,
+    "year": 2018,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Metroidvania",
+      "Luta",
+      "Co-op"
+    ],
+    "stats": [
+      7,
+      6,
+      8,
+      5,
+      6
+    ],
+    "imgQ": "Guacamelee! 2 gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534550/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/534550/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 59,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Difícil",
+    "rating": 8.9,
+    "year": 2020,
+    "catalogPrice": "Consultar",
+    "session": "20-40min",
+    "tags": [
+      "Plataforma",
+      "Roguelike",
+      "Difícil"
+    ],
+    "stats": [
+      7,
+      8,
+      8,
+      6,
+      4
+    ],
+    "imgQ": "Spelunky 2 gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418530/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/418530/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 60,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Difícil",
+    "rating": 8.5,
+    "year": 2013,
+    "catalogPrice": "Consultar",
+    "session": "20-40min",
+    "tags": [
+      "Plataforma",
+      "Roguelike",
+      "Local Co-op"
+    ],
+    "stats": [
+      7,
+      8,
+      8,
+      5,
+      4
+    ],
+    "imgQ": "Spelunky gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239350/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/239350/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 61,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Fácil",
+    "rating": 8.8,
+    "year": 2013,
+    "catalogPrice": "Consultar",
+    "session": "45-60min",
+    "tags": [
+      "Plataforma",
+      "Colorido",
+      "Co-op"
+    ],
+    "stats": [
+      8,
+      5,
+      6,
+      4,
+      6
+    ],
+    "imgQ": "Rayman Legends gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242550/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/242550/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 62,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Fácil",
+    "rating": 8.2,
+    "year": 2020,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Puzzle",
+      "Física",
+      "Fofo"
+    ],
+    "stats": [
+      9,
+      4,
+      2,
+      7,
+      5
+    ],
+    "imgQ": "PHOGS! gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/850320/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/850320/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 63,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Moderada",
+    "rating": 8.4,
+    "year": 2020,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Puzzle",
+      "Robôs",
+      "Plataforma"
+    ],
+    "stats": [
+      9,
+      5,
+      4,
+      7,
+      5
+    ],
+    "imgQ": "Biped gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1071870/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1071870/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 64,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Fácil",
+    "rating": 8,
+    "year": 2017,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Puzzle",
+      "Co-op",
+      "Minimalista"
+    ],
+    "stats": [
+      9,
+      5,
+      2,
+      8,
+      4
+    ],
+    "imgQ": "Death Squared gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/471810/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/471810/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 65,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Moderada",
+    "rating": 8.1,
+    "year": 2015,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Plataforma",
+      "Puzzle",
+      "Física"
+    ],
+    "stats": [
+      8,
+      6,
+      3,
+      7,
+      5
+    ],
+    "imgQ": "Shift Happens gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359840/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/359840/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 66,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Moderada",
+    "rating": 8.7,
+    "year": 2010,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Aventura",
+      "Puzzle",
+      "Ação"
+    ],
+    "stats": [
+      8,
+      6,
+      7,
+      7,
+      6
+    ],
+    "imgQ": "Lara Croft and the Guardian of Light gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/35130/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/35130/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 67,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.3,
+    "year": 2014,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Aventura",
+      "Puzzle",
+      "Ação"
+    ],
+    "stats": [
+      8,
+      6,
+      7,
+      7,
+      6
+    ],
+    "imgQ": "Lara Croft and the Temple of Osiris gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289690/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/289690/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 68,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Difícil",
+    "rating": 8.6,
+    "year": 2014,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Puzzle",
+      "Plataforma",
+      "Co-op"
+    ],
+    "stats": [
+      10,
+      7,
+      2,
+      9,
+      4
+    ],
+    "imgQ": "ibb & obb gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/95400/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/95400/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 69,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Fácil",
+    "rating": 7.9,
+    "year": 2019,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Puzzle",
+      "Plataforma",
+      "Romance"
+    ],
+    "stats": [
+      8,
+      4,
+      2,
+      7,
+      6
+    ],
+    "imgQ": "Degrees of Separation gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/809880/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/809880/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 70,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Fácil",
+    "rating": 8.2,
+    "year": 2021,
+    "catalogPrice": "Consultar",
+    "session": "30-45min",
+    "tags": [
+      "Co-op",
+      "Correio",
+      "Fofo"
+    ],
+    "stats": [
+      9,
+      4,
+      3,
+      6,
+      5
+    ],
+    "imgQ": "KeyWe gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1242980/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1242980/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 71,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Moderada",
+    "rating": 8.5,
+    "year": 2021,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Física",
+      "Espaço",
+      "Co-op"
+    ],
+    "stats": [
+      9,
+      6,
+      4,
+      7,
+      4
+    ],
+    "imgQ": "Heavenly Bodies gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1138850/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1138850/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 72,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Fácil",
+    "rating": 8,
+    "year": 2023,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Aventura",
+      "Puzzle",
+      "Minimalista"
+    ],
+    "stats": [
+      8,
+      4,
+      2,
+      7,
+      6
+    ],
+    "imgQ": "Blanc gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1982340/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1982340/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 73,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Fácil",
+    "rating": 7.8,
+    "year": 2018,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Puzzle",
+      "Exploração",
+      "Fofo"
+    ],
+    "stats": [
+      8,
+      4,
+      2,
+      7,
+      5
+    ],
+    "imgQ": "Pode gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/944080/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/944080/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 74,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Fácil",
+    "rating": 8.7,
+    "year": 2019,
+    "catalogPrice": "Consultar",
+    "session": "20-40min",
+    "tags": [
+      "Comédia",
+      "Stealth",
+      "Local Co-op"
+    ],
+    "stats": [
+      8,
+      4,
+      5,
+      6,
+      5
+    ],
+    "imgQ": "Untitled Goose Game gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/837470/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 75,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Fácil",
+    "rating": 8.6,
+    "year": 2022,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Aventura",
+      "LEGO",
+      "Star Wars"
+    ],
+    "stats": [
+      7,
+      4,
+      7,
+      4,
+      7
+    ],
+    "imgQ": "LEGO Star Wars: The Skywalker Saga gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/920210/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/920210/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 76,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Fácil",
+    "rating": 8.5,
+    "year": 2013,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "LEGO",
+      "Super-Herói",
+      "Ação"
+    ],
+    "stats": [
+      7,
+      4,
+      7,
+      4,
+      6
+    ],
+    "imgQ": "LEGO Marvel Super Heroes gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/249130/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/249130/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 77,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Fácil",
+    "rating": 8.2,
+    "year": 2018,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "LEGO",
+      "Vilões",
+      "Ação"
+    ],
+    "stats": [
+      7,
+      4,
+      7,
+      4,
+      6
+    ],
+    "imgQ": "LEGO DC Super-Villains gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/829110/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/829110/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 78,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Fácil",
+    "rating": 8.1,
+    "year": 2010,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "LEGO",
+      "Harry Potter",
+      "Aventura"
+    ],
+    "stats": [
+      7,
+      4,
+      6,
+      4,
+      6
+    ],
+    "imgQ": "LEGO Harry Potter: Years 1-4 gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/21130/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/21130/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 79,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Fácil",
+    "rating": 8.1,
+    "year": 2012,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "LEGO",
+      "Harry Potter",
+      "Aventura"
+    ],
+    "stats": [
+      7,
+      4,
+      6,
+      4,
+      6
+    ],
+    "imgQ": "LEGO Harry Potter: Years 5-7 gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204120/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/204120/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 80,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Fácil",
+    "rating": 8.4,
+    "year": 2022,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Plataforma",
+      "Aventura",
+      "Fofo"
+    ],
+    "stats": [
+      8,
+      5,
+      6,
+      4,
+      6
+    ],
+    "imgQ": "Sackboy: A Big Adventure gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599660/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1599660/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 81,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.6,
+    "year": 2022,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Ação",
+      "Naval",
+      "Roguelite"
+    ],
+    "stats": [
+      9,
+      6,
+      7,
+      7,
+      5
+    ],
+    "imgQ": "Ship of Fools gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286580/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1286580/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 82,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Fácil",
+    "rating": 8.7,
+    "year": 2022,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "RPG",
+      "Ação",
+      "Transformação"
+    ],
+    "stats": [
+      7,
+      5,
+      7,
+      6,
+      7
+    ],
+    "imgQ": "Nobody Saves the World gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432050/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1432050/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 83,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Fácil",
+    "rating": 8.1,
+    "year": 2020,
+    "catalogPrice": "Consultar",
+    "session": "1h",
+    "tags": [
+      "RPG",
+      "Romance",
+      "Narrativo"
+    ],
+    "stats": [
+      8,
+      4,
+      4,
+      5,
+      8
+    ],
+    "imgQ": "Haven gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/983970/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/983970/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 84,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 7.9,
+    "year": 2019,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "RPG",
+      "Hack and Slash",
+      "Fantasia"
+    ],
+    "stats": [
+      7,
+      6,
+      8,
+      5,
+      6
+    ],
+    "imgQ": "Warhammer: Chaosbane gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774241/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/774241/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 85,
+    "type": "coop_campaign",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Moderada",
+    "rating": 8.3,
+    "year": 2019,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Ação",
+      "Hack and Slash",
+      "História"
+    ],
+    "stats": [
+      7,
+      6,
+      8,
+      5,
+      7
+    ],
+    "imgQ": "Darksiders Genesis gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/710920/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/710920/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 86,
+    "type": "survival",
+    "players": [
+      2,
+      10
+    ],
+    "diff": "Moderada",
+    "rating": 9.6,
+    "year": 2021,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Sobrevivência",
+      "Vikings",
+      "Construção"
+    ],
+    "stats": [
+      7,
+      6,
+      7,
+      7,
+      5
+    ],
+    "imgQ": "Valheim gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/892970/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 87,
+    "type": "survival",
+    "players": [
+      2,
+      60
+    ],
+    "diff": "Moderada",
+    "rating": 9,
+    "year": 2024,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Vampiro",
+      "Survival",
+      "Crafting"
+    ],
+    "stats": [
+      7,
+      6,
+      8,
+      7,
+      5
+    ],
+    "imgQ": "V Rising gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1604030/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 88,
+    "type": "survival",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 9.2,
+    "year": 2022,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Sobrevivência",
+      "Insetos",
+      "Construção"
+    ],
+    "stats": [
+      8,
+      6,
+      7,
+      7,
+      6
+    ],
+    "imgQ": "Grounded gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962130/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/962130/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 89,
+    "type": "survival",
+    "players": [
+      2,
+      8
+    ],
+    "diff": "Moderada",
+    "rating": 9.3,
+    "year": 2024,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Sandbox",
+      "Mineração",
+      "Base"
+    ],
+    "stats": [
+      7,
+      5,
+      7,
+      8,
+      5
+    ],
+    "imgQ": "Core Keeper gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1621690/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 90,
+    "type": "survival",
+    "players": [
+      2,
+      32
+    ],
+    "diff": "Brutal",
+    "rating": 9.1,
+    "year": 2013,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Zumbi",
+      "Sandbox",
+      "Realista"
+    ],
+    "stats": [
+      7,
+      9,
+      7,
+      9,
+      4
+    ],
+    "imgQ": "Project Zomboid gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/108600/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 91,
+    "type": "survival",
+    "players": [
+      2,
+      8
+    ],
+    "diff": "Difícil",
+    "rating": 8.9,
+    "year": 2013,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Zumbi",
+      "Construção",
+      "Open World"
+    ],
+    "stats": [
+      7,
+      7,
+      8,
+      7,
+      4
+    ],
+    "imgQ": "7 Days to Die gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/251570/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 92,
+    "type": "survival",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Fácil",
+    "rating": 9,
+    "year": 2019,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Exploração",
+      "Espaço",
+      "Crafting"
+    ],
+    "stats": [
+      7,
+      4,
+      4,
+      7,
+      4
+    ],
+    "imgQ": "ASTRONEER gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/361420/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 93,
+    "type": "survival",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 9,
+    "year": 2016,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Exploração",
+      "Espaço",
+      "Open World"
+    ],
+    "stats": [
+      6,
+      5,
+      6,
+      7,
+      5
+    ],
+    "imgQ": "No Man's Sky gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/275850/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 94,
+    "type": "survival",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.8,
+    "year": 2016,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Sandbox",
+      "2D",
+      "Espaço"
+    ],
+    "stats": [
+      6,
+      5,
+      7,
+      7,
+      6
+    ],
+    "imgQ": "Starbound gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/211820/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/211820/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 95,
+    "type": "survival",
+    "players": [
+      2,
+      100
+    ],
+    "diff": "Brutal",
+    "rating": 8.8,
+    "year": 2018,
+    "catalogPrice": "Consultar",
+    "session": "1-3h",
+    "tags": [
+      "Survival",
+      "PvP",
+      "Base"
+    ],
+    "stats": [
+      6,
+      9,
+      8,
+      8,
+      2
+    ],
+    "imgQ": "Rust gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/252490/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 96,
+    "type": "survival",
+    "players": [
+      2,
+      70
+    ],
+    "diff": "Difícil",
+    "rating": 8.6,
+    "year": 2017,
+    "catalogPrice": "Consultar",
+    "session": "1-3h",
+    "tags": [
+      "Dinossauros",
+      "Survival",
+      "Open World"
+    ],
+    "stats": [
+      6,
+      7,
+      8,
+      8,
+      4
+    ],
+    "imgQ": "ARK: Survival Evolved gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/346110/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 97,
+    "type": "survival",
+    "players": [
+      2,
+      40
+    ],
+    "diff": "Difícil",
+    "rating": 8.2,
+    "year": 2018,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Survival",
+      "Fantasia",
+      "Construção"
+    ],
+    "stats": [
+      6,
+      7,
+      8,
+      7,
+      5
+    ],
+    "imgQ": "Conan Exiles gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440900/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/440900/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 98,
+    "type": "survival",
+    "players": [
+      2,
+      16
+    ],
+    "diff": "Moderada",
+    "rating": 8.9,
+    "year": 2024,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Survival",
+      "RPG",
+      "Construção"
+    ],
+    "stats": [
+      7,
+      6,
+      7,
+      8,
+      6
+    ],
+    "imgQ": "Enshrouded gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1203620/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 99,
+    "type": "survival",
+    "players": [
+      2,
+      6
+    ],
+    "diff": "Moderada",
+    "rating": 7.8,
+    "year": 2024,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Survival",
+      "Fantasia",
+      "Crafting"
+    ],
+    "stats": [
+      6,
+      5,
+      7,
+      7,
+      5
+    ],
+    "imgQ": "Nightingale gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928980/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1928980/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 100,
+    "type": "survival",
+    "players": [
+      2,
+      6
+    ],
+    "diff": "Moderada",
+    "rating": 9.1,
+    "year": 2024,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Survival",
+      "Sci-Fi",
+      "Comédia"
+    ],
+    "stats": [
+      8,
+      6,
+      7,
+      8,
+      4
+    ],
+    "imgQ": "Abiotic Factor gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/427410/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 101,
+    "type": "survival",
+    "players": [
+      2,
+      10
+    ],
+    "diff": "Moderada",
+    "rating": 8.2,
+    "year": 2024,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Sobrevivência",
+      "Insetos",
+      "Open World"
+    ],
+    "stats": [
+      7,
+      5,
+      6,
+      7,
+      4
+    ],
+    "imgQ": "Smalland: Survive the Wilds gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768200/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/768200/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 102,
+    "type": "survival",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Difícil",
+    "rating": 8.4,
+    "year": 2019,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Selva",
+      "Sobrevivência",
+      "Realista"
+    ],
+    "stats": [
+      7,
+      8,
+      6,
+      8,
+      4
+    ],
+    "imgQ": "Green Hell gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/815370/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/815370/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 103,
+    "type": "survival",
+    "players": [
+      2,
+      8
+    ],
+    "diff": "Difícil",
+    "rating": 8.3,
+    "year": 2021,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Survival",
+      "Missões",
+      "Sci-Fi"
+    ],
+    "stats": [
+      7,
+      7,
+      7,
+      8,
+      4
+    ],
+    "imgQ": "ICARUS gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149460/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1149460/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 104,
+    "type": "survival",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 7.9,
+    "year": 2023,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Trem",
+      "Survival",
+      "Exploração"
+    ],
+    "stats": [
+      8,
+      6,
+      6,
+      7,
+      4
+    ],
+    "imgQ": "Voidtrain gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159690/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1159690/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 105,
+    "type": "survival",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8,
+    "year": 2019,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Construção",
+      "Vulcão",
+      "Base"
+    ],
+    "stats": [
+      7,
+      6,
+      7,
+      8,
+      4
+    ],
+    "imgQ": "Volcanoids gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/951440/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/951440/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 106,
+    "type": "survival",
+    "players": [
+      2,
+      100
+    ],
+    "diff": "Moderada",
+    "rating": 8.1,
+    "year": 2018,
+    "catalogPrice": "Consultar",
+    "session": "1-3h",
+    "tags": [
+      "Simulação",
+      "Ecologia",
+      "Sociedade"
+    ],
+    "stats": [
+      8,
+      5,
+      3,
+      10,
+      3
+    ],
+    "imgQ": "Eco gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/382310/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/382310/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 107,
+    "type": "survival",
+    "players": [
+      2,
+      24
+    ],
+    "diff": "Fácil",
+    "rating": 8.5,
+    "year": 2014,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Zumbi",
+      "Grátis",
+      "Sobrevivência"
+    ],
+    "stats": [
+      6,
+      5,
+      7,
+      6,
+      3
+    ],
+    "imgQ": "Unturned gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304930/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/304930/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 108,
+    "type": "survival",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Fácil",
+    "rating": 8.1,
+    "year": 2021,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Sobrevivência",
+      "Caótico",
+      "Grátis"
+    ],
+    "stats": [
+      7,
+      5,
+      8,
+      5,
+      2
+    ],
+    "imgQ": "Muck gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1625450/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1625450/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 109,
+    "type": "survival",
+    "players": [
+      2,
+      10
+    ],
+    "diff": "Moderada",
+    "rating": 8.9,
+    "year": 2024,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Terraformação",
+      "Crafting",
+      "Sci-Fi"
+    ],
+    "stats": [
+      7,
+      5,
+      5,
+      8,
+      5
+    ],
+    "imgQ": "The Planet Crafter gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284190/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1284190/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 110,
+    "type": "survival",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.7,
+    "year": 2022,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Fazenda",
+      "Crafting",
+      "Ilha"
+    ],
+    "stats": [
+      7,
+      4,
+      5,
+      7,
+      5
+    ],
+    "imgQ": "Dinkum gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062520/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1062520/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 111,
+    "type": "roguelike",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Difícil",
+    "rating": 9.2,
+    "year": 2023,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Roguelike",
+      "Ação",
+      "Retrô"
+    ],
+    "stats": [
+      6,
+      8,
+      8,
+      7,
+      3
+    ],
+    "imgQ": "Risk of Rain Returns gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1337520/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1337520/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 112,
+    "type": "roguelike",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Difícil",
+    "rating": 9.4,
+    "year": 2016,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Roguelike",
+      "Shooter",
+      "Dungeon"
+    ],
+    "stats": [
+      6,
+      8,
+      9,
+      6,
+      3
+    ],
+    "imgQ": "Enter the Gungeon gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311690/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/311690/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 113,
+    "type": "roguelike",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Difícil",
+    "rating": 8.8,
+    "year": 2018,
+    "catalogPrice": "Consultar",
+    "session": "20-40min",
+    "tags": [
+      "Roguelike",
+      "Magia",
+      "Pixel Art"
+    ],
+    "stats": [
+      7,
+      8,
+      8,
+      7,
+      3
+    ],
+    "imgQ": "Wizard of Legend gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445980/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/445980/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 114,
+    "type": "roguelike",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 9,
+    "year": 2019,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Roguelite",
+      "Sandbox",
+      "Caos"
+    ],
+    "stats": [
+      7,
+      6,
+      8,
+      8,
+      4
+    ],
+    "imgQ": "Streets of Rogue gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512900/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/512900/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 115,
+    "type": "roguelike",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.9,
+    "year": 2023,
+    "catalogPrice": "Consultar",
+    "session": "20-40min",
+    "tags": [
+      "Roguelite",
+      "Ação",
+      "Pixel Art"
+    ],
+    "stats": [
+      8,
+      6,
+      8,
+      6,
+      3
+    ],
+    "imgQ": "Ember Knights gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135230/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1135230/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 116,
+    "type": "roguelike",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.9,
+    "year": 2023,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "FPS",
+      "Roguelite",
+      "Robôs"
+    ],
+    "stats": [
+      7,
+      6,
+      9,
+      6,
+      3
+    ],
+    "imgQ": "Roboquest gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692890/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/692890/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 117,
+    "type": "roguelike",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Difícil",
+    "rating": 8.5,
+    "year": 2015,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Roguelike",
+      "RPG",
+      "Dungeon"
+    ],
+    "stats": [
+      7,
+      8,
+      7,
+      8,
+      4
+    ],
+    "imgQ": "Barony gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/371970/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 118,
+    "type": "roguelike",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.7,
+    "year": 2018,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Roguelite",
+      "RPG",
+      "Pixel Art"
+    ],
+    "stats": [
+      7,
+      6,
+      8,
+      7,
+      4
+    ],
+    "imgQ": "Heroes of Hammerwatch gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/677120/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/677120/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 119,
+    "type": "roguelike",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Brutal",
+    "rating": 8.6,
+    "year": 2018,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Roguelike",
+      "Plataforma",
+      "Difícil"
+    ],
+    "stats": [
+      7,
+      9,
+      7,
+      7,
+      3
+    ],
+    "imgQ": "Vagante gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323220/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/323220/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 120,
+    "type": "roguelike",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Moderada",
+    "rating": 8.9,
+    "year": 2019,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Roguelite",
+      "Família",
+      "História"
+    ],
+    "stats": [
+      7,
+      6,
+      7,
+      6,
+      8
+    ],
+    "imgQ": "Children of Morta gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/330020/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/330020/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 121,
+    "type": "roguelike",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.7,
+    "year": 2024,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Roguelike",
+      "Fantasia",
+      "Co-op"
+    ],
+    "stats": [
+      7,
+      6,
+      8,
+      7,
+      5
+    ],
+    "imgQ": "Ravenswatch gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/2071280/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 122,
+    "type": "roguelike",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.4,
+    "year": 2024,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Roguelike",
+      "Tático",
+      "Turnos"
+    ],
+    "stats": [
+      7,
+      6,
+      5,
+      9,
+      4
+    ],
+    "imgQ": "Inkbound gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062810/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1062810/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 123,
+    "type": "roguelike",
+    "players": [
+      2,
+      3
+    ],
+    "diff": "Moderada",
+    "rating": 8.5,
+    "year": 2018,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Roguelite",
+      "RPG",
+      "Tabuleiro"
+    ],
+    "stats": [
+      7,
+      6,
+      5,
+      9,
+      6
+    ],
+    "imgQ": "For The King gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527230/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/527230/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 124,
+    "type": "roguelike",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.2,
+    "year": 2023,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Roguelite",
+      "RPG",
+      "Turnos"
+    ],
+    "stats": [
+      7,
+      6,
+      5,
+      9,
+      6
+    ],
+    "imgQ": "For The King II gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1676840/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1676840/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 125,
+    "type": "roguelike",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.7,
+    "year": 2023,
+    "catalogPrice": "Consultar",
+    "session": "20-40min",
+    "tags": [
+      "Shooter",
+      "Roguelike",
+      "Caranguejo"
+    ],
+    "stats": [
+      6,
+      6,
+      9,
+      5,
+      2
+    ],
+    "imgQ": "Crab Champions gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774801/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/774801/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 126,
+    "type": "roguelike",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8,
+    "year": 2019,
+    "catalogPrice": "Consultar",
+    "session": "20-40min",
+    "tags": [
+      "Roguelite",
+      "Shooter",
+      "Aves"
+    ],
+    "stats": [
+      6,
+      6,
+      8,
+      5,
+      2
+    ],
+    "imgQ": "Blazing Beaks gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/585710/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/585710/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 127,
+    "type": "roguelike",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Brutal",
+    "rating": 8.8,
+    "year": 2015,
+    "catalogPrice": "Consultar",
+    "session": "20-40min",
+    "tags": [
+      "Roguelike",
+      "Shooter",
+      "Difícil"
+    ],
+    "stats": [
+      5,
+      9,
+      9,
+      6,
+      2
+    ],
+    "imgQ": "Nuclear Throne gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242680/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/242680/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 128,
+    "type": "roguelike",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Difícil",
+    "rating": 8.6,
+    "year": 2017,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Roguelite",
+      "Plataforma",
+      "Mega Man"
+    ],
+    "stats": [
+      6,
+      8,
+      8,
+      6,
+      3
+    ],
+    "imgQ": "20XX gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322110/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/322110/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 129,
+    "type": "roguelike",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Difícil",
+    "rating": 8.8,
+    "year": 2023,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Roguelite",
+      "Plataforma",
+      "Ação"
+    ],
+    "stats": [
+      6,
+      8,
+      8,
+      6,
+      3
+    ],
+    "imgQ": "30XX gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029210/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1029210/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 130,
+    "type": "roguelike",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Difícil",
+    "rating": 8.4,
+    "year": 2018,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Roguelite",
+      "Tático",
+      "Shooter"
+    ],
+    "stats": [
+      6,
+      8,
+      9,
+      7,
+      3
+    ],
+    "imgQ": "SYNTHETIK: Legion Rising gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/528230/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/528230/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 131,
+    "type": "roguelike",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.4,
+    "year": 2016,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Roguelite",
+      "Castelo",
+      "Ação"
+    ],
+    "stats": [
+      7,
+      6,
+      8,
+      6,
+      4
+    ],
+    "imgQ": "Rampage Knights gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314410/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/314410/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 132,
+    "type": "roguelike",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.2,
+    "year": 2017,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Roguelike",
+      "Plataforma",
+      "Caverna"
+    ],
+    "stats": [
+      7,
+      6,
+      7,
+      6,
+      3
+    ],
+    "imgQ": "Caveblazers gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/452060/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/452060/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 133,
+    "type": "roguelike",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.5,
+    "year": 2013,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Dungeon",
+      "Ação",
+      "Pixel Art"
+    ],
+    "stats": [
+      7,
+      6,
+      8,
+      7,
+      4
+    ],
+    "imgQ": "Hammerwatch gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239070/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/239070/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 134,
+    "type": "roguelike",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.1,
+    "year": 2022,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Roguelite",
+      "Ação",
+      "Fantasia"
+    ],
+    "stats": [
+      7,
+      6,
+      8,
+      7,
+      4
+    ],
+    "imgQ": "Bravery and Greed gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/943370/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/943370/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 135,
+    "type": "roguelike",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.2,
+    "year": 2021,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Roguelite",
+      "RPG",
+      "Aventura"
+    ],
+    "stats": [
+      7,
+      6,
+      7,
+      7,
+      5
+    ],
+    "imgQ": "Rogue Heroes: Ruins of Tasos gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787810/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/787810/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 136,
+    "type": "roguelike",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.6,
+    "year": 2024,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Roguelite",
+      "Ação",
+      "Criaturas"
+    ],
+    "stats": [
+      7,
+      6,
+      8,
+      6,
+      3
+    ],
+    "imgQ": "Rotwood gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015270/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/2015270/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 137,
+    "type": "puzzle",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Difícil",
+    "rating": 8.8,
+    "year": 2019,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Puzzle",
+      "Assimétrico",
+      "Co-op"
+    ],
+    "stats": [
+      10,
+      6,
+      2,
+      9,
+      7
+    ],
+    "imgQ": "We Were Here Together gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/865360/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/865360/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 138,
+    "type": "puzzle",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Difícil",
+    "rating": 9,
+    "year": 2022,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Puzzle",
+      "Escape Room",
+      "Co-op"
+    ],
+    "stats": [
+      10,
+      6,
+      2,
+      9,
+      7
+    ],
+    "imgQ": "We Were Here Forever gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1341290/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1341290/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 139,
+    "type": "puzzle",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Moderada",
+    "rating": 8.4,
+    "year": 2023,
+    "catalogPrice": "Consultar",
+    "session": "45-60min",
+    "tags": [
+      "Puzzle",
+      "Co-op",
+      "Curto"
+    ],
+    "stats": [
+      10,
+      5,
+      2,
+      8,
+      5
+    ],
+    "imgQ": "We Were Here Expeditions: The FriendShip gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2296990/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/2296990/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 140,
+    "type": "puzzle",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Moderada",
+    "rating": 8.5,
+    "year": 2019,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Puzzle",
+      "Comunicação",
+      "Mistério"
+    ],
+    "stats": [
+      10,
+      5,
+      1,
+      9,
+      6
+    ],
+    "imgQ": "Tick Tock: A Tale for Two gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/790740/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/790740/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 141,
+    "type": "puzzle",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Moderada",
+    "rating": 8.7,
+    "year": 2023,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Puzzle",
+      "Narrativo",
+      "Co-op"
+    ],
+    "stats": [
+      9,
+      5,
+      2,
+      8,
+      8
+    ],
+    "imgQ": "BOKURA gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1801110/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1801110/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 142,
+    "type": "puzzle",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.3,
+    "year": 2022,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Escape Room",
+      "Puzzle",
+      "Co-op"
+    ],
+    "stats": [
+      8,
+      5,
+      2,
+      8,
+      5
+    ],
+    "imgQ": "Escape Academy gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812090/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1812090/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 143,
+    "type": "puzzle",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Fácil",
+    "rating": 8.1,
+    "year": 2019,
+    "catalogPrice": "Consultar",
+    "session": "20-40min",
+    "tags": [
+      "Puzzle",
+      "Aventura",
+      "Comédia"
+    ],
+    "stats": [
+      7,
+      4,
+      3,
+      6,
+      5
+    ],
+    "imgQ": "Pikuniku gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/572890/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/572890/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 144,
+    "type": "puzzle",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Moderada",
+    "rating": 8.3,
+    "year": 2021,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Puzzle",
+      "Plataforma",
+      "Dimensões"
+    ],
+    "stats": [
+      8,
+      5,
+      3,
+      8,
+      4
+    ],
+    "imgQ": "Toodee and Topdee gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1303950/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1303950/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 145,
+    "type": "puzzle",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Difícil",
+    "rating": 8.4,
+    "year": 2023,
+    "catalogPrice": "Consultar",
+    "session": "15-30min",
+    "tags": [
+      "Plataforma",
+      "Física",
+      "Caótico"
+    ],
+    "stats": [
+      9,
+      7,
+      7,
+      6,
+      2
+    ],
+    "imgQ": "Super Bunny Man gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673750/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/673750/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 146,
+    "type": "puzzle",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.7,
+    "year": 2024,
+    "catalogPrice": "Consultar",
+    "session": "15-30min",
+    "tags": [
+      "Escalada",
+      "Co-op",
+      "Física"
+    ],
+    "stats": [
+      10,
+      7,
+      6,
+      6,
+      2
+    ],
+    "imgQ": "Chained Together gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2567870/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/2567870/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 147,
+    "type": "puzzle",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.5,
+    "year": 2011,
+    "catalogPrice": "Consultar",
+    "session": "1h",
+    "tags": [
+      "Puzzle",
+      "Plataforma",
+      "Fantasia"
+    ],
+    "stats": [
+      8,
+      5,
+      4,
+      7,
+      6
+    ],
+    "imgQ": "Trine 2: Complete Story gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/35720/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/35720/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 148,
+    "type": "puzzle",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.6,
+    "year": 2023,
+    "catalogPrice": "Consultar",
+    "session": "1h",
+    "tags": [
+      "Puzzle",
+      "Plataforma",
+      "Fantasia"
+    ],
+    "stats": [
+      8,
+      5,
+      4,
+      8,
+      7
+    ],
+    "imgQ": "Trine 5: A Clockwork Conspiracy gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1436700/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1436700/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 149,
+    "type": "puzzle",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Fácil",
+    "rating": 8.4,
+    "year": 2016,
+    "catalogPrice": "Consultar",
+    "session": "20-40min",
+    "tags": [
+      "Co-op",
+      "Física",
+      "Engraçado"
+    ],
+    "stats": [
+      8,
+      5,
+      6,
+      5,
+      2
+    ],
+    "imgQ": "Heave Ho gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/905340/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/905340/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 150,
+    "type": "puzzle",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Fácil",
+    "rating": 8.6,
+    "year": 2019,
+    "catalogPrice": "Consultar",
+    "session": "15-30min",
+    "tags": [
+      "Trem",
+      "Co-op",
+      "Caótico"
+    ],
+    "stats": [
+      10,
+      5,
+      7,
+      6,
+      2
+    ],
+    "imgQ": "Unrailed! gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1016920/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 151,
+    "type": "tactical_action",
+    "players": [
+      2,
+      5
+    ],
+    "diff": "Difícil",
+    "rating": 8.9,
+    "year": 2023,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Tático",
+      "FPS",
+      "Realista"
+    ],
+    "stats": [
+      9,
+      8,
+      8,
+      9,
+      3
+    ],
+    "imgQ": "Ready or Not gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1144200/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 152,
+    "type": "tactical_action",
+    "players": [
+      2,
+      8
+    ],
+    "diff": "Difícil",
+    "rating": 8.7,
+    "year": 2018,
+    "catalogPrice": "Consultar",
+    "session": "20-40min",
+    "tags": [
+      "FPS",
+      "Tático",
+      "Realista"
+    ],
+    "stats": [
+      8,
+      8,
+      9,
+      8,
+      2
+    ],
+    "imgQ": "Insurgency: Sandstorm gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581320/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/581320/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 153,
+    "type": "tactical_action",
+    "players": [
+      2,
+      100
+    ],
+    "diff": "Difícil",
+    "rating": 8.6,
+    "year": 2015,
+    "catalogPrice": "Consultar",
+    "session": "40-90min",
+    "tags": [
+      "Militar",
+      "Tático",
+      "Squad"
+    ],
+    "stats": [
+      8,
+      8,
+      8,
+      9,
+      2
+    ],
+    "imgQ": "Squad gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/393380/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 154,
+    "type": "tactical_action",
+    "players": [
+      2,
+      100
+    ],
+    "diff": "Difícil",
+    "rating": 8.5,
+    "year": 2021,
+    "catalogPrice": "Consultar",
+    "session": "40-90min",
+    "tags": [
+      "Guerra",
+      "Tático",
+      "WW2"
+    ],
+    "stats": [
+      8,
+      8,
+      9,
+      9,
+      2
+    ],
+    "imgQ": "Hell Let Loose gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/686810/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 155,
+    "type": "tactical_action",
+    "players": [
+      2,
+      64
+    ],
+    "diff": "Difícil",
+    "rating": 8.7,
+    "year": 2013,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Militar",
+      "Sandbox",
+      "Tático"
+    ],
+    "stats": [
+      8,
+      8,
+      8,
+      10,
+      3
+    ],
+    "imgQ": "Arma 3 gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/107410/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 156,
+    "type": "tactical_action",
+    "players": [
+      2,
+      10
+    ],
+    "diff": "Difícil",
+    "rating": 8,
+    "year": 2020,
+    "catalogPrice": "Consultar",
+    "session": "20-40min",
+    "tags": [
+      "Tático",
+      "FPS",
+      "Co-op"
+    ],
+    "stats": [
+      8,
+      7,
+      8,
+      8,
+      2
+    ],
+    "imgQ": "Zero Hour gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1359090/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1359090/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 157,
+    "type": "tactical_action",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Difícil",
+    "rating": 8.2,
+    "year": 2023,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Tático",
+      "FPS",
+      "Militar"
+    ],
+    "stats": [
+      9,
+      8,
+      8,
+      9,
+      3
+    ],
+    "imgQ": "Six Days in Fallujah gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1548850/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1548850/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 158,
+    "type": "tactical_action",
+    "players": [
+      2,
+      120
+    ],
+    "diff": "Moderada",
+    "rating": 8.6,
+    "year": 2017,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Guerra",
+      "Sandbox",
+      "Estratégia"
+    ],
+    "stats": [
+      8,
+      6,
+      7,
+      10,
+      2
+    ],
+    "imgQ": "Foxhole gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/505460/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/505460/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 159,
+    "type": "tactical_action",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.8,
+    "year": 2015,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "FPS",
+      "Zumbi",
+      "Parkour"
+    ],
+    "stats": [
+      7,
+      6,
+      9,
+      5,
+      7
+    ],
+    "imgQ": "Dying Light gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/239140/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 160,
+    "type": "tactical_action",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.4,
+    "year": 2022,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "FPS",
+      "Zumbi",
+      "Parkour"
+    ],
+    "stats": [
+      7,
+      6,
+      9,
+      5,
+      7
+    ],
+    "imgQ": "Dying Light 2 Stay Human gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534380/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/534380/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 161,
+    "type": "tactical_action",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.1,
+    "year": 2023,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Zumbi",
+      "Ação",
+      "Loot"
+    ],
+    "stats": [
+      7,
+      6,
+      9,
+      5,
+      6
+    ],
+    "imgQ": "Dead Island 2 gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934700/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/934700/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 162,
+    "type": "tactical_action",
+    "players": [
+      2,
+      6
+    ],
+    "diff": "Difícil",
+    "rating": 8.8,
+    "year": 2016,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "FPS",
+      "Zumbi",
+      "Horda"
+    ],
+    "stats": [
+      8,
+      7,
+      10,
+      5,
+      3
+    ],
+    "imgQ": "Killing Floor 2 gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/232090/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/232090/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 163,
+    "type": "tactical_action",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.1,
+    "year": 2021,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "FPS",
+      "Zumbi",
+      "Co-op"
+    ],
+    "stats": [
+      8,
+      6,
+      9,
+      5,
+      4
+    ],
+    "imgQ": "Back 4 Blood gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924970/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/924970/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 164,
+    "type": "tactical_action",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.4,
+    "year": 2021,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Zumbi",
+      "Shooter",
+      "Horda"
+    ],
+    "stats": [
+      8,
+      6,
+      9,
+      5,
+      4
+    ],
+    "imgQ": "World War Z: Aftermath gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/699130/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 165,
+    "type": "tactical_action",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Difícil",
+    "rating": 9.1,
+    "year": 2018,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Warhammer",
+      "Melee",
+      "Horda"
+    ],
+    "stats": [
+      8,
+      7,
+      9,
+      6,
+      5
+    ],
+    "imgQ": "Warhammer: Vermintide 2 gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552500/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/552500/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 166,
+    "type": "tactical_action",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Difícil",
+    "rating": 8.4,
+    "year": 2022,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Warhammer 40K",
+      "FPS",
+      "Horda"
+    ],
+    "stats": [
+      8,
+      7,
+      9,
+      6,
+      4
+    ],
+    "imgQ": "Warhammer 40,000: Darktide gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1361210/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 167,
+    "type": "tactical_action",
+    "players": [
+      2,
+      3
+    ],
+    "diff": "Moderada",
+    "rating": 8.3,
+    "year": 2021,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Aliens",
+      "Shooter",
+      "Sci-Fi"
+    ],
+    "stats": [
+      7,
+      6,
+      8,
+      5,
+      5
+    ],
+    "imgQ": "Aliens: Fireteam Elite gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1549970/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1549970/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 168,
+    "type": "tactical_action",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.4,
+    "year": 2021,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Zumbi",
+      "Shooter",
+      "WW2"
+    ],
+    "stats": [
+      7,
+      6,
+      8,
+      5,
+      5
+    ],
+    "imgQ": "Zombie Army 4: Dead War gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694280/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/694280/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 169,
+    "type": "tactical_action",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.2,
+    "year": 2018,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Aventura",
+      "Shooter",
+      "Pulp"
+    ],
+    "stats": [
+      7,
+      6,
+      8,
+      5,
+      5
+    ],
+    "imgQ": "Strange Brigade gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312670/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/312670/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 170,
+    "type": "tactical_action",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.7,
+    "year": 2022,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Sniper",
+      "Stealth",
+      "Co-op"
+    ],
+    "stats": [
+      7,
+      6,
+      8,
+      8,
+      6
+    ],
+    "imgQ": "Sniper Elite 5 gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029690/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1029690/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 171,
+    "type": "tactical_action",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.7,
+    "year": 2019,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Ação",
+      "Robôs",
+      "Caos"
+    ],
+    "stats": [
+      7,
+      6,
+      10,
+      5,
+      3
+    ],
+    "imgQ": "EARTH DEFENSE FORCE 5 gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1007040/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1007040/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 172,
+    "type": "tactical_action",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.6,
+    "year": 2024,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Ação",
+      "Robôs",
+      "Caos"
+    ],
+    "stats": [
+      7,
+      6,
+      10,
+      5,
+      3
+    ],
+    "imgQ": "EARTH DEFENSE FORCE 6 gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291060/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/2291060/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 173,
+    "type": "tactical_action",
+    "players": [
+      2,
+      3
+    ],
+    "diff": "Difícil",
+    "rating": 8.9,
+    "year": 2019,
+    "catalogPrice": "Consultar",
+    "session": "1h",
+    "tags": [
+      "Soulslike",
+      "Shooter",
+      "Co-op"
+    ],
+    "stats": [
+      7,
+      8,
+      8,
+      7,
+      7
+    ],
+    "imgQ": "Remnant: From the Ashes gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617290/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/617290/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 174,
+    "type": "tactical_action",
+    "players": [
+      2,
+      3
+    ],
+    "diff": "Difícil",
+    "rating": 9,
+    "year": 2023,
+    "catalogPrice": "Consultar",
+    "session": "1h",
+    "tags": [
+      "Soulslike",
+      "Shooter",
+      "Co-op"
+    ],
+    "stats": [
+      7,
+      8,
+      8,
+      7,
+      7
+    ],
+    "imgQ": "Remnant II gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282100/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1282100/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 175,
+    "type": "tactical_action",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Difícil",
+    "rating": 9.3,
+    "year": 2018,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Caça",
+      "RPG",
+      "Monstros"
+    ],
+    "stats": [
+      8,
+      8,
+      8,
+      8,
+      6
+    ],
+    "imgQ": "Monster Hunter: World gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/582010/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 176,
+    "type": "tactical_action",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 9,
+    "year": 2022,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Caça",
+      "RPG",
+      "Monstros"
+    ],
+    "stats": [
+      8,
+      7,
+      8,
+      7,
+      6
+    ],
+    "imgQ": "Monster Hunter Rise gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446780/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1446780/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 177,
+    "type": "tactical_action",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 9,
+    "year": 2013,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Looter Shooter",
+      "Sci-Fi",
+      "Grátis"
+    ],
+    "stats": [
+      7,
+      6,
+      9,
+      6,
+      6
+    ],
+    "imgQ": "Warframe gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/230410/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 178,
+    "type": "tactical_action",
+    "players": [
+      2,
+      6
+    ],
+    "diff": "Moderada",
+    "rating": 8.5,
+    "year": 2019,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Looter Shooter",
+      "Sci-Fi",
+      "Grátis"
+    ],
+    "stats": [
+      7,
+      6,
+      9,
+      6,
+      7
+    ],
+    "imgQ": "Destiny 2 gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1085660/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 179,
+    "type": "tactical_action",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.1,
+    "year": 2024,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Looter Shooter",
+      "Sci-Fi",
+      "Grátis"
+    ],
+    "stats": [
+      7,
+      6,
+      9,
+      6,
+      5
+    ],
+    "imgQ": "The First Descendant gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074920/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/2074920/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 180,
+    "type": "tactical_action",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.7,
+    "year": 2015,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Top-Down",
+      "Sci-Fi",
+      "Co-op"
+    ],
+    "stats": [
+      9,
+      6,
+      9,
+      6,
+      3
+    ],
+    "imgQ": "HELLDIVERS Dive Harder Edition gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394510/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/394510/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 181,
+    "type": "tactical_action",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 7.8,
+    "year": 2023,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Heist",
+      "FPS",
+      "Co-op"
+    ],
+    "stats": [
+      8,
+      6,
+      8,
+      7,
+      4
+    ],
+    "imgQ": "PAYDAY 3 gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1272080/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 182,
+    "type": "tactical_action",
+    "players": [
+      2,
+      16
+    ],
+    "diff": "Moderada",
+    "rating": 8.5,
+    "year": 2020,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "FPS",
+      "Caos",
+      "Co-op"
+    ],
+    "stats": [
+      7,
+      6,
+      10,
+      5,
+      4
+    ],
+    "imgQ": "Serious Sam 4 gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/257420/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 183,
+    "type": "simulation",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 9.3,
+    "year": 2024,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Fábrica",
+      "Construção",
+      "Automação"
+    ],
+    "stats": [
+      7,
+      5,
+      4,
+      10,
+      3
+    ],
+    "imgQ": "Satisfactory gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/526870/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 184,
+    "type": "simulation",
+    "players": [
+      2,
+      100
+    ],
+    "diff": "Difícil",
+    "rating": 9.6,
+    "year": 2020,
+    "catalogPrice": "Consultar",
+    "session": "1-3h",
+    "tags": [
+      "Automação",
+      "Fábrica",
+      "Estratégia"
+    ],
+    "stats": [
+      7,
+      7,
+      4,
+      10,
+      2
+    ],
+    "imgQ": "Factorio gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/427520/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 185,
+    "type": "simulation",
+    "players": [
+      2,
+      16
+    ],
+    "diff": "Moderada",
+    "rating": 9,
+    "year": 2019,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Automação",
+      "Tower Defense",
+      "Sandbox"
+    ],
+    "stats": [
+      7,
+      5,
+      6,
+      9,
+      2
+    ],
+    "imgQ": "Mindustry gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1127400/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1127400/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 186,
+    "type": "simulation",
+    "players": [
+      2,
+      8
+    ],
+    "diff": "Fácil",
+    "rating": 8.4,
+    "year": 2019,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Construção",
+      "Veículos",
+      "Sandbox"
+    ],
+    "stats": [
+      7,
+      4,
+      6,
+      7,
+      2
+    ],
+    "imgQ": "Trailmakers gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/585420/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/585420/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 187,
+    "type": "simulation",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.7,
+    "year": 2016,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Construção",
+      "Física",
+      "Sandbox"
+    ],
+    "stats": [
+      7,
+      5,
+      6,
+      8,
+      3
+    ],
+    "imgQ": "Scrap Mechanic gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387990/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/387990/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 188,
+    "type": "simulation",
+    "players": [
+      2,
+      16
+    ],
+    "diff": "Moderada",
+    "rating": 8.5,
+    "year": 2019,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Espaço",
+      "Engenharia",
+      "Sandbox"
+    ],
+    "stats": [
+      7,
+      5,
+      6,
+      9,
+      3
+    ],
+    "imgQ": "Space Engineers gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244850/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/244850/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 189,
+    "type": "simulation",
+    "players": [
+      2,
+      8
+    ],
+    "diff": "Difícil",
+    "rating": 8,
+    "year": 2020,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Resgate",
+      "Veículos",
+      "Simulação"
+    ],
+    "stats": [
+      8,
+      6,
+      5,
+      9,
+      2
+    ],
+    "imgQ": "Stormworks: Build and Rescue gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573090/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/573090/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 190,
+    "type": "simulation",
+    "players": [
+      2,
+      8
+    ],
+    "diff": "Difícil",
+    "rating": 8.9,
+    "year": 2019,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Submarino",
+      "Terror",
+      "Tripulação"
+    ],
+    "stats": [
+      10,
+      7,
+      7,
+      9,
+      5
+    ],
+    "imgQ": "Barotrauma gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/602960/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 191,
+    "type": "simulation",
+    "players": [
+      2,
+      5
+    ],
+    "diff": "Moderada",
+    "rating": 8.5,
+    "year": 2015,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Espaço",
+      "Tripulação",
+      "Exploração"
+    ],
+    "stats": [
+      10,
+      6,
+      6,
+      8,
+      5
+    ],
+    "imgQ": "PULSAR: Lost Colony gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252870/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/252870/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 192,
+    "type": "simulation",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.8,
+    "year": 2020,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Pirata",
+      "Aventura",
+      "Mundo Aberto"
+    ],
+    "stats": [
+      8,
+      5,
+      8,
+      6,
+      5
+    ],
+    "imgQ": "Sea of Thieves gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1172620/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 193,
+    "type": "simulation",
+    "players": [
+      2,
+      6
+    ],
+    "diff": "Fácil",
+    "rating": 8.7,
+    "year": 2022,
+    "catalogPrice": "Consultar",
+    "session": "20-40min",
+    "tags": [
+      "Limpeza",
+      "Relaxante",
+      "Co-op"
+    ],
+    "stats": [
+      7,
+      3,
+      2,
+      5,
+      2
+    ],
+    "imgQ": "PowerWash Simulator gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290000/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1290000/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 194,
+    "type": "simulation",
+    "players": [
+      2,
+      16
+    ],
+    "diff": "Fácil",
+    "rating": 8.8,
+    "year": 2018,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Fazenda",
+      "Relaxante",
+      "Co-op"
+    ],
+    "stats": [
+      7,
+      3,
+      3,
+      6,
+      4
+    ],
+    "imgQ": "Farm Together gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673950/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/673950/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 195,
+    "type": "simulation",
+    "players": [
+      2,
+      16
+    ],
+    "diff": "Fácil",
+    "rating": 8.3,
+    "year": 2021,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Fazenda",
+      "Simulação",
+      "Veículos"
+    ],
+    "stats": [
+      7,
+      4,
+      3,
+      6,
+      2
+    ],
+    "imgQ": "Farming Simulator 22 gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1248130/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 196,
+    "type": "simulation",
+    "players": [
+      2,
+      8
+    ],
+    "diff": "Fácil",
+    "rating": 8.5,
+    "year": 2016,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Caminhão",
+      "Simulação",
+      "Comboio"
+    ],
+    "stats": [
+      6,
+      3,
+      3,
+      5,
+      1
+    ],
+    "imgQ": "American Truck Simulator gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/270880/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 197,
+    "type": "simulation",
+    "players": [
+      2,
+      8
+    ],
+    "diff": "Fácil",
+    "rating": 8.8,
+    "year": 2012,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Caminhão",
+      "Simulação",
+      "Comboio"
+    ],
+    "stats": [
+      6,
+      3,
+      3,
+      5,
+      1
+    ],
+    "imgQ": "Euro Truck Simulator 2 gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/227300/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 198,
+    "type": "simulation",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Fácil",
+    "rating": 8.1,
+    "year": 2021,
+    "catalogPrice": "Consultar",
+    "session": "1-2h",
+    "tags": [
+      "Fazenda",
+      "Construção",
+      "Animais"
+    ],
+    "stats": [
+      7,
+      4,
+      4,
+      6,
+      3
+    ],
+    "imgQ": "Ranch Simulator gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119730/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1119730/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 199,
+    "type": "simulation",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.4,
+    "year": 2023,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Restaurante",
+      "Co-op",
+      "Caótico"
+    ],
+    "stats": [
+      9,
+      6,
+      8,
+      7,
+      2
+    ],
+    "imgQ": "Diner Bros gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846800/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/846800/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 200,
+    "type": "simulation",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.2,
+    "year": 2020,
+    "catalogPrice": "Consultar",
+    "session": "20-40min",
+    "tags": [
+      "Cozinha",
+      "Gestão",
+      "Caótico"
+    ],
+    "stats": [
+      8,
+      6,
+      8,
+      7,
+      2
+    ],
+    "imgQ": "Cook, Serve, Delicious! 3?! gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000030/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1000030/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 201,
+    "type": "party",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Fácil",
+    "rating": 9.1,
+    "year": 2016,
+    "catalogPrice": "Consultar",
+    "session": "10-20min",
+    "tags": [
+      "Party",
+      "Plataforma",
+      "Caos"
+    ],
+    "stats": [
+      8,
+      5,
+      8,
+      5,
+      2
+    ],
+    "imgQ": "Ultimate Chicken Horse gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/386940/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/386940/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 202,
+    "type": "party",
+    "players": [
+      2,
+      6
+    ],
+    "diff": "Fácil",
+    "rating": 8.7,
+    "year": 2020,
+    "catalogPrice": "Consultar",
+    "session": "5-15min",
+    "tags": [
+      "Party",
+      "Arena",
+      "Comida"
+    ],
+    "stats": [
+      8,
+      4,
+      9,
+      4,
+      1
+    ],
+    "imgQ": "Boomerang Fu gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965680/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/965680/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 203,
+    "type": "party",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Fácil",
+    "rating": 8.5,
+    "year": 2017,
+    "catalogPrice": "Consultar",
+    "session": "5-15min",
+    "tags": [
+      "Luta",
+      "Física",
+      "Caótico"
+    ],
+    "stats": [
+      7,
+      4,
+      10,
+      3,
+      1
+    ],
+    "imgQ": "Stick Fight: The Game gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674940/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/674940/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 204,
+    "type": "party",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Fácil",
+    "rating": 8,
+    "year": 2021,
+    "catalogPrice": "Consultar",
+    "session": "10-20min",
+    "tags": [
+      "Luta",
+      "Crime",
+      "Física"
+    ],
+    "stats": [
+      7,
+      4,
+      9,
+      3,
+      1
+    ],
+    "imgQ": "Rubber Bandits gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206610/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1206610/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 205,
+    "type": "party",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Fácil",
+    "rating": 8.4,
+    "year": 2023,
+    "catalogPrice": "Consultar",
+    "session": "10-20min",
+    "tags": [
+      "Party",
+      "Animais",
+      "Física"
+    ],
+    "stats": [
+      8,
+      4,
+      9,
+      3,
+      1
+    ],
+    "imgQ": "Party Animals gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260320/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1260320/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 206,
+    "type": "party",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.4,
+    "year": 2016,
+    "catalogPrice": "Consultar",
+    "session": "5-15min",
+    "tags": [
+      "Corrida",
+      "Plataforma",
+      "Competitivo"
+    ],
+    "stats": [
+      6,
+      5,
+      8,
+      5,
+      1
+    ],
+    "imgQ": "SpeedRunners gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207140/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/207140/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 207,
+    "type": "party",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.5,
+    "year": 2017,
+    "catalogPrice": "Consultar",
+    "session": "20-40min",
+    "tags": [
+      "Dungeon",
+      "PvP",
+      "Local"
+    ],
+    "stats": [
+      7,
+      6,
+      8,
+      6,
+      3
+    ],
+    "imgQ": "Crawl gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293780/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/293780/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 208,
+    "type": "party",
+    "players": [
+      2,
+      8
+    ],
+    "diff": "Fácil",
+    "rating": 8.7,
+    "year": 2015,
+    "catalogPrice": "Consultar",
+    "session": "5-15min",
+    "tags": [
+      "Party",
+      "Tiros",
+      "Patos"
+    ],
+    "stats": [
+      7,
+      4,
+      10,
+      3,
+      1
+    ],
+    "imgQ": "Duck Game gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312530/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/312530/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 209,
+    "type": "party",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.6,
+    "year": 2014,
+    "catalogPrice": "Consultar",
+    "session": "5-15min",
+    "tags": [
+      "Arqueiros",
+      "Arena",
+      "Local"
+    ],
+    "stats": [
+      7,
+      5,
+      9,
+      4,
+      1
+    ],
+    "imgQ": "TowerFall Ascension gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251470/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/251470/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 210,
+    "type": "party",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8,
+    "year": 2021,
+    "catalogPrice": "Consultar",
+    "session": "5-15min",
+    "tags": [
+      "Arena",
+      "Samurai",
+      "Local"
+    ],
+    "stats": [
+      7,
+      5,
+      9,
+      4,
+      1
+    ],
+    "imgQ": "Samurai Gunn 2 gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1397790/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1397790/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 211,
+    "type": "party",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Fácil",
+    "rating": 7.9,
+    "year": 2019,
+    "catalogPrice": "Consultar",
+    "session": "5-15min",
+    "tags": [
+      "Arena",
+      "Slow Motion",
+      "Local"
+    ],
+    "stats": [
+      7,
+      4,
+      8,
+      4,
+      1
+    ],
+    "imgQ": "Retimed gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760810/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/760810/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 212,
+    "type": "party",
+    "players": [
+      2,
+      2
+    ],
+    "diff": "Moderada",
+    "rating": 8.1,
+    "year": 2017,
+    "catalogPrice": "Consultar",
+    "session": "5-15min",
+    "tags": [
+      "Duelo",
+      "Ação",
+      "Estranho"
+    ],
+    "stats": [
+      5,
+      5,
+      8,
+      5,
+      2
+    ],
+    "imgQ": "Nidhogg 2 gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535520/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/535520/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 213,
+    "type": "party",
+    "players": [
+      2,
+      8
+    ],
+    "diff": "Fácil",
+    "rating": 8,
+    "year": 2015,
+    "catalogPrice": "Consultar",
+    "session": "5-15min",
+    "tags": [
+      "Arena",
+      "Cavaleiros",
+      "Local"
+    ],
+    "stats": [
+      7,
+      4,
+      9,
+      4,
+      1
+    ],
+    "imgQ": "Knight Squad gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294000/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/294000/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 214,
+    "type": "party",
+    "players": [
+      2,
+      8
+    ],
+    "diff": "Fácil",
+    "rating": 8,
+    "year": 2021,
+    "catalogPrice": "Consultar",
+    "session": "5-15min",
+    "tags": [
+      "Arena",
+      "Cavaleiros",
+      "Local"
+    ],
+    "stats": [
+      7,
+      4,
+      9,
+      4,
+      1
+    ],
+    "imgQ": "Knight Squad 2 gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048660/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1048660/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 215,
+    "type": "party",
+    "players": [
+      2,
+      8
+    ],
+    "diff": "Fácil",
+    "rating": 8.1,
+    "year": 2017,
+    "catalogPrice": "Consultar",
+    "session": "5-15min",
+    "tags": [
+      "Luta",
+      "Grátis",
+      "Plataforma"
+    ],
+    "stats": [
+      6,
+      4,
+      8,
+      5,
+      1
+    ],
+    "imgQ": "Brawlhalla gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/291550/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/291550/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 216,
+    "type": "party",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.7,
+    "year": 2017,
+    "catalogPrice": "Consultar",
+    "session": "5-15min",
+    "tags": [
+      "Luta",
+      "Plataforma",
+      "Competitivo"
+    ],
+    "stats": [
+      6,
+      5,
+      8,
+      5,
+      2
+    ],
+    "imgQ": "Rivals of Aether gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383980/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/383980/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 217,
+    "type": "party",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.6,
+    "year": 2018,
+    "catalogPrice": "Consultar",
+    "session": "5-15min",
+    "tags": [
+      "Esporte",
+      "Luta",
+      "Arcade"
+    ],
+    "stats": [
+      6,
+      5,
+      9,
+      5,
+      1
+    ],
+    "imgQ": "Lethal League Blaze gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553310/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/553310/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 218,
+    "type": "party",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Fácil",
+    "rating": 8.3,
+    "year": 2016,
+    "catalogPrice": "Consultar",
+    "session": "10-20min",
+    "tags": [
+      "Puzzle",
+      "Tetris",
+      "Competitivo"
+    ],
+    "stats": [
+      6,
+      4,
+      6,
+      6,
+      1
+    ],
+    "imgQ": "Tricky Towers gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/437920/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/437920/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 219,
+    "type": "party",
+    "players": [
+      2,
+      6
+    ],
+    "diff": "Fácil",
+    "rating": 8.2,
+    "year": 2016,
+    "catalogPrice": "Consultar",
+    "session": "10-20min",
+    "tags": [
+      "Estratégia",
+      "Vermes",
+      "Turnos"
+    ],
+    "stats": [
+      6,
+      4,
+      7,
+      8,
+      2
+    ],
+    "imgQ": "Worms W.M.D gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327030/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/327030/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 220,
+    "type": "party",
+    "players": [
+      2,
+      6
+    ],
+    "diff": "Fácil",
+    "rating": 8.5,
+    "year": 1999,
+    "catalogPrice": "Consultar",
+    "session": "10-20min",
+    "tags": [
+      "Estratégia",
+      "Vermes",
+      "Clássico"
+    ],
+    "stats": [
+      6,
+      4,
+      7,
+      8,
+      2
+    ],
+    "imgQ": "Worms Armageddon gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/217200/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/217200/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 221,
+    "type": "party",
+    "players": [
+      2,
+      8
+    ],
+    "diff": "Moderada",
+    "rating": 8.1,
+    "year": 2014,
+    "catalogPrice": "Consultar",
+    "session": "10-20min",
+    "tags": [
+      "FPS",
+      "Tela Dividida",
+      "Comédia"
+    ],
+    "stats": [
+      7,
+      5,
+      8,
+      6,
+      1
+    ],
+    "imgQ": "Screencheat gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/301970/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/301970/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 222,
+    "type": "party",
+    "players": [
+      2,
+      12
+    ],
+    "diff": "Fácil",
+    "rating": 8.6,
+    "year": 2020,
+    "catalogPrice": "Consultar",
+    "session": "10-20min",
+    "tags": [
+      "Golf",
+      "Party",
+      "Casual"
+    ],
+    "stats": [
+      6,
+      3,
+      5,
+      5,
+      1
+    ],
+    "imgQ": "Golf With Your Friends gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431240/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/431240/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 223,
+    "type": "party",
+    "players": [
+      2,
+      8
+    ],
+    "diff": "Fácil",
+    "rating": 8.3,
+    "year": 2017,
+    "catalogPrice": "Consultar",
+    "session": "10-20min",
+    "tags": [
+      "Golf",
+      "Workshop",
+      "Casual"
+    ],
+    "stats": [
+      6,
+      3,
+      5,
+      5,
+      1
+    ],
+    "imgQ": "Golf It! gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571740/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/571740/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 224,
+    "type": "party",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Fácil",
+    "rating": 8,
+    "year": 2016,
+    "catalogPrice": "Consultar",
+    "session": "5-15min",
+    "tags": [
+      "Party",
+      "Morrer",
+      "Caótico"
+    ],
+    "stats": [
+      7,
+      4,
+      9,
+      4,
+      1
+    ],
+    "imgQ": "Move or Die gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323850/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/323850/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 225,
+    "type": "party",
+    "players": [
+      2,
+      10
+    ],
+    "diff": "Fácil",
+    "rating": 9,
+    "year": 2015,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Board Game",
+      "Sandbox",
+      "Workshop"
+    ],
+    "stats": [
+      8,
+      3,
+      2,
+      8,
+      1
+    ],
+    "imgQ": "Tabletop Simulator gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/286160/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 226,
+    "type": "party",
+    "players": [
+      2,
+      16
+    ],
+    "diff": "Fácil",
+    "rating": 8,
+    "year": 2020,
+    "catalogPrice": "Consultar",
+    "session": "10-20min",
+    "tags": [
+      "Social",
+      "Dedução",
+      "Gansos"
+    ],
+    "stats": [
+      8,
+      3,
+      7,
+      6,
+      2
+    ],
+    "imgQ": "Goose Goose Duck gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1568590/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1568590/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 227,
+    "type": "party",
+    "players": [
+      2,
+      8
+    ],
+    "diff": "Moderada",
+    "rating": 8.3,
+    "year": 2019,
+    "catalogPrice": "Consultar",
+    "session": "20-40min",
+    "tags": [
+      "Social",
+      "Sobrevivência",
+      "Traição"
+    ],
+    "stats": [
+      8,
+      5,
+      7,
+      7,
+      3
+    ],
+    "imgQ": "Project Winter gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774861/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/774861/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 228,
+    "type": "party",
+    "players": [
+      2,
+      6
+    ],
+    "diff": "Fácil",
+    "rating": 7.9,
+    "year": 2021,
+    "catalogPrice": "Consultar",
+    "session": "10-20min",
+    "tags": [
+      "Social",
+      "Dedução",
+      "Comédia"
+    ],
+    "stats": [
+      8,
+      3,
+      6,
+      5,
+      3
+    ],
+    "imgQ": "First Class Trouble gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/953880/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/953880/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 229,
+    "type": "party",
+    "players": [
+      2,
+      9
+    ],
+    "diff": "Moderada",
+    "rating": 7.8,
+    "year": 2017,
+    "catalogPrice": "Consultar",
+    "session": "10-20min",
+    "tags": [
+      "Social",
+      "Dedução",
+      "Terror"
+    ],
+    "stats": [
+      8,
+      4,
+      7,
+      6,
+      2
+    ],
+    "imgQ": "Deceit gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/466240/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/466240/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 230,
+    "type": "party",
+    "players": [
+      2,
+      16
+    ],
+    "diff": "Fácil",
+    "rating": 8.4,
+    "year": 2020,
+    "catalogPrice": "Consultar",
+    "session": "10-20min",
+    "tags": [
+      "Social",
+      "Dedução",
+      "Grátis"
+    ],
+    "stats": [
+      8,
+      3,
+      7,
+      6,
+      2
+    ],
+    "imgQ": "Unfortunate Spacemen gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/408900/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/408900/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 231,
+    "type": "party",
+    "players": [
+      2,
+      6
+    ],
+    "diff": "Fácil",
+    "rating": 7.8,
+    "year": 2023,
+    "catalogPrice": "Consultar",
+    "session": "10-20min",
+    "tags": [
+      "Social",
+      "Dedução",
+      "Velho Oeste"
+    ],
+    "stats": [
+      8,
+      3,
+      6,
+      6,
+      2
+    ],
+    "imgQ": "West Hunt gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1570330/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1570330/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 232,
+    "type": "party",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Fácil",
+    "rating": 8.8,
+    "year": 2024,
+    "catalogPrice": "Consultar",
+    "session": "15-30min",
+    "tags": [
+      "Horror",
+      "Co-op",
+      "Filmagem"
+    ],
+    "stats": [
+      9,
+      5,
+      8,
+      5,
+      2
+    ],
+    "imgQ": "Content Warning gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/2881650/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 233,
+    "type": "party",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.3,
+    "year": 2022,
+    "catalogPrice": "Consultar",
+    "session": "20-40min",
+    "tags": [
+      "Backrooms",
+      "Horror",
+      "Co-op"
+    ],
+    "stats": [
+      8,
+      6,
+      7,
+      6,
+      3
+    ],
+    "imgQ": "Escape the Backrooms gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1943950/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 234,
+    "type": "party",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8,
+    "year": 2021,
+    "catalogPrice": "Consultar",
+    "session": "20-40min",
+    "tags": [
+      "Horror",
+      "Ritual",
+      "Co-op"
+    ],
+    "stats": [
+      8,
+      6,
+      7,
+      6,
+      3
+    ],
+    "imgQ": "DEVOUR gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1274570/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 235,
+    "type": "party",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 7.8,
+    "year": 2019,
+    "catalogPrice": "Consultar",
+    "session": "20-40min",
+    "tags": [
+      "Horror",
+      "Co-op",
+      "Caça"
+    ],
+    "stats": [
+      8,
+      6,
+      7,
+      5,
+      2
+    ],
+    "imgQ": "Pacify gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/967050/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/967050/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 236,
+    "type": "party",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.4,
+    "year": 2020,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Horror",
+      "Labirinto",
+      "Co-op"
+    ],
+    "stats": [
+      8,
+      6,
+      7,
+      7,
+      3
+    ],
+    "imgQ": "Labyrinthine gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302240/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1302240/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 237,
+    "type": "party",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.1,
+    "year": 2021,
+    "catalogPrice": "Consultar",
+    "session": "20-40min",
+    "tags": [
+      "Horror",
+      "Egito",
+      "Co-op"
+    ],
+    "stats": [
+      8,
+      6,
+      7,
+      7,
+      3
+    ],
+    "imgQ": "FOREWARNED gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562420/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1562420/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 238,
+    "type": "party",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 8.1,
+    "year": 2023,
+    "catalogPrice": "Consultar",
+    "session": "20-40min",
+    "tags": [
+      "Horror",
+      "Investigação",
+      "Co-op"
+    ],
+    "stats": [
+      8,
+      6,
+      7,
+      7,
+      3
+    ],
+    "imgQ": "Demonologist gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1929610/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 239,
+    "type": "party",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Difícil",
+    "rating": 8.5,
+    "year": 2024,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Horror",
+      "Co-op",
+      "Missões"
+    ],
+    "stats": [
+      8,
+      7,
+      8,
+      6,
+      5
+    ],
+    "imgQ": "The Outlast Trials gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1304930/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 240,
+    "type": "party",
+    "players": [
+      2,
+      4
+    ],
+    "diff": "Moderada",
+    "rating": 7.8,
+    "year": 2017,
+    "catalogPrice": "Consultar",
+    "session": "30-60min",
+    "tags": [
+      "Horror",
+      "Criptídeo",
+      "Co-op"
+    ],
+    "stats": [
+      8,
+      6,
+      7,
+      6,
+      2
+    ],
+    "imgQ": "BIGFOOT gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/509980/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/509980/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 241,
+    "type": "party",
+    "players": [
+      2,
+      72
+    ],
+    "diff": "Fácil",
+    "rating": 8.8,
+    "year": 2021,
+    "catalogPrice": "Consultar",
+    "session": "20-40min",
+    "tags": [
+      "Corrida",
+      "Open World",
+      "Carros"
+    ],
+    "stats": [
+      6,
+      4,
+      7,
+      5,
+      2
+    ],
+    "imgQ": "Forza Horizon 5 gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1551360/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 242,
+    "type": "party",
+    "players": [
+      2,
+      24
+    ],
+    "diff": "Fácil",
+    "rating": 8.4,
+    "year": 2018,
+    "catalogPrice": "Consultar",
+    "session": "10-20min",
+    "tags": [
+      "Corrida",
+      "Destruição",
+      "Carros"
+    ],
+    "stats": [
+      6,
+      4,
+      8,
+      4,
+      1
+    ],
+    "imgQ": "Wreckfest gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/228380/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/228380/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 243,
+    "type": "party",
+    "players": [
+      2,
+      12
+    ],
+    "diff": "Fácil",
+    "rating": 8,
+    "year": 2023,
+    "catalogPrice": "Consultar",
+    "session": "10-20min",
+    "tags": [
+      "Corrida",
+      "Arcade",
+      "Hot Wheels"
+    ],
+    "stats": [
+      6,
+      4,
+      8,
+      4,
+      1
+    ],
+    "imgQ": "HOT WHEELS UNLEASHED 2 - Turbocharged gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051120/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/2051120/",
+    "youtubeUrl": null
+  },
+  {
+    "id": 244,
+    "type": "party",
+    "players": [
+      2,
+      8
+    ],
+    "diff": "Fácil",
+    "rating": 8.2,
+    "year": 2019,
+    "catalogPrice": "Consultar",
+    "session": "15-30min",
+    "tags": [
+      "Bicicleta",
+      "Esporte",
+      "Manobras"
+    ],
+    "stats": [
+      6,
+      4,
+      7,
+      4,
+      1
+    ],
+    "imgQ": "Descenders gameplay screenshot",
+    "imgUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681280/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/681280/",
+    "youtubeUrl": null
+  }
+]
