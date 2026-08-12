@@ -1,0 +1,20 @@
+ALTER TABLE "game_decision_profiles" DROP CONSTRAINT "game_decision_profiles_player_count_check";--> statement-breakpoint
+ALTER TABLE "game_decision_profiles" DROP CONSTRAINT "game_decision_profiles_session_check";--> statement-breakpoint
+ALTER TABLE "room_decisions" DROP CONSTRAINT "room_decisions_selected_by_participant_id_room_participants_id_fk";
+--> statement-breakpoint
+ALTER TABLE "room_game_history" DROP CONSTRAINT "room_game_history_created_by_participant_id_room_participants_id_fk";
+--> statement-breakpoint
+ALTER TABLE "room_round_participants" DROP CONSTRAINT "room_round_participants_participant_id_room_participants_id_fk";
+--> statement-breakpoint
+ALTER TABLE "room_votes" DROP CONSTRAINT "room_votes_participant_id_room_participants_id_fk";
+--> statement-breakpoint
+ALTER TABLE "room_participants" ADD CONSTRAINT "room_participants_room_id_uq" UNIQUE("room_id","id");--> statement-breakpoint
+ALTER TABLE "room_decisions" ADD CONSTRAINT "room_decisions_room_participant_fk" FOREIGN KEY ("room_id","selected_by_participant_id") REFERENCES "public"."room_participants"("room_id","id") ON DELETE cascade ON UPDATE no action;--> statement-breakpoint
+ALTER TABLE "room_game_history" ADD CONSTRAINT "room_game_history_room_participant_fk" FOREIGN KEY ("room_id","created_by_participant_id") REFERENCES "public"."room_participants"("room_id","id") ON DELETE cascade ON UPDATE no action;--> statement-breakpoint
+ALTER TABLE "room_round_participants" ADD CONSTRAINT "room_round_participants_room_participant_fk" FOREIGN KEY ("room_id","participant_id") REFERENCES "public"."room_participants"("room_id","id") ON DELETE cascade ON UPDATE no action;--> statement-breakpoint
+ALTER TABLE "room_votes" ADD CONSTRAINT "room_votes_room_participant_fk" FOREIGN KEY ("room_id","participant_id") REFERENCES "public"."room_participants"("room_id","id") ON DELETE cascade ON UPDATE no action;--> statement-breakpoint
+ALTER TABLE "game_decision_profiles" ADD CONSTRAINT "game_decision_profiles_complete_provenance_check" CHECK ("game_decision_profiles"."data_status" <> 'COMPLETE' OR ("game_decision_profiles"."source_url" IS NOT NULL AND "game_decision_profiles"."last_verified_at" IS NOT NULL));--> statement-breakpoint
+ALTER TABLE "game_decision_profiles" ADD CONSTRAINT "game_decision_profiles_player_count_check" CHECK (("game_decision_profiles"."min_online_players" IS NULL OR "game_decision_profiles"."min_online_players" > 0) AND ("game_decision_profiles"."max_online_players" IS NULL OR "game_decision_profiles"."max_online_players" > 0) AND ("game_decision_profiles"."min_online_players" IS NULL OR "game_decision_profiles"."max_online_players" IS NULL OR "game_decision_profiles"."min_online_players" <= "game_decision_profiles"."max_online_players"));--> statement-breakpoint
+ALTER TABLE "game_decision_profiles" ADD CONSTRAINT "game_decision_profiles_session_check" CHECK (("game_decision_profiles"."min_session_minutes" IS NULL OR "game_decision_profiles"."min_session_minutes" > 0) AND ("game_decision_profiles"."max_session_minutes" IS NULL OR "game_decision_profiles"."max_session_minutes" > 0) AND ("game_decision_profiles"."min_session_minutes" IS NULL OR "game_decision_profiles"."max_session_minutes" IS NULL OR "game_decision_profiles"."min_session_minutes" <= "game_decision_profiles"."max_session_minutes"));--> statement-breakpoint
+ALTER TABLE "game_network_pools" ADD CONSTRAINT "game_network_pools_verified_source_check" CHECK ("game_network_pools"."verification_status" <> 'VERIFIED' OR ("game_network_pools"."source_url" IS NOT NULL AND "game_network_pools"."last_verified_at" IS NOT NULL));--> statement-breakpoint
+ALTER TABLE "game_platform_offerings" ADD CONSTRAINT "game_platform_offerings_verified_source_check" CHECK (("game_platform_offerings"."verification_status" <> 'VERIFIED' AND "game_platform_offerings"."online_requirement_verification_status" <> 'VERIFIED') OR ("game_platform_offerings"."source_url" IS NOT NULL AND "game_platform_offerings"."last_verified_at" IS NOT NULL));

@@ -1,0 +1,9 @@
+ALTER TABLE "game_decision_profiles" ADD CONSTRAINT "game_decision_profiles_install_size_check" CHECK ("game_decision_profiles"."install_size_mb" IS NULL OR "game_decision_profiles"."install_size_mb" >= 0);--> statement-breakpoint
+ALTER TABLE "game_decision_profiles" ADD CONSTRAINT "game_decision_profiles_pc_tier_check" CHECK ("game_decision_profiles"."min_pc_tier" IS NULL OR "game_decision_profiles"."min_pc_tier" IN ('LOW', 'MID', 'HIGH'));--> statement-breakpoint
+ALTER TABLE "game_decision_profiles" ADD CONSTRAINT "game_decision_profiles_difficulty_check" CHECK ("game_decision_profiles"."difficulty_code" IS NULL OR "game_decision_profiles"."difficulty_code" IN ('EASY', 'MODERATE', 'HARD', 'BRUTAL'));--> statement-breakpoint
+ALTER TABLE "game_network_pools" ADD CONSTRAINT "game_network_pools_region_code_check" CHECK ("game_network_pools"."region_code" IS NULL OR "game_network_pools"."region_code" ~ '^[A-Z]{2}$');--> statement-breakpoint
+ALTER TABLE "game_network_pools" ADD CONSTRAINT "game_network_pools_pool_code_check" CHECK ("game_network_pools"."pool_code" ~ '^[A-Z0-9_:-]+$');--> statement-breakpoint
+ALTER TABLE "game_platform_offerings" ADD CONSTRAINT "game_platform_offerings_region_code_check" CHECK ("game_platform_offerings"."region_code" IS NULL OR "game_platform_offerings"."region_code" ~ '^[A-Z]{2}$');--> statement-breakpoint
+ALTER TABLE "game_prices" ADD CONSTRAINT "game_prices_region_code_check" CHECK ("game_prices"."region_code" ~ '^[A-Z]{2}$');--> statement-breakpoint
+ALTER TABLE "game_subscription_availability" ADD CONSTRAINT "game_subscription_availability_region_code_check" CHECK ("game_subscription_availability"."region_code" ~ '^[A-Z]{2}$');--> statement-breakpoint
+ALTER TABLE "subscription_plan_regions" ADD CONSTRAINT "subscription_plan_regions_region_code_check" CHECK ("subscription_plan_regions"."region_code" ~ '^[A-Z]{2}$');
