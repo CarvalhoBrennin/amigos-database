@@ -75,7 +75,7 @@ export function LanguageSelector({ variant = 'navbar' }: LanguageSelectorProps) 
     }
 
     return (
-        <div ref={dropdownRef} className="relative">
+        <div ref={dropdownRef} className="app-language-selector relative">
             <motion.button
                 type="button"
                 onClick={() => setIsOpen(!isOpen)}

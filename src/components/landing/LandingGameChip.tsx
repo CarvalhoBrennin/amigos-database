@@ -27,7 +27,7 @@ export function LandingGameChip({
       to={`/game/${game.id}`}
       className="landing-game-chip group snap-start shrink-0"
     >
-      <div className="relative h-36 overflow-hidden rounded-t-xl">
+      <div className="relative h-36 overflow-hidden">
         <LazyImage
           src={game.imgUrl || getPlaceholderImage(game.imgQ)}
           fallbackSrc={getPlaceholderImage(game.imgQ)}
@@ -42,7 +42,7 @@ export function LandingGameChip({
         <div className="absolute inset-0 bg-gradient-to-t from-stone-950 via-transparent to-transparent" />
 
         <div
-          className="absolute bottom-2 right-2 flex items-center gap-1 rounded-md border border-amber-500/40 bg-stone-950/80 px-2 py-0.5 text-xs font-bold text-amber-400"
+          className="absolute bottom-2 right-2 flex items-center gap-1 border border-amber-500/40 bg-stone-950/80 px-2 py-0.5 text-xs font-bold text-amber-400"
           aria-label={t("landing.gameRating", { rating: game.rating })}
         >
           <Star className="h-3 w-3 fill-current" aria-hidden="true" />
@@ -51,7 +51,7 @@ export function LandingGameChip({
         </div>
       </div>
 
-      <div className="rounded-b-xl border-t border-amber-500/20 bg-stone-950/90 px-3 py-2.5">
+      <div className="border-t border-amber-500/20 bg-stone-950/90 px-3 py-2.5">
         <h3 className="truncate text-sm font-bold text-stone-100 group-hover:text-amber-300">
           {game.title}
         </h3>

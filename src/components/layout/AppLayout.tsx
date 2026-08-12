@@ -16,7 +16,7 @@ export function AppLayout() {
     const isLanguageLoading = useI18nLanguageLoading();
 
     return (
-        <div className="min-h-screen flex flex-col bg-transparent">
+        <div className="app-frame min-h-screen flex flex-col bg-transparent">
             {isLanguageLoading ? (
                 <div
                     className="fixed top-0 left-0 right-0 z-[100] flex items-center justify-center gap-2 bg-stone-950/90 py-1.5 text-xs text-stone-400"
@@ -34,15 +34,15 @@ export function AppLayout() {
                 {t('common.skipToContent')}
             </a>
             <Navbar />
-            <div id="main-content" className="flex-1 relative z-10">
-                <div className="relative min-h-full">
+            <div id="main-content" className="app-content flex-1 relative z-10">
+                <div className="app-route-frame relative min-h-full">
                     <ContentLoadingOverlay
                         visible={isLanguageLoading}
                         tone="amber"
                         className="min-h-[40vh] rounded-none"
                     />
                     <motion.div
-                        className={cn(isLanguageLoading && 'pointer-events-none')}
+                        className={cn('app-route-surface', isLanguageLoading && 'pointer-events-none')}
                         animate={{
                             opacity: isLanguageLoading ? 0.6 : 1,
                             filter: isLanguageLoading ? 'blur(4px) saturate(0.9)' : 'blur(0px) saturate(1)',

@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next';
 import { motion } from 'framer-motion';
-import { Dices, Sparkles, Star, Trophy, Users, Zap } from 'lucide-react';
+import { ArrowUpRight, Dices, Gamepad2, Radio, Users } from 'lucide-react';
 import { Button } from '@/components/ui/Button';
 import { LandingSection } from '@/components/landing/LandingLayout';
 import { useAnimations } from '@/components/animation-context';
@@ -10,114 +10,113 @@ interface LandingHeroProps {
     onLuckyClick: () => void;
 }
 
-const badgeConfig = [
-    { id: 'coop', icon: Users, labelKey: 'landing.featuresCoop', tone: 'text-cyan-400' },
-    { id: 'rated', icon: Star, labelKey: 'landing.featuresRated', tone: 'text-amber-400' },
-    { id: 'updated', icon: Zap, labelKey: 'landing.featuresUpdated', tone: 'text-emerald-400' },
-    { id: 'curated', icon: Trophy, labelKey: 'landing.featuresCurated', tone: 'text-fuchsia-400' },
+const signalConfig = [
+    { id: 'coop', labelKey: 'landing.featuresCoop' },
+    { id: 'rated', labelKey: 'landing.featuresRated' },
+    { id: 'updated', labelKey: 'landing.featuresUpdated' },
+    { id: 'curated', labelKey: 'landing.featuresCurated' },
 ] as const;
 
 export function LandingHero({ onLuckyClick }: LandingHeroProps) {
     const { t } = useTranslation();
     const { animationsEnabled } = useAnimations();
-
-    const marqueeItems = [
+    const mapLabels = [
         t('landing.marqueeCoop'),
         t('landing.marqueeProfiles'),
         t('landing.marqueeDeals'),
         t('landing.marqueeBrowser'),
-        t('landing.marqueeLucky'),
     ];
 
-    const duplicatedMarquee = [...marqueeItems, ...marqueeItems];
-
     return (
-        <LandingSection className="pb-10 pt-12 sm:pt-16">
+        <LandingSection className="landing-hero-section">
             <motion.div
-                className="mx-auto max-w-5xl text-center"
+                className="landing-hero-grid"
                 variants={landingStaggerContainer}
                 initial="hidden"
                 animate="visible"
             >
-                <motion.div variants={landingSectionReveal} className="mb-6">
-                    <span className="landing-coin-badge inline-flex items-center gap-2">
-                        <Sparkles className="h-4 w-4 text-amber-400" aria-hidden="true" />
-                        {t('landing.badge')}
-                    </span>
-                </motion.div>
-
-                <motion.h1
-                    variants={landingSectionReveal}
-                    className="landing-display mb-4 text-5xl font-bold leading-[0.95] tracking-tight sm:text-7xl lg:text-8xl"
-                >
-                    <span className="block text-white drop-shadow-[0_0_24px_rgba(245,158,11,0.35)]">
-                        {t('landing.heroTitleLine1')}
-                    </span>
-                    <span className="block bg-gradient-to-r from-amber-300 via-yellow-400 to-amber-500 bg-clip-text text-transparent">
-                        {t('landing.heroTitleLine2')}
-                    </span>
-                </motion.h1>
-
-                <motion.p
-                    variants={landingSectionReveal}
-                    className="mx-auto mb-8 max-w-2xl text-lg text-stone-200/95 sm:text-xl"
-                >
-                    {t('landing.heroSubtitle')}
-                </motion.p>
-
-                <motion.div
-                    variants={landingSectionReveal}
-                    className="mb-10 flex flex-wrap items-center justify-center gap-3"
-                >
-                    <Button to="/catalog" size="lg" className="landing-cta-primary min-w-[11rem]">
-                        {t('landing.heroPrimaryCta')}
-                    </Button>
-                    <Button
-                        type="button"
-                        variant="secondary"
-                        size="lg"
-                        className="landing-cta-secondary min-w-[11rem] border-2 border-fuchsia-500/40 bg-stone-950/60 text-fuchsia-200 hover:border-fuchsia-400/60 hover:bg-fuchsia-500/10"
-                        onClick={onLuckyClick}
-                    >
-                        <Dices className="mr-2 h-5 w-5" aria-hidden="true" />
-                        {t('landing.heroSecondaryCta')}
-                    </Button>
-                </motion.div>
-
-                <motion.div
-                    variants={landingSectionReveal}
-                    className="mb-10 flex flex-wrap justify-center gap-3"
-                >
-                    {badgeConfig.map(({ id, icon: Icon, labelKey, tone }) => (
-                        <span key={id} className="landing-coin-badge">
-                            <Icon className={`h-4 w-4 ${tone}`} aria-hidden="true" />
-                            {t(labelKey)}
-                        </span>
-                    ))}
-                </motion.div>
-
-                {animationsEnabled ? (
-                    <motion.div
-                        variants={landingSectionReveal}
-                        className="landing-marquee-mask overflow-hidden"
-                        aria-hidden="true"
-                    >
-                        <div className="landing-marquee-track flex w-max gap-8">
-                            {duplicatedMarquee.map((item, index) => (
-                                <span
-                                    key={`${item}-${index}`}
-                                    className="landing-display whitespace-nowrap text-sm uppercase tracking-[0.25em] text-amber-400/70"
-                                >
-                                    {item}
-                                </span>
-                            ))}
-                        </div>
+                <div className="landing-hero-copy">
+                    <motion.div variants={landingSectionReveal} className="landing-hero-index">
+                        <span>AMIGOS DATABASE</span>
+                        <span>CO-OP / 001</span>
                     </motion.div>
-                ) : (
-                    <motion.p variants={landingSectionReveal} className="text-sm text-stone-400">
-                        {marqueeItems.join(' • ')}
+
+                    <motion.h1 variants={landingSectionReveal} className="landing-hero-title">
+                        <span>{t('landing.heroTitleLine1')}</span>
+                        <span className="landing-hero-title__accent">{t('landing.heroTitleLine2')}</span>
+                    </motion.h1>
+
+                    <motion.p variants={landingSectionReveal} className="landing-hero-lead">
+                        {t('landing.heroSubtitle')}
                     </motion.p>
-                )}
+
+                    <motion.div variants={landingSectionReveal} className="landing-hero-actions">
+                        <Button to="/room/new" size="lg" className="landing-cta-primary landing-action-primary">
+                            {t('landing.roomCta')}
+                            <ArrowUpRight className="ml-2 h-5 w-5" aria-hidden="true" />
+                        </Button>
+                        <Button to="/catalog" variant="secondary" size="lg" className="landing-action-secondary">
+                            <Gamepad2 className="mr-2 h-5 w-5" aria-hidden="true" />
+                            {t('landing.catalogCta')}
+                        </Button>
+                        <Button
+                            type="button"
+                            variant="ghost"
+                            size="lg"
+                            className="landing-action-lucky"
+                            onClick={onLuckyClick}
+                        >
+                            <Dices className="mr-2 h-5 w-5" aria-hidden="true" />
+                            {t('lucky.button')}
+                        </Button>
+                    </motion.div>
+                </div>
+
+                <motion.aside
+                    variants={landingSectionReveal}
+                    className="landing-decision-map"
+                    aria-hidden="true"
+                >
+                    <div className="landing-decision-map__header">
+                        <span className="flex items-center gap-2">
+                            <Radio className="h-4 w-4" />
+                            MESA ATIVA
+                        </span>
+                        <span className="landing-decision-map__live">AO VIVO</span>
+                    </div>
+
+                    <div className="landing-decision-map__field">
+                        <div className="landing-decision-map__center">
+                            <Users className="h-6 w-6" />
+                            <span>JOGO</span>
+                        </div>
+                        {mapLabels.map((label, index) => (
+                            <div
+                                key={label}
+                                className={`landing-decision-map__node landing-decision-map__node--${index + 1}`}
+                            >
+                                <span>{String(index + 1).padStart(2, '0')}</span>
+                                <strong>{label}</strong>
+                            </div>
+                        ))}
+                    </div>
+
+                    <div className="landing-decision-map__footer">
+                        <span>{t('landing.badge')}</span>
+                        <span>{t('landing.marqueeLucky')}</span>
+                    </div>
+                </motion.aside>
+
+                <motion.ol variants={landingSectionReveal} className="landing-hero-signals">
+                    {signalConfig.map(({ id, labelKey }, index) => (
+                        <li key={id}>
+                            <span>{String(index + 1).padStart(2, '0')}</span>
+                            <strong>{t(labelKey)}</strong>
+                        </li>
+                    ))}
+                </motion.ol>
+
+                {animationsEnabled ? <span className="landing-hero-cursor" aria-hidden="true" /> : null}
             </motion.div>
         </LandingSection>
     );

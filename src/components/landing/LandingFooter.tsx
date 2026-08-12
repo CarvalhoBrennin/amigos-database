@@ -13,7 +13,7 @@ export function LandingFooter() {
 
     return (
         <footer className="landing-footer relative z-10 border-t border-amber-500/15 py-8">
-            <div className="container mx-auto px-4 text-center">
+            <div className="landing-footer__inner mx-auto w-full text-center">
                 <nav
                     className="mb-4 flex flex-wrap items-center justify-center gap-x-4 gap-y-2"
                     aria-label={t('landing.navLabel')}

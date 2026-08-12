@@ -40,7 +40,7 @@ const gameCatalogSchema = z.object({
     type: z.enum(gameTypeIds),
     players: z
         .tuple([z.number().int().positive(), z.number().int().positive()])
-        .refine(([min, max]) => min <= max, 'Minimum players must be less than or equal to maximum players'),
+        .refine(([min, max]) => min <= max, 'O mínimo de jogadores deve ser menor ou igual ao máximo'),
     diff: z.enum(difficultyValues),
     rating: z.number().min(0).max(10),
     year: z.number().int().min(1970).max(2100),

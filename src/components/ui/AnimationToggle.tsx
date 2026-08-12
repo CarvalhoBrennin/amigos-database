@@ -12,7 +12,7 @@ export function AnimationToggle() {
         <motion.button
             type="button"
             onClick={() => toggleAnimations()}
-            className="fixed bottom-4 right-4 p-3 bg-orange-500 hover:bg-orange-600 text-white rounded-full shadow-lg z-50 flex items-center gap-2 transition-colors"
+            className="app-animation-toggle fixed bottom-4 right-4 p-3 bg-orange-500 hover:bg-orange-600 text-white rounded-full shadow-lg z-50 flex items-center gap-2 transition-colors"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
             aria-label={label}

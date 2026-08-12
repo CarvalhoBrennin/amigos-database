@@ -58,6 +58,7 @@ export function PageTransition() {
         <AnimatePresence mode="wait" initial={false}>
             <motion.div
                 key={location.pathname}
+                className="page-transition-frame"
                 variants={variants}
                 initial="initial"
                 animate="enter"

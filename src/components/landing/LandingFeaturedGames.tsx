@@ -12,14 +12,14 @@ export function LandingFeaturedGames() {
     const featuredGames = useFeaturedGames(6);
 
     return (
-        <LandingSection className="pb-14">
+        <LandingSection className="landing-content-section pb-14">
             <motion.div
                 initial="hidden"
                 whileInView="visible"
                 viewport={{ once: true, margin: '-40px' }}
                 variants={landingSectionReveal}
             >
-                <div className="mb-6 flex flex-wrap items-end justify-between gap-4">
+                <div className="landing-section-heading mb-6 flex flex-wrap items-end justify-between gap-4">
                     <div>
                         <p className="mb-1 text-xs font-bold uppercase tracking-[0.2em] text-cyan-400/90">
                             {t('landing.featuredEyebrow')}

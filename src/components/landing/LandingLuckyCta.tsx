@@ -20,32 +20,33 @@ export function LandingLuckyCta({ onLuckyClick }: LandingLuckyCtaProps) {
   const { animationsEnabled } = useAnimations();
 
   return (
-    <LandingSection className="pb-14">
+    <LandingSection className="landing-content-section pb-14">
       <motion.div
         initial="hidden"
         whileInView="visible"
         viewport={{ once: true, margin: "-40px" }}
         variants={landingSectionReveal}
-        className="landing-lucky-cabinet mx-auto max-w-4xl overflow-hidden rounded-2xl p-8 text-center sm:p-10"
+        className="landing-lucky-cabinet"
       >
-        <div className="mb-3 flex items-center justify-center gap-2 text-xs font-bold uppercase tracking-[0.3em] text-amber-300/80">
-          <Coins className="h-4 w-4" aria-hidden="true" />
+        <div className="landing-lucky-copy">
+          <div className="mb-3 flex items-center gap-2 text-xs font-bold uppercase tracking-[0.3em] text-amber-300/80">
+            <Coins className="h-4 w-4" aria-hidden="true" />
+            {t("landing.luckyEyebrow")}
+          </div>
 
-          {t("landing.luckyEyebrow")}
+          <h2 className="landing-display text-3xl font-bold text-white sm:text-4xl">
+            {t("landing.luckyHeadline")}
+          </h2>
+
+          <p className="mt-3 max-w-xl text-stone-300">
+            {t("landing.luckySub")}
+          </p>
         </div>
-
-        <h2 className="landing-display mb-3 text-3xl font-bold text-white sm:text-4xl">
-          {t("landing.luckyHeadline")}
-        </h2>
-
-        <p className="mx-auto mb-8 max-w-xl text-stone-300">
-          {t("landing.luckySub")}
-        </p>
 
         <motion.button
           type="button"
           onClick={onLuckyClick}
-          className="landing-cta-lucky inline-flex items-center gap-3 rounded-xl px-8 py-4 text-lg font-bold text-stone-950"
+          className="landing-cta-lucky inline-flex items-center justify-center gap-3 px-8 py-4 text-lg font-bold text-stone-950"
           whileHover={animationsEnabled ? { scale: 1.04 } : undefined}
           whileTap={animationsEnabled ? { scale: 0.98 } : undefined}
         >

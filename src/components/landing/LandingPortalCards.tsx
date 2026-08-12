@@ -44,15 +44,15 @@ export function LandingPortalCards() {
     const { t } = useTranslation();
 
     return (
-        <LandingSection className="pb-14">
-            <div className="mb-8 text-center">
+        <LandingSection className="landing-content-section pb-14">
+            <div className="landing-section-heading mb-8">
                 <h2 className="landing-display text-2xl font-bold text-white sm:text-3xl">
                     {t('landing.portalsSectionTitle')}
                 </h2>
             </div>
 
             <motion.div
-                className="mx-auto grid max-w-5xl gap-6 sm:grid-cols-2 lg:grid-cols-3"
+                className="landing-portals-grid grid gap-0 sm:grid-cols-2 lg:grid-cols-3"
                 variants={landingStaggerContainer}
                 initial="hidden"
                 whileInView="visible"
@@ -65,7 +65,7 @@ export function LandingPortalCards() {
                         <motion.div key={cabinet.key} variants={landingCabinetReveal}>
                             <Link to={cabinet.to} className="group block h-full">
                                 <article
-                                    className={`landing-cabinet landing-cabinet--${cabinet.tone} flex h-full flex-col p-6 transition-transform duration-200 group-hover:-translate-y-1`}
+                                    className={`landing-cabinet landing-cabinet--${cabinet.tone} flex h-full flex-col p-6`}
                                 >
                                     <Icon className="mb-4 h-11 w-11" aria-hidden="true" />
                                     <h3 className="landing-display mb-2 text-xl font-bold text-white">

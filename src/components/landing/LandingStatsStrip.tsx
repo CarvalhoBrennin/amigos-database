@@ -42,13 +42,13 @@ export function LandingStatsStrip() {
   ];
 
   return (
-    <LandingSection className="pb-16">
+    <LandingSection className="landing-content-section pb-16">
       <motion.div
         initial="hidden"
         whileInView="visible"
         viewport={{ once: true, margin: "-40px" }}
         variants={landingSectionReveal}
-        className="landing-scoreboard mx-auto grid max-w-3xl grid-cols-1 gap-4 sm:grid-cols-3 sm:gap-0"
+        className="landing-scoreboard grid grid-cols-1 gap-0 sm:grid-cols-3"
       >
         {stats.map((stat, index) => (
           <div

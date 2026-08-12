@@ -23,14 +23,14 @@ export function Navbar() {
     ];
 
     return (
-        <header className="sticky top-0 z-40 w-full border-b border-stone-800 bg-stone-950/80 backdrop-blur-sm">
-            <div className="container mx-auto px-4">
+        <header className="app-navbar sticky top-0 z-40 w-full border-b border-stone-800 bg-stone-950/80 backdrop-blur-sm">
+            <div className="app-navbar__inner mx-auto w-full px-4">
                 <div className="flex h-16 items-center justify-between">
-                    <Link to="/catalog" className="flex items-center gap-2 group">
-                        <div className="p-2 rounded-lg bg-amber-500/10 border border-amber-500/30 group-hover:bg-amber-500/20 transition-colors">
+                    <Link to="/catalog" className="app-navbar__brand flex items-center gap-2 group">
+                        <div className="app-navbar__mark p-2 rounded-lg bg-amber-500/10 border border-amber-500/30 group-hover:bg-amber-500/20 transition-colors">
                             <Gamepad2 className="h-5 w-5 text-amber-500" />
                         </div>
-                        <div className="flex flex-col">
+                        <div className="app-navbar__brand-copy flex flex-col">
                             <span className="font-bold text-lg text-stone-100 leading-tight">
                                 AMIGOS<span className="text-amber-500">DB</span>
                             </span>

@@ -30,7 +30,7 @@ export function LandingHeader() {
 
     return (
         <header className="landing-header sticky top-0 z-50 border-b border-amber-500/20 bg-stone-950/85 backdrop-blur-md">
-            <div className="container mx-auto px-4">
+            <div className="landing-header__inner mx-auto w-full">
                 <div className="flex h-16 items-center justify-between gap-4">
                     <Link to="/" className="group flex min-w-0 items-center gap-2.5">
                         <div className="landing-cabinet-icon rounded-xl border-2 border-amber-500/50 bg-amber-500/10 p-2 transition-colors group-hover:border-amber-400 group-hover:bg-amber-500/20">

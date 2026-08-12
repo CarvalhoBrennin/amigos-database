@@ -1,6 +1,5 @@
 import { type ReactNode, useLayoutEffect } from 'react';
 import { useTranslation } from 'react-i18next';
-import { useAnimations } from '@/components/animation-context';
 import { cn } from '@/lib/cn';
 
 interface LandingLayoutProps {
@@ -26,7 +25,6 @@ function restoreThemeFromStorage() {
 
 export function LandingLayout({ children }: LandingLayoutProps) {
     const { t } = useTranslation();
-    const { animationsEnabled } = useAnimations();
 
     useLayoutEffect(() => {
         const root = document.documentElement;
@@ -52,11 +50,7 @@ export function LandingLayout({ children }: LandingLayoutProps) {
 
             <div className="landing-overlay pointer-events-none fixed inset-0 z-[1]" aria-hidden="true" />
 
-            {animationsEnabled ? (
-                <div className="landing-scanlines pointer-events-none fixed inset-0 z-[2]" aria-hidden="true" />
-            ) : null}
-
-            <div className="relative z-10">{children}</div>
+            <div className="landing-page__content relative z-10">{children}</div>
         </div>
     );
 }
@@ -71,7 +65,7 @@ export function LandingSection({
     id?: string;
 }) {
     return (
-        <section id={id} className={cn('landing-section container mx-auto px-4', className)}>
+        <section id={id} className={cn('landing-section mx-auto w-full', className)}>
             {children}
         </section>
     );

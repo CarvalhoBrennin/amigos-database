@@ -8,7 +8,7 @@ export function Footer() {
     const repositoryUrl = toSafeExternalUrl(import.meta.env.VITE_REPOSITORY_URL);
 
     return (
-        <footer className="border-t border-stone-800 bg-stone-950 mt-auto">
+        <footer className="app-footer mt-auto border-t border-stone-800 bg-stone-950">
             <div className="container mx-auto px-4 py-8">
                 <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
                     {/* copyright */}
