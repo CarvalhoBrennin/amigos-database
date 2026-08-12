@@ -4,9 +4,19 @@ import path from 'path';
 
 export default defineConfig({
     plugins: [react()],
+    server: {
+        proxy: {
+            '/api': {
+                target: 'http://localhost:3001',
+                changeOrigin: false,
+                ws: true,
+            },
+        },
+    },
     resolve: {
         alias: {
             '@': path.resolve(__dirname, './src'),
+            '@shared': path.resolve(__dirname, './shared'),
         },
     },
     build: {
@@ -34,6 +44,7 @@ export default defineConfig({
         exclude: ['tests/e2e/**'],
         coverage: {
             provider: 'v8',
+            reportsDirectory: 'coverage/web',
             reporter: ['text', 'lcov', 'html'],
             include: [
                 'src/hooks/useGameDeal.ts',

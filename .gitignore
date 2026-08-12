@@ -1,5 +1,7 @@
 node_modules/
 dist/
+!vendor/core-utils/dist/
+dist-server/
 coverage/
 test-results/
 .DS_Store
