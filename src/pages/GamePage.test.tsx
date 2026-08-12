@@ -32,7 +32,7 @@ vi.mock('@/components/game/YouTubePlayer', () => ({
 }));
 
 vi.mock('@/hooks/useGameplayVideo', () => ({
-    useGameplayVideo: () => ({ videoId: null, startSeconds: 0, isLoading: false, hasKey: false }),
+    useGameplayVideo: () => ({ videoId: null, startSeconds: 0, isLoading: false }),
 }));
 
 const sampleGame: Game = {

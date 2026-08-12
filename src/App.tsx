@@ -21,6 +21,11 @@ const loadGamePage = () => import('@/pages/GamePage');
 const loadAboutPage = () => import('@/pages/AboutPage');
 const loadBrowserGamesPage = () => import('@/pages/BrowserGamesPage');
 const loadNotFoundPage = () => import('@/pages/NotFoundPage');
+const loadCreateRoomPage = () => import('@/pages/CreateRoomPage');
+const loadRoomPage = () => import('@/pages/RoomPage');
+const loadAdminPage = () => import('@/pages/AdminPage');
+// LOCAL VISUAL MOCK: remove this lazy import and its route below to delete the fixture.
+const loadRoomVisualMockPage = () => import('@/pages/RoomVisualMockPage');
 
 const LandingPage = lazy(async () => {
     const module = await loadLandingPage();
@@ -50,6 +55,26 @@ const BrowserGamesPage = lazy(async () => {
 const NotFoundPage = lazy(async () => {
     const module = await loadNotFoundPage();
     return { default: module.NotFoundPage };
+});
+
+const CreateRoomPage = lazy(async () => {
+    const module = await loadCreateRoomPage();
+    return { default: module.CreateRoomPage };
+});
+
+const RoomPage = lazy(async () => {
+    const module = await loadRoomPage();
+    return { default: module.RoomPage };
+});
+
+const AdminPage = lazy(async () => {
+    const module = await loadAdminPage();
+    return { default: module.AdminPage };
+});
+
+const RoomVisualMockPage = lazy(async () => {
+    const module = await loadRoomVisualMockPage();
+    return { default: module.RoomVisualMockPage };
 });
 
 function AppMotionConfig({ children }: { children: ReactNode }) {
@@ -107,11 +132,15 @@ function App() {
                                             }
                                         />
                                         <Route path="/inicio" element={<Navigate to="/" replace />} />
+                                        <Route path="/admin/*" element={<AdminPage />} />
                                         <Route element={<AppLayout />}>
                                             <Route path="/catalog" element={<HomePage />} />
                                             <Route path="/browser-games" element={<BrowserGamesPage />} />
                                             <Route path="/game/:id" element={<GamePage />} />
                                             <Route path="/about" element={<AboutPage />} />
+                                            <Route path="/room/new" element={<CreateRoomPage />} />
+                                            <Route path="/r/:code" element={<RoomPage />} />
+                                            {import.meta.env.DEV ? <Route path="/room/mock" element={<RoomVisualMockPage />} /> : null}
                                             <Route path="*" element={<NotFoundPage />} />
                                         </Route>
                                     </Routes>
