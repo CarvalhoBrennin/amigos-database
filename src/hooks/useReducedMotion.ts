@@ -7,7 +7,7 @@ export function useReducedMotion() {
     const [userPreference, setUserPreference] = useState<AnimationPreference>('system');
 
     useEffect(() => {
-        // prefers-reduced-motion do sistema
+        // Track the operating system reduced-motion preference.
         const mediaQuery = window.matchMedia('(prefers-reduced-motion: reduce)');
         setPrefersReducedMotion(mediaQuery.matches);
 
@@ -20,7 +20,7 @@ export function useReducedMotion() {
     }, []);
 
     useEffect(() => {
-        // preferência salva em localStorage
+        // Restore the user's saved animation preference.
         let savedPreference: string | null = null;
         let legacyPreference: string | null = null;
 
