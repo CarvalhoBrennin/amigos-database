@@ -8,11 +8,7 @@ interface GameplayVideoProps {
 }
 
 export function GameplayVideo({ game }: GameplayVideoProps) {
-    const { videoId, startSeconds, isLoading, hasKey } = useGameplayVideo(game);
-
-    if (!hasKey) {
-        return null;
-    }
+    const { videoId, startSeconds, isLoading } = useGameplayVideo(game);
 
     if (isLoading) {
         return (
