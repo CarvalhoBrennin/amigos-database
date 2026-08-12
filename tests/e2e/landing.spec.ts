@@ -10,14 +10,14 @@ test('landing shows hero, featured rail and catalog link', async ({ page }) => {
     await page.goto('/');
 
     await expect(page.getByRole('heading', { level: 1 })).toBeVisible();
-    await expect(page.getByRole('link', { name: /ver catálogo/i })).toBeVisible();
+    await expect(page.getByRole('link', { name: /explorar catálogo/i })).toBeVisible();
     await expect(page.getByRole('heading', { level: 2, name: /os mais bem avaliados/i })).toBeVisible();
 
     const featuredRail = page.getByRole('region', { name: /os mais bem avaliados/i });
     await expect(featuredRail).toBeVisible();
     await expect(featuredRail.locator('a').first()).toBeVisible();
 
-    await page.getByRole('link', { name: /ver catálogo/i }).first().click();
+    await page.getByRole('link', { name: /explorar catálogo/i }).click();
     await expect(page).toHaveURL(/\/catalog$/);
 });
 
@@ -43,4 +43,11 @@ test('landing footer links to catalog', async ({ page }) => {
 
     await page.getByRole('contentinfo').getByRole('link', { name: /catálogo/i }).click();
     await expect(page).toHaveURL(/\/catalog$/);
+});
+
+test('landing honors the system reduced-motion preference', async ({ page }) => {
+    await page.emulateMedia({ reducedMotion: 'reduce' });
+    await page.goto('/');
+
+    await expect(page.locator('html')).toHaveAttribute('data-animations', 'disabled');
 });
