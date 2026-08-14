@@ -88,6 +88,22 @@ npm run import:decision-data -- --file caminho/decision-data.json --apply
 
 Cada aplicação é transacional e rejeita URL não HTTPS, enum desconhecido, período inválido e payload inconsistente. Não existe `--force`. Consulte `data/imports/README.md` e os schemas em `shared/contracts/`.
 
+## Console administrativo
+
+O console protegido fica em `http://localhost:5173/admin` no desenvolvimento e usa uma sessão administrativa separada da sessão guest. O backend aplica cookie `HttpOnly`, `SameSite=Strict`, CSRF por requisição mutável, bloqueio progressivo de login, RBAC e auditoria append-only.
+
+Após aplicar as migrations, crie o primeiro super administrador usando uma variável temporária para que a senha nunca apareça no histórico do shell:
+
+```powershell
+$env:ADMIN_CREATE_PASSWORD = 'troque-por-uma-senha-com-12-caracteres'
+npm run admin:create -- --email admin@seu-dominio.tld --name 'Administrador principal' --role SUPER_ADMIN
+Remove-Item Env:ADMIN_CREATE_PASSWORD
+```
+
+O comando recusa senhas em argumentos e não substitui uma conta existente. O painel permite, conforme o papel, acompanhar o dashboard, moderar salas, revogar sessões, administrar outros administradores, manter os dados de decisão e referências, executar retenção e consultar a auditoria. `SUPER_ADMIN` é o único papel que pode excluir salas, executar retenção e administrar contas; o sistema impede que o último super administrador ativo seja rebaixado ou desativado.
+
+Em produção, execute `admin:create` somente como job operacional contra o banco correto, mantenha `ADMIN_CREATE_PASSWORD` fora de logs e remova a variável imediatamente após o comando. Nunca exponha `DATABASE_URL`, `SESSION_SECRET`, `TOKEN_PEPPER` ou a senha administrativa no frontend.
+
 ## Scripts principais
 
 | Comando | Descrição |

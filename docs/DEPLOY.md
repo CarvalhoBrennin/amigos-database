@@ -169,7 +169,21 @@ A rotina abre uma transação, remove idempotency keys expiradas, salas expirada
 
 Defina separadamente a retenção de logs no provedor. Antes da publicação pública, registre finalidade, dados coletados, cookies necessários, analytics, compartilhamentos, canal de contato/exclusão e base legal validada pela organização responsável.
 
-## 7. Observabilidade e alertas
+## 7. Console administrativo
+
+Crie a primeira conta administrativa como um job controlado, depois de aplicar as migrations no mesmo banco usado pela API:
+
+```bash
+export ADMIN_CREATE_PASSWORD='senha-temporaria-com-12-caracteres'
+DATABASE_URL=postgresql://... npm run admin:create -- --email admin@seu-dominio.tld --name 'Administrador principal' --role SUPER_ADMIN
+unset ADMIN_CREATE_PASSWORD
+```
+
+O job não aceita senha na linha de comando, não sobrescreve e-mail existente e grava o bootstrap na auditoria. O console web (`/admin`) usa sessão própria, cookie `HttpOnly`/`SameSite=Strict`, CSRF e permissões por papel. Restrinja a origin web em `WEB_ORIGIN`, não publique a rota em um domínio separado sem atualizar a allowlist e não envie segredos para o bundle do frontend.
+
+O papel `SUPER_ADMIN` é necessário para excluir salas, executar retenção e gerenciar contas. O último super administrador ativo não pode ser desativado ou rebaixado. Para rotação de credenciais, troque a senha pelo próprio console ou crie uma nova conta, valide o acesso e só então desative a anterior. Revise periodicamente `/admin/audit` e mantenha a retenção dos logs conforme a política aprovada.
+
+## 8. Observabilidade e alertas
 
 Colete logs JSON preservando `requestId`, `service` e `environment`. Não reidrate campos marcados `[REDACTED]` em outro collector.
 
@@ -185,7 +199,7 @@ Métricas estruturadas disponíveis:
 
 Alertas mínimos recomendados: readiness 503, aumento de 5xx, falhas de query, falhas de entrega realtime, saturação de conexões, latência de recomendação e erro do purge.
 
-## 8. Rollback
+## 9. Rollback
 
 - Frontend: reverta para o artefato estático anterior.
 - API: mantenha compatibilidade com o schema já migrado e reverta o processo.

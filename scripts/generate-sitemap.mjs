@@ -34,6 +34,7 @@ writeFileSync(join(rootDir, 'public/sitemap.xml'), sitemap, 'utf8');
 
 const robots = `User-agent: *
 Allow: /
+Disallow: /admin
 
 Sitemap: ${siteUrl}/sitemap.xml
 `;

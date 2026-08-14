@@ -459,13 +459,16 @@ export const adminSessions = pgTable('admin_sessions', {
     ipHash: text('ip_hash'),
     userAgentHash: text('user_agent_hash'),
 }, (table) => [
+    index('admin_sessions_user_active_idx')
+        .on(table.adminUserId, table.expiresAt)
+        .where(sql`${table.revokedAt} IS NULL`),
     index('admin_sessions_expires_at_idx').on(table.expiresAt),
     check('admin_sessions_expiry_check', sql`${table.expiresAt} > ${table.createdAt}`),
 ]);
 
 export const adminAuditLog = pgTable('admin_audit_log', {
     id: uuid('id').primaryKey(),
-    adminUserId: uuid('admin_user_id').references(() => adminUsers.id, { onDelete: 'set null' }),
+    adminUserId: uuid('admin_user_id').references(() => adminUsers.id, { onDelete: 'restrict' }),
     action: varchar('action', { length: 80 }).notNull(),
     entityType: varchar('entity_type', { length: 80 }).notNull(),
     entityId: varchar('entity_id', { length: 128 }),

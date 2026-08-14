@@ -253,6 +253,20 @@ describe('administrative console security and operations', () => {
         expect(demoteLastRoot.json()).toMatchObject({ code: 'LAST_SUPER_ADMIN_REQUIRED' });
     });
 
+    it('prevents deleting an administrator while preserving its audit history', async () => {
+        const email = 'undeletable-admin@example.test';
+        const userId = await insertAdmin('SUPER_ADMIN', email, 'senha-segura-undeletable');
+        await login(email, 'senha-segura-undeletable');
+
+        await expect(database.pool.query('DELETE FROM admin_users WHERE id = $1', [userId]))
+            .rejects.toMatchObject({ code: '23503' });
+        const audit = await database.pool.query<{ total: number }>(
+            'SELECT COUNT(*)::int AS total FROM admin_audit_log WHERE admin_user_id = $1',
+            [userId]
+        );
+        expect(audit.rows[0]?.total).toBeGreaterThan(0);
+    });
+
     it('scopes administrative sessions and allows safe revocation', async () => {
         await insertAdmin('SUPER_ADMIN', 'root-sessions@example.test', 'senha-segura-das-sessoes');
         await insertAdmin('VIEWER', 'viewer-sessions@example.test', 'senha-segura-do-viewer');

@@ -121,6 +121,7 @@ export function AdminPagination({ page, totalPages, total, onChange }: {
     );
 }
 
+// eslint-disable-next-line react-refresh/only-export-components
 export function formatAdminDate(value: string | null): string {
     if (!value) return '—';
     return new Intl.DateTimeFormat('pt-BR', {
@@ -129,6 +130,7 @@ export function formatAdminDate(value: string | null): string {
     }).format(new Date(value));
 }
 
+// eslint-disable-next-line react-refresh/only-export-components
 export function getAdminErrorMessage(error: unknown): string {
     if (error instanceof Error) return error.message;
     return 'Ocorreu um erro inesperado.';
