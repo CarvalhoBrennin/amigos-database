@@ -181,6 +181,7 @@ function validateTemporalProvenance(
 
 export type DecisionDataStatus = z.infer<typeof decisionDataStatusSchema>;
 export type GameDecisionProfile = z.infer<typeof gameDecisionProfileSchema>;
+export type DecisionDataGameImport = z.infer<typeof decisionDataGameImportSchema>;
 export type GamePlatformOffering = z.infer<typeof gamePlatformOfferingSchema>;
 export type GameNetworkPool = z.infer<typeof gameNetworkPoolSchema>;
 export type GameSubscriptionAvailability = z.infer<typeof gameSubscriptionAvailabilitySchema>;

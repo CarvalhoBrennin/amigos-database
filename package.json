@@ -28,6 +28,7 @@
     "import:subscriptions": "tsx server/src/scripts/import-subscriptions.ts",
     "import:prices": "tsx server/src/scripts/import-prices.ts",
     "audit:decision-data": "tsx server/src/scripts/audit-decision-data.ts",
+    "research:games": "tsx server/src/scripts/research-games.ts",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "check:i18n": "node scripts/check-i18n-keys.mjs",

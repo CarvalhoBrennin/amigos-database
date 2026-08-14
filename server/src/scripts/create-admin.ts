@@ -54,8 +54,8 @@ try {
             `INSERT INTO admin_audit_log (
                 id, admin_user_id, action, entity_type, entity_id,
                 request_id, metadata, created_at
-            ) VALUES ($1,$2,'ADMIN_USER_BOOTSTRAPPED','ADMIN_USER',$2,$3,$4,$5)`,
-            [randomUUID(), userId, `cli:create-admin:${randomUUID()}`, JSON.stringify({ role: input.role }), now]
+            ) VALUES ($1,$2,'ADMIN_USER_BOOTSTRAPPED','ADMIN_USER',$3,$4,$5,$6)`,
+            [randomUUID(), userId, userId, `cli:create-admin:${randomUUID()}`, JSON.stringify({ role: input.role }), now]
         );
         await client.query('COMMIT');
     } catch (error) {
